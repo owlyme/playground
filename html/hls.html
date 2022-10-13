@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>hls.js</title>
+    <!-- <link rel="stylesheet" href="./index.css"> -->
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+
+<body>
+
+    <video id="video" controls  width="600px"></video>
+    <script charset="utf-8">
+        var Hls = window.Hls
+        var url = 'https://open.ys7.com/v3/openlive/G81384772_1_1.m3u8?expire=1645237128&id=414727444714688512&t=8984ea670e98099e9053a52f0c5da0a9a762f5c3801897c1e4b5d941b4c728b6&ev=100'
+    
+        if (Hls.isSupported()) {
+            var hls = new Hls()
+            hls.loadSource(url)
+            hls.attachMedia(video)
+            hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                // video.play()
+            })
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+            video.src = url
+            video.addEventListener('canplay', function () {
+                // video.play()
+            })
+        }
+
+    </script>
+</body>
+
+</html>

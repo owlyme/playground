@@ -1,0 +1,8 @@
+[build_info]
+enable-ccover = 
+source-with-patch = no
+the-build-args-of-CC = 
+module = baidu/bce-multimedia/cyberplayer
+revision = 
+git_url = ssh://changyanlong01@icode.baidu.com:8235/baidu/bce-multimedia/cyberplayer
+git_version = 204a97b49718264ea6d3e23751f7c980aecc45d4

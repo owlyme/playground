@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            position: relative;
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+
+        video {
+            width: 100%;
+            height: 100%;
+            display: block;
+            background-color: #000;
+        }
+
+        video:focus,
+        video:active {
+            outline: none;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/chimee@0.12.0/lib/index.browser.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chimee-kernel-flv@1.4.11/lib/index.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chimee-kernel-hls@1.3.2/lib/index.browser.min.js"></script>
+</head>
+
+<body>
+
+
+    <div id="wrapper">
+    </div>
+    <script>
+
+        const chimee = new Chimee({
+            wrapper: '#wrapper',
+            src: 'https://open.ys7.com/v3/openlive/G81384772_1_1.m3u8?expire=1645237128&id=414727444714688512&t=8984ea670e98099e9053a52f0c5da0a9a762f5c3801897c1e4b5d941b4c728b6&ev=100',
+            controls: true,
+            autoplay: true,
+            kernels: {
+                flv: chimeeKernelFlv,
+                hls: ChimeeKernelHls
+            }
+        });
+  
+    </script>
+</body>
+
+</html>

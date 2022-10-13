@@ -1,0 +1,6 @@
+{
+    "plugins": [
+        "./plugin/cleanannotation"
+    ]
+    // "comments": false
+}

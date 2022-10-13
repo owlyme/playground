@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script lang="javascript" src="http://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios@0.26.1/dist/axios.min.js"></script>
+</head>
+<body>
+    <input type="file" id="input_dom_element">
+    <div id="table"></div>
+
+<script>
+    async function handleFileAsync(e) {
+  const file = e.target.files[0];
+  const data = await file.arrayBuffer();
+  /* data is an ArrayBuffer */
+  const workbook = XLSX.read(data);
+
+  /* DO SOMETHING WITH workbook HERE */
+  console.log(workbook)
+  var first_worksheet = workbook.Sheets[workbook.SheetNames[0]];
+
+    console.log(XLSX.utils.sheet_to_json(first_worksheet, {
+      header:1, 
+      raw:false}))
+  
+}
+
+axios({
+  method: 'get',
+  url: 'https://oss-store.coolcollege.cn/doc/sop/59709790945611595.xlsx',
+  responseType: 'arraybuffer'
+})
+  .then(function (response) {
+    console.log(response)
+    const workbook = XLSX.read(response.data);
+    console.log(workbook)
+    var first_worksheet = workbook.Sheets[workbook.SheetNames[0]];
+
+    console.log(XLSX.utils.sheet_to_json(first_worksheet, {
+      header:1, 
+      raw:false}))
+    
+     document.getElementById('table').innerHTML =  XLSX.utils.sheet_to_html(first_worksheet);
+  });
+input_dom_element.addEventListener("change", handleFileAsync, false);
+</script>
+</body>
+</html>

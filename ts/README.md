@@ -1,0 +1,4 @@
+### playground
+https://www.typescriptlang.org/play?#code/MYewdgzgLgBAJgQygmBeGBtA3gaQKYCeAXDAKwBsAvgDQy6EkCuYceAZgJZh5w11-1iMACzDKAXQBQk0JFgBrQhDTwkCAHQAnHo2B4AFPoAO2gG61gjTZoCUaAHx1JMGBzYx9l6+vwE7WZxcYbSgrMEx1SJM8cxgvTR9CcQBuQMoYPAAbCDxgvFDNcOjTVL4McRtkoA
+
+p7
