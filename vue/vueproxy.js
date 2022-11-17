@@ -1,40 +1,32 @@
 const Observer = function (data) {
     // 循环修改为每个属性添加get set
-    for (let key in data) {
-        defineReactive(data, key);
-    }
+    // for (let key in data) {
+       return defineReactive(data);
+    // }
 }
 
-const defineReactive = function (obj, key) {
+const defineReactive = function (obj1) {
     // 局部变量dep，用于get set内部调用
     const dep = new Dep();
-    // 获取当前值
-    let val = obj[key];
-    Object.defineProperty(obj, key, {
-        // 设置当前描述属性为可被循环
-        enumerable: true,
-        // 设置当前描述属性可被修改
-        configurable: true,
-        get() {
-            console.log('in get');
-            // 调用依赖收集器中的addSub，用于收集当前属性与Watcher中的依赖关系
+ 
+    const handler = {
+        get: function(obj, prop) {
             dep.depend();
-            return val;
+            return obj[prop];
         },
-        set(newVal) {
-            if (newVal === val) {
-                return;
-            }
-            val = newVal;
-            // 当值发生变更时，通知依赖收集器，更新每个需要更新的Watcher，
-            // 这里每个需要更新通过什么断定？dep.subs
+        set: function(obj, prop, value) {
+            if (obj[prop] === value) return;
+            obj[prop] = value
             dep.notify();
+            return true
         }
-    });
+    };
+
+   return new Proxy(obj1, handler);
 }
 
 const observe = function (data) {
-    return new Observer(data);
+    return defineReactive(data);
 }
 
 const Vue = function (options) {
@@ -49,14 +41,14 @@ const Vue = function (options) {
     }
     // 渲染函数
     this.render = function () {
-        console.log('render')
-        const app = document.querySelector("#app")
+        console.log('render', self._data);
+        const app = document.querySelector("#app");
         with (self) {
             app.innerHTML = `${_data.text}`
         }
     }
     // 监听this._data
-    observe(this._data);
+    this._data = observe(this._data);
 }
 
 const Watcher = function (vm, render) {
@@ -118,11 +110,6 @@ const vue1 = new Vue({
 })
 
 
-
-vue1.mount(); // in get
-
-
-
-
+vue1.mount();
 
 // vue._data.text = '123'; // in watcher update /n in get
