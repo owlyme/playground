@@ -1,5 +1,2 @@
-var a = 0;
-function fn(a) {
-    return a;
-}
+var a = 123;
 //# sourceMappingURL=index.js.map

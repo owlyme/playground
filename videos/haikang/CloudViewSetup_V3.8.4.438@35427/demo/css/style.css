@@ -1,0 +1,86 @@
+.video-switch {
+  height: 48px;
+  width: 900px;
+  background: #333333;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.video-switch-tab {
+  height: 48px;
+  margin: 0 auto;
+  transition: transform 0.3s;
+  position: relative;
+}
+
+.video-switch-tab-line {
+  position: absolute;
+  width: 88px;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background-color: #e72528;
+  z-index: 1;
+  transition: 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.video-switch-tab-btn {
+  font-size: 12px;
+  font-weight: 801;
+  float: left;
+  font-family: "MicrosoftYaHei-Bold";
+  line-height: 48px;
+  color: #fff;
+  opacity: 0.6;
+  width: 88px;
+  box-sizing: content-box;
+  text-align: center;
+}
+
+#playWnd {
+  background: #333333
+}
+
+.left {
+  width: 450px;
+  float: left;
+  margin: 50px;
+}
+
+.right {
+  float: left;
+  margin: 50px;
+}
+
+.tab-active {
+  opacity: 1;
+}
+
+.input-group {
+  /* width: 550px; */
+  height: 200px;
+}
+
+body {
+  position: relative;
+}
+
+.tips {
+  position: fixed;
+  left: 0;
+  z-index: 100;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity .5s;
+}
+
+.fade-enter,
+.fade-leave-to
+
+/* .fade-leave-active below version 2.1.8 */
+  {
+  opacity: 0;
+}
