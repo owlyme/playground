@@ -7,7 +7,12 @@
     "typescript": "^4.8.4"
   },
   "scripts": {
+<<<<<<< HEAD
     "init" : "tsc --init",
     "build": "tsc"
+=======
+    "build": "tsc",
+    "watch": "tsc --watch"
+>>>>>>> 267ea43 (20221120)
   }
 }

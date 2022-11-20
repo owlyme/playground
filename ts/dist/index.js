@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "use strict";
 var __classPrivateFieldGet = (this && this.__classPrivateFieldGet) || function (receiver, state, kind, f) {
     if (kind === "a" && !f) throw new TypeError("Private accessor was defined without a getter");
@@ -23,3 +24,7 @@ class Sub extends Base {
 }
 const instance = new Sub();
 instance.ispub;
+=======
+var a = 123;
+//# sourceMappingURL=index.js.map
+>>>>>>> 267ea43 (20221120)

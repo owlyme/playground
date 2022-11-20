@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import type { NG } from "./types";
 const fn1 = <T>(input: T) => input;
 fn1(1)
@@ -106,3 +107,6 @@ p(123).then(res => {
 })
 
 let ng:NG = 123
+=======
+const a = 123;
+>>>>>>> 267ea43 (20221120)
