@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Document</title>
+
+  <link href="./css/bootstrap.min.css" rel="stylesheet" />
+  <link href="./css/animate.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="./css/style.css" />
+  <link rel="stylesheet" href="./css/element.css" />
+</head>
+
+<body>
+  <div id="app">
+    <transition name="fade">
+      <div class="alert alert-success tips" role="alert" v-if="tipsShow"
+        :class="{'alert-success':successTip,'alert-warning':!successTip}">
+        <h4 class="alert-heading">{{ tips }}</h4>
+      </div>
+    </transition>
+    <div class="left">
+      <div class="form-group">
+        <label for="appKey">appKey</label>
+        <input class="form-control" id="appKey" placeholder="Enter appKey" v-model="appKey" />
+      </div>
+      <div class="form-group">
+        <label for="ezvizToken">token</label>
+        <input class="form-control" id="ezvizToken" placeholder="Enter ezvizToken" v-model="ezvizToken" />
+      </div>
+	  <div class="form-group">
+        <label for="deviceClass">协议类型</label>
+        <select class="form-control" v-model="deviceClass">
+          <option value="0">海康协议</option>
+          <option value="1">国标协议</option>
+        </select>
+      </div>
+	  <div class="form-group" v-if="deviceClass === '1'">
+        <label for="platID">platformId</label>
+        <input class="form-control" id="platformId" placeholder="Enter platformId" v-model="platformId" />
+      </div>
+      <button type="button" class="btn btn-primary" @click="initVideo">
+        设置初始化参数
+      </button>
+      <div class="form-group">
+        <label for="deviceSerial">设备序列号</label>
+        <input class="form-control" id="deviceSerial" placeholder="Enter deviceSerial" v-model="deviceSerial" />
+      </div>
+      <div class="form-group">
+        <label for="channelNo">通道号</label>
+        <input class="form-control" id="channelNo" placeholder="Enter channelNo" v-model="channelNo" />
+      </div>
+      <button type="button" class="btn btn-primary" @click="playVideo">
+        播放视频
+      </button>
+      <button type="button" class="btn btn-primary" @click="StartMultiPreview">
+        批量播放
+      </button>
+    </div>
+    <div class="right">
+      请输入控件布局（仅支持0-15）<input type="number" max="15" min="0" v-model="layout"><br><br>
+      请输入回放开始时间<input v-model="startTime">&emsp;结束时间<input v-model="endTime"><br><br>
+      请输入声音关联视频窗口(-1为当前鼠标选中窗口，从0开始)<input v-model="volumeInfo.index"><br><br>
+      声音开关：<el-switch v-model="volumeInfo.volumeSwitch" @change="volumnChange"  :active-value="1" :inactive-value="0"></el-switch>
+      声音大小：<el-slider v-model="volumeInfo.volume" :disabled="!volumeInfo.volumeSwitch" @change="volumnChange" style="width:300px;display:inline-block;vertical-align:middle;"></el-slider>
+      <br><br>
+      <button type="button" class="btn btn-primary" @click="hideVideo">
+        隐藏
+      </button>
+      <button type="button" class="btn btn-primary" @click="showVideo">
+        显示
+      </button>
+      <button type="button" class="btn btn-primary" @click="GetLayout">
+        读窗口数
+      </button>
+      <button type="button" class="btn btn-primary" @click="CaptureJPGEx">
+        抓图
+      </button>
+      <button type="button" class="btn btn-primary" @click="alarmMsg">
+        报警打点
+      </button>
+      <button type="button" class="btn btn-primary" @click="syncVolumn">
+        同步声音状态
+      </button>
+	  <button type="button" class="btn btn-primary" @click="StopAllPreview">
+        停止全部预览
+      </button>
+	  <button type="button" class="btn btn-primary" @click="StopAllPlayback">
+        停止全部回放
+      </button>	  
+      <button type="button" class="btn btn-primary" @click="startTalk">
+        打开对讲
+      </button>
+      <button type="button" class="btn btn-primary" @click="stopTalk">
+        停止对讲
+      </button>
+      <div class="video-switch">
+        <div class="video-switch-tab">
+          <div class="video-switch-tab-line" :style="switchLineStyle"></div>
+          <div class="video-switch-tab-btn" @click="switchTo(0)"
+            :class="{'tab-active':(switchVideo===0?true : false )}">
+            实时预览
+          </div>
+          <div class="video-switch-tab-btn" @click="switchTo(1)"
+            :class="{'tab-active':(switchVideo===1?true : false )}">
+            录像回放
+          </div>
+          <div class="video-switch-tab-btn" @click="switchTo(5)"
+            :class="{'tab-active':(switchVideo===5?true : false )}">
+            融合模式
+          </div>
+        </div>
+      </div>
+      <div id="playWnd" style="width: 900px;height:500px;"></div>
+      <div class="input-group" style="margin:20px 0">
+        <div class="input-group-prepend">
+          <span class="input-group-text">事件回调信息</span>
+        </div>
+        <textarea class="form-control" rows="10" cols="20" v-model="callbackMessage"></textarea>
+      </div>
+    </div>
+  </div>
+
+  <script src="./js/webcontrol-1.1.5/web-control.min.js"></script>
+  <script src="./js/vue.min.js"></script>
+  <script src="./js/element.js"></script>
+  <script src="./js/index.js"></script>
+</body>
+
+</html>

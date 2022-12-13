@@ -48,7 +48,6 @@ class VideoRecorder {
         });
         this.recorder = recorder;
         this.ondataavailable()
-        
     }
     drawFrame= () => {
         console.log("drawFrame")
@@ -73,5 +72,4 @@ class VideoRecorder {
         cancelAnimationFrame(this.frameId);
         download(this.chunks);
     }
-    
 }

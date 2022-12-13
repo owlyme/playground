@@ -1,0 +1,165 @@
+.draw-panal .time-line-body {
+  background: 0 0;
+}
+.draw-panal .hover-panal {
+  position: absolute;
+  height: 36px;
+  top: -36px;
+  width: 136px;
+}
+.draw-panal .hover-panal .hover-time {
+  text-align: center;
+  background: #333;
+  height: 28px;
+  line-height: 28px;
+  color: #fff;
+  font-size: 12px;
+  border-radius: 2px;
+  position: relative;
+  z-index: 2;
+}
+.draw-panal .hover-panal .down-angle {
+  width: 12px;
+  height: 10px;
+  background: #333;
+  position: absolute;
+  bottom: 5px;
+  left: 54px;
+  transform: rotate(60deg) skew(30deg);
+  z-index: 1;
+}
+.scale {
+  display: inline-block;
+  width: 200px;
+  vertical-align: top;
+  height: 16px;
+  line-height: 16px;
+  vertical-align: top;
+  margin-top: 16px;
+  position: absolute;
+  left: 4%;
+  top: 0;
+}
+.scale svg {
+  cursor: pointer;
+}
+.scale .dot-container {
+  display: inline-block;
+  height: 16px;
+  width: 60px;
+  position: relative;
+  background: #fff;
+  height: 2px;
+  margin: 7px 10px;
+  line-height: 16px;
+  vertical-align: top;
+}
+.scale .dot-container .dot-container-dot {
+  display: inline-block;
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background: #fff;
+  border-radius: 100%;
+  top: -3.5px;
+  left: 0;
+}
+.current-time {
+  display: inline-block;
+  width: 130px;
+  line-height: 48px;
+  height: 48px;
+  background: #515151;
+  text-align: center;
+  color: #fff;
+  font-size: 12px;
+  position: absolute;
+  left: calc(50% - 50px);
+}
+.video-area {
+  display: inline-block;
+  width: 100vw;
+  vertical-align: top;
+  background: #333;
+  position: relative;
+}
+.canvas-container {
+  vertical-align: top;
+}
+.video-area #play_info {
+  position: absolute;
+  bottom: 30px;
+  left: 10px;
+  color: #fff;
+  vertical-align: top;
+}
+.panel-bottom {
+  display: inline-block;
+  width: 100vw;
+  height: 48px;
+  background: #3d3d3d;
+  vertical-align: top;
+  position: relative;
+  user-select: none;
+}
+.panel-bottom .contros {
+  display: inline-block;
+  position: absolute;
+  right: 10px;
+  top: 16px;
+}
+.panel-bottom .contros #video-hd {
+  cursor: pointer;
+  color: #fff;
+  font-size: 12px;
+  line-height: 18px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 5px;
+}
+.panel-bottom .contros svg {
+  margin-right: 10px;
+  cursor: pointer;
+}
+.panel-top {
+  display: inline-block;
+  height: 48px;
+  width: 100vw;
+  background: #3d3d3d;
+  vertical-align: top;
+  position: relative;
+}
+.panel-top .deviceSerial {
+  display: inline-block;
+  color: #fff;
+  line-height: 48px;
+  margin-left: 20px;
+}
+.panel-top .contros {
+  display: inline-block;
+  position: absolute;
+  right: 10px;
+  top: 16px;
+}
+.panel-top .contros svg {
+  margin-right: 10px;
+  cursor: pointer;
+}
+.hide {
+  display: none;
+}
+.modal-body .time .time-label {
+  display: inline-block;
+  line-height: 30px;
+  vertical-align: top;
+}
+.modal-body .time .time-value {
+  display: inline-block;
+}
+.modal-body .time .time-value label {
+  display: inline-block;
+}
+.btn-size {
+  width: 65px;
+  height: 65px;
+}

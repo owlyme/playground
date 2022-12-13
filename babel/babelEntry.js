@@ -4,8 +4,6 @@ const babel = require("@babel/core");
 const filename = "./src/debugger.js";
 const source = fs.readFileSync(filename, "utf8");
 
-
-
 const res = babel.transformSync(source, {
   // presets: ["minify"],
   // babelrc: fals
@@ -13,10 +11,18 @@ const res = babel.transformSync(source, {
   inputSourceMap: true,
   comments: false,
   plugins: [
-    './plugin/cleandebugger'
+    () => {
+      return {
+          visitor: {
+              DebuggerStatement(path) {
+                  path.remove()
+              }
+          }
+      }
+  }
   ],
 });
 
-// console.log(res.code)
+console.log(res.code)
 
-fs.writeFileSync("./dist/index.js", res.code, "utf-8")
+// fs.writeFileSync("./dist/index.js", res.code, "utf-8")
