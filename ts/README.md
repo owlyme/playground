@@ -12,7 +12,7 @@ dbf.ch≥hfdueydsdhsun
 1. union type : 交集 
 2. literal type
 3. object type
-4. arry type
+4. array type
 5. tuple
 6. interface 
     readonly
