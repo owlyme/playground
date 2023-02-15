@@ -1,0 +1,1 @@
+(self.webpackChunkkuxueyuan_manage=self.webpackChunkkuxueyuan_manage||[]).push([[425],{39181:function(l,n,e){"use strict";e.r(n);var a=e(12924),t=e.n(a);function c(){var u="".concat("https://sdn.coolcollege.cn","/coolcollege-h5/zara/assets/no_right_bg.png");return t().createElement("div",null,t().createElement("img",{src:u,style:{width:"100%"}}))}n.default=c}}]);

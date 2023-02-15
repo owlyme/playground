@@ -13,6 +13,7 @@ const getOriginFile = async (fileUrl, callback) => {
     }
     return new Promise((resolve, reject) => {
         _http.get(fileUrl, (res) => {
+            console.log(res.headers)
             // console.log('statusCode:', res.statusCode);
             // console.log('headers:', res.headers);
             let chunk = null
@@ -32,21 +33,19 @@ const getOriginFile = async (fileUrl, callback) => {
     })
 }
 
-const writeFileStream = (filename, chunk) => {
-    const filePath = createCwd(filename)
+const writeFileStream = (filePath) => {
     // 文件是否存在
     if(!fs.existsSync(filePath)) {
         fs.writeFileSync(filePath,  '', { encoding: 'utf-8' })
     }
+    
+    const file = fs.createWriteStream(filePath,  { encoding: 'utf-8' });
 
-    const file = fs.createWriteStream(filePath);
-    // file.write(chunk);
-    // file.end('world!');
     return file
 }
 
 const resFiles = async (arr, filename) => {
-   const stream = writeFileStream(filename);
+   const stream = writeFileStream(createCwd(filename));
     for (let i = 0; i < arr.length ; i++) {
         await getOriginFile(arr[i], (chunk) => {
             stream.write(chunk);
@@ -65,4 +64,8 @@ const resFiles = async (arr, filename) => {
 
 // resFiles(url, 'vue@2.6.14-vuex@3.5.1-vue-router@3.4.9.min.js')
 
+resFiles.getOriginFile = getOriginFile
+resFiles.writeFileStream = writeFileStream
+
 module.exports = resFiles
+

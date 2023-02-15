@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>邀你使用企业智能化培训平台</title>
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <meta
+      name="Keywords"
+      content="酷学院,企业知识服务,企业培训视频,企业学习中心,企业培训内容,企业在线学习内容,企业大学课程,培训课程,销售培训课程,员工提升课程,企业知识中心,企业课程中心,酷学院选课中心"
+    />
+    <meta
+      name="description"
+      content="企业智能化培训平台已开通40+功能体验，上万门课程畅学，还有企业专属知识库，赋能全体成员，快来使用起来吧！"
+    />
+    <meta name="wpk-bid" content="dta_3_2018121762570007" />
+    <!-- <meta name="referrer" content="no-referrer" /> -->
+    <!-- <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /> -->
+    <link
+      rel="stylesheet"
+      href="https://g.alicdn.com/de/prismplayer/2.9.11/skins/default/aliplayer-min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://oss.coolcollege.cn/swiper_3.4.2.css"
+      charset="UTF-8"
+    />
+    <link href="./loading.css" />
+    <style>
+      #app-loading {
+        position: absolute;
+        z-index: 2;
+        width: 100vw;
+        height: 100vh;
+        top: 0;
+        left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #fff;
+        overflow: hidden;
+        background-size: cover;
+      }
+      #manage-tips {
+        position: fixed;
+        right: 0;
+        bottom: 50%;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: #fff;
+        font-size: 16px;
+        padding: 8px 12px;
+        z-index: 99;
+      }
+    </style>
+    <script>
+      // bid,不同应用更换不同的bid，bid在管理后台，控制中心获取
+      if (navigator.userAgent.toLowerCase().indexOf("dingtalk") > -1) {
+        // 钉钉环境引入钉钉人事监控
+        !(function (c, i, e, b) {
+          var h = i.createElement("script");
+          var f = i.getElementsByTagName("script")[0];
+          h.type = "text/javascript";
+          h.crossorigin = true;
+          h.onload = function () {
+            c[b] ||
+              (c[b] = new c.wpkReporter({ bid: "dta_3_2018121762570007" }));
+            c[b].installAll();
+          };
+          f.parentNode.insertBefore(h, f);
+          h.src = e;
+        })(
+          window,
+          document,
+          "https://g.alicdn.com/woodpeckerx/jssdk??wpkReporter.js",
+          "__wpk"
+        );
+      }
+    </script>
+
+    <script>
+      // 加载成功后删除loading
+      function removeLoading() {
+        const loading = document.getElementById("app-loading");
+        loading.parentNode.removeChild(loading);
+      }
+    </script>
+    <link
+      rel="stylesheet"
+      href="https://sdn.coolcollege.cn/cool-training-pc-module/ding_store/1.230208.144353/styles.1c3aa401.css"
+    />
+    <script>
+      window.routerBase = "/";
+    </script>
+    <script>
+      //! umi version: 3.5.18
+    </script>
+  </head>
+  <body onload="removeLoading()">
+    <div id="root"></div>
+    <!--酷学院pc端-->
+    <script src="//at.alicdn.com/t/font_1107055_2heupf6gl9x.js"></script>
+    <!-- pc端 -->
+    <script src="//at.alicdn.com/t/font_969756_o5g4me64jn9.js"></script>
+    <!-- 新版移动端 -->
+    <script src="//at.alicdn.com/t/font_903536_1juyuuhoetz.js"></script>
+    <!-- 企业微信sdk -->
+    <script src="https://g.alicdn.com/dingding/dingtalk-microapp-open/0.4.8/index.js"></script>
+    <script
+      src="https://g.alicdn.com/de/prismplayer/2.9.11/aliplayer-min.js"
+      type="text/javascript"
+      charset="utf-8"
+      defer=""
+    ></script>
+    <script
+      src="https://oss.coolcollege.cn/coolcollege/js/aliyun-oss-sdk-5.2.0.min.js"
+      charset="UTF-8"
+      defer=""
+    ></script>
+    <script
+      src="https://oss.coolcollege.cn/coolcollege/js/aliyun-upload-sdk-1.4.0.min.js"
+      charset="UTF-8"
+      defer=""
+    ></script>
+    <script
+      src="https://oss.coolcollege.cn/qrcode.min.js"
+      type="text/javascript"
+      charset="UTF-8"
+      defer=""
+    ></script>
+    <script
+      src="https://oss.coolcollege.cn/swiper_3.4.2.js"
+      charset="UTF-8"
+      defer=""
+    ></script>
+    <script
+      src="https://rescdn.qqmail.com/node/ww/wwopenmng/js/sso/wwLogin-1.0.0.js"
+      defer=""
+    ></script>
+
+    <script>
+      let server_url =
+        "https://sensorsdata.coolcollege.cn:8106/sa?project=production";
+      const onlineEnv = [
+        "https://coolapi",
+        "https://hdcoolapi",
+        "https://grcoolapi",
+      ];
+      try {
+        const isTest = onlineEnv.every(
+          (item) => !"https://app123492.eapps.dingtalkcloud.com".includes(item)
+        );
+        if (isTest) {
+          server_url = "https://sensorsdata.coolcollege.cn:8106/sa";
+        }
+      } catch (error) {}
+
+      (function (para) {
+        var p = para.sdk_url,
+          n = para.name,
+          w = window,
+          d = document,
+          s = "script",
+          x = null,
+          y = null;
+        if (typeof w["sensorsDataAnalytic201505"] !== "undefined") {
+          return false;
+        }
+        w["sensorsDataAnalytic201505"] = n;
+        w[n] =
+          w[n] ||
+          function (a) {
+            return function () {
+              (w[n]._q = w[n]._q || []).push([a, arguments]);
+            };
+          };
+        var ifs = [
+          "track",
+          "quick",
+          "register",
+          "registerPage",
+          "registerOnce",
+          "trackSignup",
+          "trackAbtest",
+          "setProfile",
+          "setOnceProfile",
+          "appendProfile",
+          "incrementProfile",
+          "deleteProfile",
+          "unsetProfile",
+          "identify",
+          "login",
+          "logout",
+          "trackLink",
+          "clearAllRegister",
+          "getAppStatus",
+          "setItem",
+          "deleteItem",
+        ];
+        for (var i = 0; i < ifs.length; i++) {
+          w[n][ifs[i]] = w[n].call(null, ifs[i]);
+        }
+        if (!w[n]._t) {
+          (x = d.createElement(s)), (y = d.getElementsByTagName(s)[0]);
+          x.async = 1;
+          x.src = p;
+          x.setAttribute("charset", "UTF-8");
+          w[n].para = para;
+          y.parentNode.insertBefore(x, y);
+        }
+      })({
+        sdk_url:
+          "https://gsdn.coolcollege.cn/assets/kuxueyuan/prod-common-js/sa-sdk-javascript-1.19.11/sensorsdata.min.js",
+        name: "sensors",
+        server_url: server_url, // 上报的项目地址
+        is_track_single_page: true, // 表示是否开启单页面自动采集 $pageview 功能，SDK 会在 url 改变之后自动采集web页面浏览事件 $pageview。
+        use_client_time: true, // 是否使用客户端上报的时间，建议不实用
+        send_type: "beacon",
+        // show_log:true, // 是否在控制台显示神策埋点log
+        heatmap: {
+          clickmap: "not_collect", // 不收集点击事件
+          scroll_notice_map: "not_collect",
+        },
+      });
+      // 另外，如果想加额外的属性，可以如下方式（添加 platform 属性为 h5）
+      // 注册公共属性，比如当前是哪一个平台
+      sensors.registerPage({
+        platform: function () {
+          const ua = navigator.userAgent.toLowerCase();
+          const params = location.search;
+          if (ua.indexOf("dingtalk") > -1) {
+            return "dingtalk-Web";
+          }
+          if (ua.indexOf("lark") > -1) {
+            return "feishu-Web";
+          }
+          if (ua.indexOf("wxwork") > -1) {
+            return "WeCom-Web";
+          }
+          return "Web";
+        },
+        project: "coolcollege", // 代表酷学院项目
+      });
+      sensors.quick("isReady", function () {
+        // 清楚本地 cookie 中存的用户 id
+        if (sensors.store.getDistinctId().length < 15) {
+          sensors.logout();
+        }
+      });
+      sensors.quick("autoTrack");
+    </script>
+
+    <script src="https://sdn.coolcollege.cn/assets/kuxueyuan/prod-common-js/react.production.min.js"></script>
+    <script src="https://sdn.coolcollege.cn/assets/kuxueyuan/prod-common-js/react-dom.production.min.js"></script>
+    <script src="https://sdn.coolcollege.cn/assets/kuxueyuan/prod-common-js/moment/moment.min.js"></script>
+    <script src="https://sdn.coolcollege.cn/assets/kuxueyuan/prod-common-js/moment/locale/zh-cn.js"></script>
+    <script src="https://sdn.coolcollege.cn/assets/kuxueyuan/prod-common-js/moment/locale/zh-hk.js"></script>
+    <script src="https://sdn.coolcollege.cn/assets/kuxueyuan/prod-common-js/moment/locale/es.js"></script>
+    <script src="https://sdn.coolcollege.cn/assets/kuxueyuan/prod-common-js/antv/plots@1.3.5.min.js"></script>
+    <script src="https://sdn.coolcollege.cn/cool-training-pc-module/ding_store/1.230208.144353/styles.12cf0713.js"></script>
+    <script src="https://sdn.coolcollege.cn/cool-training-pc-module/ding_store/1.230208.144353/umi.c5af36d7.js"></script>
+  </body>
+</html>
