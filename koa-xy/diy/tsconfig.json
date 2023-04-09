@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "sourceMap": false,
+    "target": "esnext",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "declaration": true,
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "noUnusedLocals": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "removeComments": false,
+    "outDir": "./dist",
+    "lib": [
+      "esnext",
+      "DOM",
+      
+    ]
+  },
+  "include": ["./"],
+  "exclude": ["npm-test", "node_modules", "lib"]
+}
