@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <button id="find-me">显示我的位置</button><br />
+    <p id="status"></p>
+
+    <script>
+      function geoFindMe() {
+        const status = document.querySelector("#status");
+     
+
+        function success(position) {
+          const latitude = position.coords.latitude;
+          const longitude = position.coords.longitude;
+        alert(`${latitude} ${longitude}`)
+        
+        }
+
+        function error() {
+            alert("无法获取你的位置")
+          status.textContent = "无法获取你的位置";
+        }
+
+        if (!navigator.geolocation) {
+            alert("123")
+        } else {
+          status.textContent = "定位中……";
+          navigator.geolocation.getCurrentPosition(success, error);
+        }
+      }
+
+      document.querySelector("#find-me").addEventListener("click", geoFindMe);
+    </script>
+  </body>
+</html>

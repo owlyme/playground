@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Upload Nested Folders</title>
+</head>
+<body>
+  <input type="file" id="fileInput" multiple  webkitdirectory />
+  <button onclick="uploadFiles()">Upload</button>
+
+  <script>
+    function uploadFiles() {
+      var fileInput = document.getElementById('fileInput');
+      var files = fileInput.files;
+
+      // 遍历文件列表
+      for (var i = 0; i < files.length; i++) {
+        var file = files[i];
+
+        // 检查是否是文件夹
+        if (file.type === '') {
+          traverseFolder(file);
+        } else {
+          // 处理单个文件的上传逻辑
+          uploadFile(file);
+        }
+      }
+    }
+
+    function traverseFolder(folder, ...dir) {
+      var reader = folder.createReader();
+
+      reader.readEntries(function(entries) {
+        for (var i = 0; i < entries.length; i++) {
+          var entry = entries[i];
+
+          if (entry.isFile) {
+            // 处理单个文件的上传逻辑
+            entry.file(function(file) {
+              uploadFile(file, folder);
+            });
+          } else if (entry.isDirectory) {
+            // 递归遍历子文件夹
+            traverseFolder(entry, []);
+          }
+        }
+      });
+    }
+
+    function uploadFile(file, dir) {
+      // 在这里执行文件上传的逻辑
+      console.log('Uploading file:', file.webkitRelativePath, file.name);
+      // 可以使用XMLHttpRequest或其他上传方法将文件发送到服务器
+    }
+  </script>
+</body>
+</html>

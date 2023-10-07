@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+   
+  </head>
+  <body>
+    <script>
+      // 解决方法一：将script里面的标签取出来，然后用appendchild的方式加入
+      function runScript(script) {
+        const newScript = document.createElement("script");
+        newScript.innerHTML = script.innerHTML;
+        // 存在 src 属性的话
+        const src = script.getAttribute("src");
+        if (src) newScript.setAttribute("src", src);
+        document.body.appendChild(newScript);
+        document.body.removeChild(newScript);
+      }
+
+      function setHTMLWithScript(container, rawHTML) {
+        container.innerHTML = rawHTML;
+        const scripts = container.querySelectorAll("script");
+        for (let script of scripts) {
+          runScript(script);
+        }
+      }
+
+      window
+        .fetch("https://store.coolstore.cn/")
+        .then((response) => response.text())
+        .then((res) => {
+          console.log(res);
+        //   document.body.innerHTML = res;
+          setHTMLWithScript(document.body, res);
+
+        });
+    </script>
+  </body>
+</html>

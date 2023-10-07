@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://cdn.bootcdn.net/ajax/libs/axios/1.3.6/axios.min.js"></script>
+  </head>
+  <body>
+    <button id="btn">get</button>
+    <img  src="https://oss-store.coolcollege.cn/eid/1ca369cae8034a93831c2dceb6ba6882/2309/425664679166116.jpg"  alt="" />
+
+    <img id="xy" src="" alt="" />
+
+    <script>
+      document.getElementById("btn").onclick = () => {
+        axios({
+          method: "get",
+          url: "https://oss-store.coolcollege.cn/eid/1ca369cae8034a93831c2dceb6ba6882/2309/425664679166116.jpg",
+          responseType: "blob",
+        }).then(function (response) {
+          // console.log(response);
+          // debugger
+          document.getElementById("xy").src = URL.createObjectURL(
+            response.data
+          );
+        });
+      };
+    </script>
+  </body>
+</html>

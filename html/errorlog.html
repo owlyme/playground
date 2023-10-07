@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>error log</title>
+    <script src="https://cdn.bootcdn.net/ajax/libs/axios/1.5.0/axios.js"></script>
+  </head>
+  <script>
+    const getPageUrl = () => location.href;
+    function updateErrorlog(errInfo) {
+      console.log(errInfo);
+    }
+    const consoleEorror = console.error;
+    window.console.error = function (msg) {
+      consoleEorror(msg);
+      updateErrorlog({
+        type: "consoleEorror",
+        pageUrl: getPageUrl(),
+        msg: msg
+      });
+    };
+
+    window.addEventListener("unhandledrejection", function (error) {
+      updateErrorlog({
+        type: "unhandledrejection",
+        pageUrl: getPageUrl(),
+        msg: error.reason
+      });
+    });
+
+    window.addEventListener("error", function (e) {
+      updateErrorlog({
+        type: "error",
+        pageUrl: getPageUrl(),
+        msg: e.error ? e.error.stack : e.message,
+      });
+      return false;
+    });
+
+    function handleEvent(e, request) {
+      if (this.status !== 200) {
+        updateErrorlog({
+          type: "http",
+          pageUrl: getPageUrl(),
+          request: this.__requestInfo,
+          response: this.response,
+        });
+      }
+    }
+
+    const xmlOpen = XMLHttpRequest.prototype.open;
+    XMLHttpRequest.prototype.open = function (...arg) {
+      this.__requestInfo = {
+        method: arg[0],
+        url: arg[1],
+      };
+      const self = this;
+      function addListeners(xhr) {
+        // status: 200
+        // xhr.addEventListener("loadstart", handleEvent);
+        // xhr.addEventListener("load", handleEvent);
+        xhr.addEventListener("loadend", function (e) {
+          handleEvent.apply(self, [e, this]);
+        });
+        // xhr.addEventListener("progress", handleEvent);
+        // xhr.addEventListener("error", handleEvent);
+        // xhr.addEventListener("abort", handleEvent);
+      }
+
+      addListeners(this);
+      return xmlOpen.apply(this, arg);
+    };
+
+    const xmlSend = XMLHttpRequest.prototype.send;
+    XMLHttpRequest.prototype.send = function (arg) {
+      this.__requestInfo.data = arg;
+      return xmlSend.apply(this, [arg]);
+    };
+  </script>
+  <body>
+    <div>error log</div>
+    <script>
+      /**
+       * 前端日志
+       * 1. 监听类型： console.error http ，语法错误
+       * 2. 错误消息体：时间，页面路径， 错误位置， 错误消息
+       * 3. vue 的错误收集
+       * 4. react 的错误收集
+       **/
+
+      // fetch("http://baidu.com/movies.json")
+      //   .then((response) => response.json())
+      //   .then((data) => console.log(data));
+
+      // axios
+      //   .get(
+      //     "https://store-api.coolcollege.cn/config/frontendErrorLog/list?access_token=qqq441017cf5a98c38a4bc7171740138544"
+      //   )
+      //   .then((response) => console.log(response));
+      // a + a;
+
+      // Promise.reject("adf")
+      console.error("done 1111");
+
+      console.log("done 1111");
+    </script>
+    <!-- <script type="text/javascript" src="./errorlog.js" ></script> -->
+  </body>
+</html>

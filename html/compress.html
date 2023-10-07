@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <input type="file" id="myFile" />
+    〈<br />
+    <img id="xy" />
+    <br />d
+    <button onclick="compressImage()">压缩图片</button>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.2.1/compressor.js"></script>
+    <script src="./lzwCompress.js"></script>
+    <script>
+      const errorLog = (err = {}) => {
+        async function postData(url = "", data = {}) {
+          // Default options are marked with *
+          const response = await fetch(url, {
+            method: "POST", // *GET, POST, PUT, DELETE, etc.
+            mode: "cors", // no-cors, *cors, same-origin
+            cache: "no-cache", // *default, no-cache, reload, force-cache, only-if-cached
+            credentials: "same-origin", // include, *same-origin, omit
+            headers: {
+              "Content-Type": "application/json",
+              // 'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            redirect: "follow", // manual, *follow, error
+            referrerPolicy: "no-referrer", // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
+            body: JSON.stringify(data), // body data type must match "Content-Type" header
+          });
+          return response.json(); // parses JSON response into native JavaScript objects
+        }
+
+        try {
+          const loginURl = `https://store-api.coolcollege.cn/config/frontendErrorLog/save`;
+          return postData(loginURl, {
+              errMsg: JSON.stringify(err),
+              time: 1231,
+              keyId: 'enterpriseId + "-" + userId'
+          });
+        } catch (err) {
+          console.error(err);
+        }
+      };
+
+      errorLog({a: 'b'})
+
+      function compressImage() {
+        var fileInput = document.getElementById("myFile");
+        var file = fileInput.files[0];
+
+        //   new Compressor(file, {
+        //     quality: 0.6,
+
+        //     // The compression process is asynchronous,
+        //     // which means you have to access the `result` in the `success` hook function.
+        //     success(result) {
+        //       console.log(result)
+        //     },
+        //     error(err) {
+        //       console.log(err.message);
+        //     },
+        //   });
+
+        var reader = new FileReader();
+        reader.onload = function () {
+          var dataUrl = reader.result;
+          debugger;
+
+          function compressBase64String(base64String) {
+            // 解码 Base64 字符串
+            const decodedString = atob(base64String);
+
+            // 对解码后的字符串进行压缩
+            // 这里以使用 LZW 压缩算法为例
+            const compressedString = lzwCompress.pack(decodedString);
+
+            // 将压缩后的字符串编码回 Base64
+            const compressedBase64String = btoa(compressedString);
+
+            return compressedBase64String;
+          }
+
+          const compressedBase64String = compressBase64String(dataUrl);
+          console.log("压缩后的 Base64 字符串：", compressedBase64String);
+          document.getElementById("xy").src = dataUrl.replace(/[\r\n]/g, "");
+          console.log(compressedBase64String);
+
+          //     var options = {
+          //       quality: 0.5, // 压缩质量，0-1 之间的值
+          //       maxWidth: 800, // 最大宽度
+          //       maxHeight: 600 // 最大高度
+          //     };
+          //     var compressedDataUrl = new Compressor(dataUrl, options);
+          //     // 将压缩后的图片数据URL保存到服务器上
+          //     console.log(compressedDataUrl);
+          //   document.getElementById('xy').src = compressedDataUrl
+        };
+        const url = reader.readAsDataURL(file);
+      }
+    </script>
+  </body>
+</html>
