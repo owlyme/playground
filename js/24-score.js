@@ -10,8 +10,9 @@
 // // 1, 2, 3, 4
 // // 1234, 1324, 1342, ...
 // function get_combinations(nums: number[]): string[] {
-//     return []
+//    return []
 // }
+
 
 // algorithm, recursive, top-down
 function comb(nums/*: number[]*/)/*: number[][]*/ {
@@ -19,7 +20,6 @@ function comb(nums/*: number[]*/)/*: number[][]*/ {
     if (nums.length == 1) {
         return [nums];
     }
-
     // [... x ...]
     const result/*: number[][]*/ = [];
     for (let i = 0 ; i < nums.length; ++i) {
@@ -55,6 +55,5 @@ function comb2(nums) {
     }
     return result;
 }
-
 
 console.log(comb2([1, 2, 3, 4]));

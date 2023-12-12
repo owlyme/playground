@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <title>flv.js demo</title>
+    <link rel="stylesheet" type="text/css" href="demo.css" />
+</head>
+
+<body>
+
+    <div class="mainContainer">
+        <div>
+            <div class="url-input">
+                <label for="app_id">app_id:</label>
+                <input id="app_id" type="text" value="10715" />
+
+                <label for="appsecert">appsecert:</label>
+                <input id="appsecert" type="text" value="db1bac8cf6db9fecdd5f" />
+            </div>
+            <div class="url-input">
+                <label for="sn">sn:</label>
+                <input id="sn" type="text" value="Ub0000000000359991EM" />
+
+                <label for="channel">channel:</label>
+                <input id="channel" type="text" value="1" />
+
+                <label for="rate">码率:</label>
+                <input id="rate" type="text" value="700" />
+
+                <label for="media_type">媒体类型:</label>
+                <input id="media_type" type="text" value="hflv" />
+            </div>
+            <div class="url-input">
+                <label for="sURL">URL:</label>
+                <input id="sURL" type="text" value="" />
+            </div>
+        </div>
+        <div class="video-container" id="myvideo">
+        </div>
+        <div class="controls">
+            <button onclick="get_video_url()">点这里加载视频</button>
+            <button onclick="flv_start()">有URL时可直接Start（无心跳）</button>
+            <button onclick="flv_destroy()">Destroy</button>
+        </div>
+        <textarea name="logcatbox" class="logcatBox" rows="10" readonly></textarea>
+    </div>
+    <script src="../js/reqwest.min.js"></script>
+    <script src="../js/flv.min.js"></script>
+    <!-- <script src="../js/flv.js"></script> -->
+    <script src="../js/md5.js"></script>
+    <script type="application/javascript" src="../js/media_sdk_2.0.src.js"></script>
+    <script>
+        var _uluMedia = UluMedia();
+        var player;
+        var needReload = false;
+        var _checkFlv = setInterval(function() {
+            if(needReload) {
+                flv_destroy();
+                get_video_url();
+            }
+        }, 6000);
+
+        // 编码，配合encodeURIComponent使用
+        function base64_encode(str) {
+            var c1, c2, c3;
+            var base64EncodeChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+            var i = 0,
+                len = str.length,
+                strin = '';
+            while (i < len) {
+                c1 = str.charCodeAt(i++) & 0xff;
+                if (i == len) {
+                    strin += base64EncodeChars.charAt(c1 >> 2);
+                    strin += base64EncodeChars.charAt((c1 & 0x3) << 4);
+                    strin += "==";
+                    break;
+                }
+                c2 = str.charCodeAt(i++);
+                if (i == len) {
+                    strin += base64EncodeChars.charAt(c1 >> 2);
+                    strin += base64EncodeChars.charAt(((c1 & 0x3) << 4) | ((c2 & 0xF0) >> 4));
+                    strin += base64EncodeChars.charAt((c2 & 0xF) << 2);
+                    strin += "=";
+                    break;
+                }
+                c3 = str.charCodeAt(i++);
+                strin += base64EncodeChars.charAt(c1 >> 2);
+                strin += base64EncodeChars.charAt(((c1 & 0x3) << 4) | ((c2 & 0xF0) >> 4));
+                strin += base64EncodeChars.charAt(((c2 & 0xF) << 2) | ((c3 & 0xC0) >> 6));
+                strin += base64EncodeChars.charAt(c3 & 0x3F)
+            }
+            return strin
+        }
+
+        //获取flv地址
+        function get_video_url() {
+            var app_id = document.getElementById('app_id').value;
+            var appsecert = document.getElementById('appsecert').value;
+            var uri = "/h/KeNcJ/auth/get_common_token";
+            var queryStr = "av=1";
+            var md5 = hexMD5(appsecert + app_id + uri + queryStr);
+            var base64 = "Basic " + base64_encode(app_id + ':' + md5);
+            var domain = 'http://playpage.live.ulucu.com/api/open';
+            var url = domain + uri + '?' + queryStr;
+            var param = {
+                sn: document.getElementById('sn').value, //设备SN号,必填
+                channel: document.getElementById('channel').value, //设备通道号,选填 默认：1
+                rate: document.getElementById('rate').value, //码率 [1000,700]，选填,默认700
+                media_type: document.getElementById('media_type').value //媒体类型 ['hls','hflv']，选填，默认hls
+            };
+            reqwest({
+                method: 'GET',
+                url: url,
+                headers: { 'Authorization': base64 },
+                type: 'json',
+                crossOrigin: true,
+                withCredentials: false,
+                timeout: 1000 * 30,
+                success: function (res) {
+                    if (res && res.code == 0) {
+                        param.access_token = res.data.access_token; //开放平台sdk token, 必填
+                        //加载
+                        _uluMedia.load(param, function (data) {
+                            console.log('data', data);
+                            if (data.play_url) {
+                                console.log('可用视频地址获取成功！');
+                                document.getElementById('sURL').value = data.play_url;
+                                flv_start();
+                                needReload = false;
+                            }
+                        });
+                    }
+                }
+            });
+        }
+
+        //开始播放
+        function flv_start() {
+            var sURL = document.getElementById('sURL').value;
+            if (sURL == '') return;
+
+            var totalReloadNum = 3; //播放失败再次尝试重载次数
+            var reloadNum = 0; //当前重载
+            var playVideo = function () {
+                player = _uluMedia.play({
+                    obj: document.getElementById('myvideo'),
+                    url: sURL
+                }, function (e) {
+                    //异常处理在这里...
+                    console.log('error', e);
+
+                    //如果报错后，先销毁再尝试重载，最多尝试totalReloadNum次，可自定义
+                    if (reloadNum < totalReloadNum) {
+                        reloadNum++;
+                        _uluMedia.destroy(player);
+                        needReload = true;
+                    }
+                });
+            };
+            playVideo();
+        }
+
+        function flv_destroy() {
+            _uluMedia.destroy(player);
+            player = null;
+        }
+
+        var logcatbox = document.getElementsByName('logcatbox')[0];
+        var logCount = 0;
+        flvjs.LoggingControl.addLogListener(function (type, str) {
+            if((++logCount) % 200 == 0) {
+                logCount = 0;
+                logcatbox.value = str + '\n';
+            }
+            else {
+                logcatbox.value = logcatbox.value + str + '\n';
+            }
+            logcatbox.scrollTop = logcatbox.scrollHeight;
+        });
+
+        document.addEventListener('DOMContentLoaded', function () {
+            // get_video_url();
+        });
+    </script>
+
+</body>
+
+</html>

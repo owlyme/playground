@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PDF</title>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"
+      integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+  </head>
+  <body style="background-color: aqua;">
+    <div>Document</div>
+    <div>Document</div>
+    <div>Document</div>
+    <div>Document</div>
+    <div>Document</div>
+    <div>Document</div>
+    <div>Document</div>
+    <div>Document</div>
+    <div>Document</div>
+    <div>Document</div>
+    <img src="https://oss.coolcollege.cn/a5a0b6261c5f4f2784aed9eedf217677.png" />
+
+    <button onclick="convertHTMLtoPDF()">将HTML转换为PDF</button>
+    <script>
+      function convertHTMLtoPDF() {
+        const worker = html2pdf()
+        //   .set({
+        //     // margin: 1,
+        //     filename: "myfile.pdf",
+        //     image: { type: "jpeg", quality: 0.98 },
+        //     html2canvas: { scale: 2 },
+        //     jsPDF: { unit: "in", format: "letter", orientation: "portrait" },
+        //   })
+          .from(document.body)
+          .save();
+
+        console.log(worker);
+
+        // window.open('file://' + file.url);
+      }
+    </script>
+  </body>
+</html>

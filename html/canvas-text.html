@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head> </head>
+  <body>
+    <canvas
+      id="myCanvas"
+      width="120"
+      height="12"
+      style="border: 1px solid #000000"
+    ></canvas>
+
+    <script>
+      const canvas = document.getElementById("myCanvas");
+      const ctx = canvas.getContext("2d");
+
+      // 绘制文本
+      ctx.fillText("Hello, World!", 0, 12);
+      ctx.font = '12px ';
+      function canvasToBase64(canvas) {
+        var canvasData = canvas.toDataURL("image/jpeg");
+        return canvasData.replace(/^data:image\/(png|jpg|jpeg);base64,/, "");
+      }
+
+      var base64Canvas = canvasToBase64(canvas);
+      console.log(base64Canvas);
+      console.log(btoa(unescape(base64Canvas)));
+
+         
+    </script>
+  </body>
+</html>
