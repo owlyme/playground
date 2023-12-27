@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "png-path": "/components/png-path/png-path"
+  }
+}

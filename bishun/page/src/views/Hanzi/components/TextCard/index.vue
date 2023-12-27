@@ -40,6 +40,7 @@ const imgErr = ref(false);
         :pathes="wordInfo.path"
         :red-index="index"
         :key="index"
+        :word="wordInfo.cn"
       />
     </div>
   </div>

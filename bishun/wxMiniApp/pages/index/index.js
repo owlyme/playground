@@ -12,6 +12,9 @@ Component({
     canIUseGetUserProfile: wx.canIUse('getUserProfile'),
     canIUseNicknameComp: wx.canIUse('input.type.nickname'),
   },
+  ready() {
+    this.getData()
+  },
   methods: {
     // 事件处理函数
     bindViewTap() {
@@ -48,6 +51,19 @@ Component({
         }
       })
     },
+    getData() {
+      
+      wx.request({
+        url: 'http://127.0.0.1:5173/data/hanziData.json',
+        method: "GET",
+        header: {
+          'content-type': 'application/json' // 默认值
+        },
+        success(data) {
+          console.log(data)
+        }
+      })
+    }
     
   },
 })

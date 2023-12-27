@@ -1,0 +1,15 @@
+/* components/png-path.wxss */
+.word-path {
+  width: 83rpx;
+  height: 86rpx;
+  background-image: url(http://127.0.0.1:5173/pic/tianzige.jpg);
+  background-size: 100% 100%;
+  margin-right: 3rpx;
+  border-radius: 5rpx;
+  border: 1px solid #b8b8b8;
+}
+.pic {
+  width: 83rpx;
+  height: 83rpx;
+  background-size: cover;
+}

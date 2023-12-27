@@ -1,0 +1,6 @@
+<!--components/png-path.wxml-->
+<view class="word-path">
+  <view class="pic" style="{{bg}}">
+</view>
+
+</view>

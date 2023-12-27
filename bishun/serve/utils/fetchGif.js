@@ -1,16 +1,13 @@
 const path = require('path');
 const https= require('http');
 const fs = require('fs');
+const createDir = require('./createDir');
+const commonUtils = require('./common');
 
-const hanziPath = path.join(process.cwd(), `/public/hanzi`)
-const pagePublicGifs = path.join(process.cwd(), `/page/public/gifs`)
+const hanziPath = path.join(process.cwd(), `/public/hanzi`);
+const pagePublicGifs = path.join(process.cwd(), `/page/public/gifs`);
 
-
-
-const gifsDir = path.join(process.cwd(), `/page/public/gifs`)
-if (!fs.existsSync(gifsDir)) {
-    fs.mkdirSync(gifsDir, { recursive: true })
-}
+createDir(pagePublicGifs)
 
 const batchFetchGif = async () => {
     fs.readdir(hanziPath, (err, res) => {
@@ -27,7 +24,6 @@ const batchFetchGif = async () => {
         //     encodeURIComponent(basename).replace(/%/g, '-') + imgExt )
         // }, [])
 
-
         const fn = (fileName, next) => {
             const ext = path.extname(fileName)
             if (ext !== '.json') return  next();
@@ -37,7 +33,7 @@ const batchFetchGif = async () => {
 
             const imgExt = path.extname(wordInfo.img)
             downloadGifFile(`http://hanyu-word-gif.cdn.bcebos.com${wordInfo.img}`, 
-            encodeURIComponent(basename).replace(/%/g, '-') + imgExt ,
+            commonUtils.hanziToSaveBase(basename) + imgExt ,
             next
             )
         }

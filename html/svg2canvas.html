@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SVG to Canvas</title>
+  </head>
+  <body>
+    <canvas id="myCanvas" width="500" height="500"></canvas>
+    <script>
+      const canvas = document.getElementById("myCanvas");
+      const ctx = canvas.getContext("2d");
+
+      function svgToCanvas(svgPath) {
+      
+        // const path =  "M 228 673 Q 265 680 303 697 Q 319 707 331 696 Q 334 692 310 620 Q 289 563 297 549 Q 325 521 347 457 Q 353 439 345 430 Q 338 420 312 425 Q 281 432 248 435 Q 224 436 250 421 Q 310 391 363 353 Q 378 340 391 353 Q 406 363 412 389 Q 424 444 358 527 Q 318 567 343 605 Q 386 675 411 694 Q 430 707 421 720 Q 408 739 369 758 Q 347 767 333 754 Q 279 715 219 704 C 190 697 199 666 228 673 Z";
+        const  path = "M 100 100 H 400 V 300 H 100 C"
+        const ctx = canvas.getContext("2d");
+        const imageData = ctx.createImageData(canvas.width, canvas.height);
+        const data = imageData.data;
+
+        const pathData = path
+        const commandList = pathData.split(" ");
+        let x = 0;
+        let y = 0;
+        let cmdX = 0;
+        let cmdY = 0;
+        let isMoveTo = true;
+
+        for (let i = 0; i < commandList.length; i++) {
+          const cmd = commandList[i].toUpperCase();
+          switch (cmd) {
+            case "M":
+              isMoveTo = false;
+              x = parseFloat(commandList[i + 1]);
+              y = parseFloat(commandList[i + 2]);
+              cmdX = x;
+              cmdY = y;
+              break;
+            case "L":
+              if (isMoveTo) {
+                ctx.moveTo(cmdX, cmdY);
+                isMoveTo = false;
+              }
+              ctx.lineTo(
+                parseFloat(commandList[i + 1]),
+                parseFloat(commandList[i + 2])
+              );
+              break;
+            case "H":
+              x = parseFloat(commandList[i + 1]);
+              ctx.moveTo(x, y);
+              break;
+            case "V":
+              y = parseFloat(commandList[i + 1]);
+              ctx.moveTo(x, y);
+              break;
+            case "Z":
+              ctx.closePath();
+              break;
+            default:
+              break;
+          }
+        }
+
+        // ctx.fillStyle = "black";
+
+        ctx.stroke();
+
+        return canvas;
+      }
+
+
+
+      svgToCanvas();
+    </script>
+  </body>
+</html>

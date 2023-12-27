@@ -1,5 +1,6 @@
 <script setup>
 import Path from "./Path.vue"
+import Pic from "./Pic.vue"
 const props = defineProps({
   pathes: {
     type: Array,
@@ -10,13 +11,18 @@ const props = defineProps({
     type: Number,
     required: true,
     default: 0
-  }
+  },
+  word: {
+    type: String,
+    required: true,
+  },
 })
 </script>
 
 <template>
   <div >
-    <Path :pathes="props.pathes" :redIndex="props.redIndex" lastRed />
+    <!-- <Path :pathes="props.pathes" :redIndex="props.redIndex" lastRed /> -->
+    <Pic :redIndex="props.redIndex" :word="props.word" />
     <div class="path-num">
      第 {{ redIndex + 1 }} 笔
     </div>

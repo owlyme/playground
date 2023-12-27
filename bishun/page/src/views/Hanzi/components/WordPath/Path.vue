@@ -1,5 +1,6 @@
 <script setup>
-import { computed } from "vue"
+import { computed } from 'vue'
+
 const props = defineProps({
   pathes: {
     type: Array,
@@ -13,27 +14,36 @@ const props = defineProps({
   },
   lastRed: {
     type: Boolean,
-    default: false,
+    default: false
   }
 })
 
-const newPahths = computed(() => {
- const _pathes = [...props.pathes]
- const redPath = _pathes.splice(props.redIndex, 1);
- return _pathes.concat(redPath)
-});
+function resortPath(pathes = [], redIndex = 0) {
+  const _pathes = [...pathes]
+  const redPath = _pathes.splice(redIndex, 1)
+  const blackPath = _pathes.splice(0, redIndex)
 
+  return [..._pathes, ...blackPath, ...redPath]
+}
+
+const newPahths = computed(() => {
+  //  const _pathes = [...props.pathes]
+  //  const redPath = _pathes.splice(props.redIndex, 1);
+  //  return _pathes.concat(redPath)
+
+  return resortPath(props.pathes, props.redIndex)
+})
 
 const newRedIndex = computed(() => {
-  console.log('newRedIndex', props.lastRed);
+  console.log('newRedIndex', props.lastRed)
 
   return props.lastRed ? newPahths.value.length - 1 : 999
-});
+})
 </script>
 
 <template>
   <div class="word-path">
-    <svg >
+    <svg>
       <g transform="translate(3, 70) scale(0.07, -0.07)">
         <!-- 先将完整的字以灰色字体绘制完成，层级位于下面 -->
         <path
@@ -61,7 +71,7 @@ const newRedIndex = computed(() => {
   border: 1px solid #b8b8b8;
 }
 svg {
-  width: 83px; 
+  width: 83px;
   height: 83px;
 }
 </style>

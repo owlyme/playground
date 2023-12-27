@@ -1,0 +1,24 @@
+
+<!-- 
+
+<view class="word-box">
+    <view class="word-top">
+      <Path v-if="imgErr" :pathes="wordInfo.path" :red-index="99" />
+      <img v-else class="word-img" v-baidugifsrc="wordInfo.cn" @error="() => {
+        imgErr = true
+      }" />
+      <PinYin :pinyin="wordInfo.pinyin"/>
+      <a class="word-baiduUrl" v-baidupagehref="wordInfo.cn">百度查看</a>
+    </view>
+    <Divider />
+    <view class="word-path"> 
+      <WordPath
+        v-for="(item, index) in wordInfo.path"
+        :pathes="wordInfo.path"
+        :red-index="index"
+        :key="index"
+        :word="wordInfo.cn"
+      />
+      <png-path word="好" redIndex="{{2}}" ></png-path>
+    </view>
+  </view> -->

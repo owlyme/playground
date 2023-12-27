@@ -1,0 +1,13990 @@
+{
+  "一": {
+    "pinyin": "yī",
+    "path": 1
+  },
+  "丁": {
+    "pinyin": "dīng zhēng",
+    "path": 2
+  },
+  "七": {
+    "pinyin": "qī",
+    "path": 2
+  },
+  "万": {
+    "pinyin": "wàn mò",
+    "path": 3
+  },
+  "丈": {
+    "pinyin": "zhàng",
+    "path": 3
+  },
+  "三": {
+    "pinyin": "sān",
+    "path": 3
+  },
+  "上": {
+    "pinyin": "shàng shǎng shang",
+    "path": 3
+  },
+  "下": {
+    "pinyin": "xià",
+    "path": 3
+  },
+  "不": {
+    "pinyin": "bù fǒu",
+    "path": 4
+  },
+  "与": {
+    "pinyin": "yǔ yù yú",
+    "path": 3
+  },
+  "丐": {
+    "pinyin": "gài",
+    "path": 4
+  },
+  "丑": {
+    "pinyin": "chǒu",
+    "path": 4
+  },
+  "专": {
+    "pinyin": "zhuān",
+    "path": 4
+  },
+  "且": {
+    "pinyin": "qiě jū",
+    "path": 5
+  },
+  "世": {
+    "pinyin": "shì",
+    "path": 5
+  },
+  "丘": {
+    "pinyin": "qiū",
+    "path": 5
+  },
+  "丙": {
+    "pinyin": "bǐng",
+    "path": 5
+  },
+  "业": {
+    "pinyin": "yè",
+    "path": 5
+  },
+  "丛": {
+    "pinyin": "cóng",
+    "path": 5
+  },
+  "东": {
+    "pinyin": "dōng",
+    "path": 5
+  },
+  "丝": {
+    "pinyin": "sī",
+    "path": 5
+  },
+  "丢": {
+    "pinyin": "diū",
+    "path": 6
+  },
+  "两": {
+    "pinyin": "liǎng",
+    "path": 7
+  },
+  "严": {
+    "pinyin": "yán",
+    "path": 7
+  },
+  "丧": {
+    "pinyin": "sàng sāng",
+    "path": 8
+  },
+  "个": {
+    "pinyin": "gè gě",
+    "path": 3
+  },
+  "中": {
+    "pinyin": "zhōng zhòng",
+    "path": 4
+  },
+  "丰": {
+    "pinyin": "fēng",
+    "path": 4
+  },
+  "串": {
+    "pinyin": "chuàn",
+    "path": 7
+  },
+  "临": {
+    "pinyin": "lín",
+    "path": 9
+  },
+  "丸": {
+    "pinyin": "wán",
+    "path": 3
+  },
+  "丹": {
+    "pinyin": "dān",
+    "path": 4
+  },
+  "为": {
+    "pinyin": "wéi wèi",
+    "path": 4
+  },
+  "主": {
+    "pinyin": "zhǔ",
+    "path": 5
+  },
+  "丽": {
+    "pinyin": "lì lí",
+    "path": 7
+  },
+  "举": {
+    "pinyin": "jǔ",
+    "path": 9
+  },
+  "乃": {
+    "pinyin": "nǎi",
+    "path": 2
+  },
+  "久": {
+    "pinyin": "jiǔ",
+    "path": 3
+  },
+  "么": {
+    "pinyin": "me mó yāo ma",
+    "path": 3
+  },
+  "义": {
+    "pinyin": "yì",
+    "path": 3
+  },
+  "之": {
+    "pinyin": "zhī",
+    "path": 3
+  },
+  "乌": {
+    "pinyin": "wū wù",
+    "path": 4
+  },
+  "乍": {
+    "pinyin": "zhà",
+    "path": 5
+  },
+  "乎": {
+    "pinyin": "hū",
+    "path": 5
+  },
+  "乏": {
+    "pinyin": "fá",
+    "path": 4
+  },
+  "乐": {
+    "pinyin": "lè yuè yào lào",
+    "path": 5
+  },
+  "乒": {
+    "pinyin": "pīng",
+    "path": 6
+  },
+  "乓": {
+    "pinyin": "pāng",
+    "path": 6
+  },
+  "乔": {
+    "pinyin": "qiáo",
+    "path": 6
+  },
+  "乖": {
+    "pinyin": "guāi",
+    "path": 8
+  },
+  "乘": {
+    "pinyin": "chéng shèng",
+    "path": 10
+  },
+  "乙": {
+    "pinyin": "yǐ",
+    "path": 1
+  },
+  "九": {
+    "pinyin": "jiǔ",
+    "path": 2
+  },
+  "乞": {
+    "pinyin": "qǐ",
+    "path": 3
+  },
+  "也": {
+    "pinyin": "yě",
+    "path": 3
+  },
+  "习": {
+    "pinyin": "xí",
+    "path": 3
+  },
+  "乡": {
+    "pinyin": "xiāng",
+    "path": 3
+  },
+  "书": {
+    "pinyin": "shū",
+    "path": 4
+  },
+  "买": {
+    "pinyin": "mǎi",
+    "path": 6
+  },
+  "乱": {
+    "pinyin": "luàn",
+    "path": 7
+  },
+  "乳": {
+    "pinyin": "rǔ",
+    "path": 8
+  },
+  "了": {
+    "pinyin": "le liǎo",
+    "path": 2
+  },
+  "予": {
+    "pinyin": "yǔ yú",
+    "path": 4
+  },
+  "争": {
+    "pinyin": "zhēng",
+    "path": 6
+  },
+  "事": {
+    "pinyin": "shì",
+    "path": 8
+  },
+  "二": {
+    "pinyin": "èr",
+    "path": 2
+  },
+  "于": {
+    "pinyin": "yú",
+    "path": 3
+  },
+  "亏": {
+    "pinyin": "kuī",
+    "path": 3
+  },
+  "云": {
+    "pinyin": "yún",
+    "path": 4
+  },
+  "互": {
+    "pinyin": "hù",
+    "path": 4
+  },
+  "五": {
+    "pinyin": "wǔ",
+    "path": 4
+  },
+  "井": {
+    "pinyin": "jǐng",
+    "path": 4
+  },
+  "亚": {
+    "pinyin": "yà",
+    "path": 6
+  },
+  "些": {
+    "pinyin": "xiē",
+    "path": 8
+  },
+  "亡": {
+    "pinyin": "wáng wú",
+    "path": 3
+  },
+  "交": {
+    "pinyin": "jiāo",
+    "path": 6
+  },
+  "亥": {
+    "pinyin": "hài",
+    "path": 6
+  },
+  "亦": {
+    "pinyin": "yì",
+    "path": 6
+  },
+  "产": {
+    "pinyin": "chǎn",
+    "path": 6
+  },
+  "亩": {
+    "pinyin": "mǔ",
+    "path": 7
+  },
+  "享": {
+    "pinyin": "xiǎng",
+    "path": 8
+  },
+  "京": {
+    "pinyin": "jīng",
+    "path": 8
+  },
+  "亭": {
+    "pinyin": "tíng",
+    "path": 9
+  },
+  "亮": {
+    "pinyin": "liàng",
+    "path": 9
+  },
+  "亲": {
+    "pinyin": "qīn qìng",
+    "path": 9
+  },
+  "人": {
+    "pinyin": "rén",
+    "path": 2
+  },
+  "亿": {
+    "pinyin": "yì",
+    "path": 3
+  },
+  "什": {
+    "pinyin": "shí shén",
+    "path": 4
+  },
+  "仁": {
+    "pinyin": "rén",
+    "path": 4
+  },
+  "仅": {
+    "pinyin": "jǐn jìn",
+    "path": 4
+  },
+  "仆": {
+    "pinyin": "pú pū",
+    "path": 4
+  },
+  "仇": {
+    "pinyin": "chóu qiú",
+    "path": 4
+  },
+  "今": {
+    "pinyin": "jīn",
+    "path": 4
+  },
+  "介": {
+    "pinyin": "jiè",
+    "path": 4
+  },
+  "仍": {
+    "pinyin": "réng",
+    "path": 4
+  },
+  "从": {
+    "pinyin": "cóng",
+    "path": 4
+  },
+  "仑": {
+    "pinyin": "lún",
+    "path": 4
+  },
+  "仓": {
+    "pinyin": "cāng",
+    "path": 4
+  },
+  "仔": {
+    "pinyin": "zǎi zǐ zī",
+    "path": 5
+  },
+  "他": {
+    "pinyin": "tā",
+    "path": 5
+  },
+  "仗": {
+    "pinyin": "zhàng",
+    "path": 5
+  },
+  "付": {
+    "pinyin": "fù",
+    "path": 5
+  },
+  "仙": {
+    "pinyin": "xiān",
+    "path": 5
+  },
+  "代": {
+    "pinyin": "dài",
+    "path": 5
+  },
+  "令": {
+    "pinyin": "lìng líng lǐng",
+    "path": 5
+  },
+  "以": {
+    "pinyin": "yǐ",
+    "path": 4
+  },
+  "仪": {
+    "pinyin": "yí",
+    "path": 5
+  },
+  "们": {
+    "pinyin": "mén men",
+    "path": 5
+  },
+  "仰": {
+    "pinyin": "yǎng áng",
+    "path": 6
+  },
+  "仲": {
+    "pinyin": "zhòng",
+    "path": 6
+  },
+  "件": {
+    "pinyin": "jiàn",
+    "path": 6
+  },
+  "价": {
+    "pinyin": "jià jie jiè",
+    "path": 6
+  },
+  "任": {
+    "pinyin": "rèn rén",
+    "path": 6
+  },
+  "份": {
+    "pinyin": "fèn bīn",
+    "path": 6
+  },
+  "仿": {
+    "pinyin": "fǎng",
+    "path": 6
+  },
+  "企": {
+    "pinyin": "qǐ",
+    "path": 6
+  },
+  "伊": {
+    "pinyin": "yī",
+    "path": 6
+  },
+  "伍": {
+    "pinyin": "wǔ",
+    "path": 6
+  },
+  "伏": {
+    "pinyin": "fú",
+    "path": 6
+  },
+  "伐": {
+    "pinyin": "fá",
+    "path": 6
+  },
+  "休": {
+    "pinyin": "xiū xǔ",
+    "path": 6
+  },
+  "众": {
+    "pinyin": "zhòng",
+    "path": 6
+  },
+  "优": {
+    "pinyin": "yōu",
+    "path": 6
+  },
+  "伙": {
+    "pinyin": "huǒ",
+    "path": 6
+  },
+  "会": {
+    "pinyin": "huì kuài",
+    "path": 6
+  },
+  "伞": {
+    "pinyin": "sǎn",
+    "path": 6
+  },
+  "伟": {
+    "pinyin": "wěi",
+    "path": 6
+  },
+  "传": {
+    "pinyin": "chuán zhuàn",
+    "path": 6
+  },
+  "伤": {
+    "pinyin": "shāng",
+    "path": 6
+  },
+  "伦": {
+    "pinyin": "lún",
+    "path": 6
+  },
+  "伪": {
+    "pinyin": "wěi",
+    "path": 6
+  },
+  "伯": {
+    "pinyin": "bǎi bó",
+    "path": 7
+  },
+  "估": {
+    "pinyin": "gū gù",
+    "path": 7
+  },
+  "伴": {
+    "pinyin": "bàn",
+    "path": 7
+  },
+  "伶": {
+    "pinyin": "líng",
+    "path": 7
+  },
+  "伸": {
+    "pinyin": "shēn",
+    "path": 7
+  },
+  "伺": {
+    "pinyin": "sì cì",
+    "path": 7
+  },
+  "似": {
+    "pinyin": "sì shì",
+    "path": 6
+  },
+  "佃": {
+    "pinyin": "diàn tián",
+    "path": 7
+  },
+  "但": {
+    "pinyin": "dàn",
+    "path": 7
+  },
+  "位": {
+    "pinyin": "wèi",
+    "path": 7
+  },
+  "低": {
+    "pinyin": "dī",
+    "path": 7
+  },
+  "住": {
+    "pinyin": "zhù",
+    "path": 7
+  },
+  "佑": {
+    "pinyin": "yòu",
+    "path": 7
+  },
+  "体": {
+    "pinyin": "tǐ tī",
+    "path": 7
+  },
+  "何": {
+    "pinyin": "hé hè hē",
+    "path": 7
+  },
+  "余": {
+    "pinyin": "yú",
+    "path": 7
+  },
+  "佛": {
+    "pinyin": "fó fú bì bó",
+    "path": 7
+  },
+  "作": {
+    "pinyin": "zuò zuō",
+    "path": 7
+  },
+  "你": {
+    "pinyin": "nǐ",
+    "path": 7
+  },
+  "佣": {
+    "pinyin": "yōng yòng",
+    "path": 7
+  },
+  "佩": {
+    "pinyin": "pèi",
+    "path": 8
+  },
+  "佳": {
+    "pinyin": "jiā",
+    "path": 8
+  },
+  "使": {
+    "pinyin": "shǐ",
+    "path": 8
+  },
+  "侄": {
+    "pinyin": "zhí",
+    "path": 8
+  },
+  "侈": {
+    "pinyin": "chǐ",
+    "path": 8
+  },
+  "例": {
+    "pinyin": "lì",
+    "path": 8
+  },
+  "侍": {
+    "pinyin": "shì",
+    "path": 8
+  },
+  "供": {
+    "pinyin": "gòng gōng",
+    "path": 8
+  },
+  "依": {
+    "pinyin": "yī",
+    "path": 8
+  },
+  "侠": {
+    "pinyin": "xiá",
+    "path": 8
+  },
+  "侣": {
+    "pinyin": "lǚ",
+    "path": 8
+  },
+  "侥": {
+    "pinyin": "yáo jiǎo",
+    "path": 8
+  },
+  "侦": {
+    "pinyin": "zhēn",
+    "path": 8
+  },
+  "侧": {
+    "pinyin": "cè zè zhāi",
+    "path": 8
+  },
+  "侨": {
+    "pinyin": "qiáo",
+    "path": 8
+  },
+  "侮": {
+    "pinyin": "wǔ",
+    "path": 9
+  },
+  "侯": {
+    "pinyin": "hòu hóu",
+    "path": 9
+  },
+  "侵": {
+    "pinyin": "qīn",
+    "path": 9
+  },
+  "便": {
+    "pinyin": "biàn pián",
+    "path": 9
+  },
+  "促": {
+    "pinyin": "cù",
+    "path": 9
+  },
+  "俄": {
+    "pinyin": "é",
+    "path": 9
+  },
+  "俊": {
+    "pinyin": "jùn",
+    "path": 9
+  },
+  "俏": {
+    "pinyin": "qiào xiào",
+    "path": 9
+  },
+  "俐": {
+    "pinyin": "lì",
+    "path": 9
+  },
+  "俗": {
+    "pinyin": "sú",
+    "path": 9
+  },
+  "俘": {
+    "pinyin": "fú",
+    "path": 9
+  },
+  "保": {
+    "pinyin": "bǎo",
+    "path": 9
+  },
+  "信": {
+    "pinyin": "xìn shēn",
+    "path": 9
+  },
+  "俩": {
+    "pinyin": "liǎ liǎng",
+    "path": 9
+  },
+  "俭": {
+    "pinyin": "jiǎn",
+    "path": 9
+  },
+  "修": {
+    "pinyin": "xiū",
+    "path": 9
+  },
+  "俯": {
+    "pinyin": "fǔ",
+    "path": 10
+  },
+  "俱": {
+    "pinyin": "jù jū",
+    "path": 10
+  },
+  "俺": {
+    "pinyin": "ǎn",
+    "path": 10
+  },
+  "倍": {
+    "pinyin": "bèi",
+    "path": 10
+  },
+  "倒": {
+    "pinyin": "dǎo dào",
+    "path": 10
+  },
+  "倔": {
+    "pinyin": "juè jué",
+    "path": 10
+  },
+  "倘": {
+    "pinyin": "tǎng cháng",
+    "path": 10
+  },
+  "候": {
+    "pinyin": "hòu",
+    "path": 10
+  },
+  "倚": {
+    "pinyin": "yǐ",
+    "path": 10
+  },
+  "借": {
+    "pinyin": "jiè",
+    "path": 10
+  },
+  "倡": {
+    "pinyin": "chàng chāng",
+    "path": 10
+  },
+  "倦": {
+    "pinyin": "juàn",
+    "path": 10
+  },
+  "债": {
+    "pinyin": "zhài",
+    "path": 10
+  },
+  "值": {
+    "pinyin": "zhí",
+    "path": 10
+  },
+  "倾": {
+    "pinyin": "qīng",
+    "path": 10
+  },
+  "假": {
+    "pinyin": "jiǎ jià",
+    "path": 11
+  },
+  "偎": {
+    "pinyin": "wēi",
+    "path": 11
+  },
+  "偏": {
+    "pinyin": "piān",
+    "path": 11
+  },
+  "做": {
+    "pinyin": "zuò",
+    "path": 11
+  },
+  "停": {
+    "pinyin": "tíng",
+    "path": 11
+  },
+  "健": {
+    "pinyin": "jiàn",
+    "path": 10
+  },
+  "偶": {
+    "pinyin": "ǒu",
+    "path": 11
+  },
+  "偷": {
+    "pinyin": "tōu",
+    "path": 11
+  },
+  "偿": {
+    "pinyin": "cháng",
+    "path": 11
+  },
+  "傀": {
+    "pinyin": "guī kuǐ",
+    "path": 11
+  },
+  "傅": {
+    "pinyin": "fù",
+    "path": 12
+  },
+  "傍": {
+    "pinyin": "bàng",
+    "path": 12
+  },
+  "储": {
+    "pinyin": "chǔ",
+    "path": 12
+  },
+  "催": {
+    "pinyin": "cuī",
+    "path": 13
+  },
+  "傲": {
+    "pinyin": "ào",
+    "path": 12
+  },
+  "傻": {
+    "pinyin": "shǎ",
+    "path": 13
+  },
+  "像": {
+    "pinyin": "xiàng",
+    "path": 13
+  },
+  "僚": {
+    "pinyin": "liáo",
+    "path": 14
+  },
+  "僧": {
+    "pinyin": "sēng",
+    "path": 14
+  },
+  "僵": {
+    "pinyin": "jiāng",
+    "path": 15
+  },
+  "僻": {
+    "pinyin": "pì",
+    "path": 15
+  },
+  "儒": {
+    "pinyin": "rú",
+    "path": 16
+  },
+  "儡": {
+    "pinyin": "lěi",
+    "path": 17
+  },
+  "儿": {
+    "pinyin": "ér",
+    "path": 2
+  },
+  "允": {
+    "pinyin": "yǔn",
+    "path": 4
+  },
+  "元": {
+    "pinyin": "yuán",
+    "path": 4
+  },
+  "兄": {
+    "pinyin": "xiōng",
+    "path": 5
+  },
+  "充": {
+    "pinyin": "chōng",
+    "path": 6
+  },
+  "兆": {
+    "pinyin": "zhào",
+    "path": 6
+  },
+  "先": {
+    "pinyin": "xiān",
+    "path": 6
+  },
+  "光": {
+    "pinyin": "guāng",
+    "path": 6
+  },
+  "克": {
+    "pinyin": "kè",
+    "path": 7
+  },
+  "免": {
+    "pinyin": "miǎn",
+    "path": 7
+  },
+  "兑": {
+    "pinyin": "duì ruì yuè",
+    "path": 7
+  },
+  "兔": {
+    "pinyin": "tù",
+    "path": 8
+  },
+  "党": {
+    "pinyin": "dǎng",
+    "path": 10
+  },
+  "兜": {
+    "pinyin": "dōu",
+    "path": 11
+  },
+  "兢": {
+    "pinyin": "jīng",
+    "path": 14
+  },
+  "入": {
+    "pinyin": "rù",
+    "path": 2
+  },
+  "全": {
+    "pinyin": "quán",
+    "path": 6
+  },
+  "八": {
+    "pinyin": "bā",
+    "path": 2
+  },
+  "公": {
+    "pinyin": "gōng",
+    "path": 4
+  },
+  "六": {
+    "pinyin": "liù lù",
+    "path": 4
+  },
+  "兰": {
+    "pinyin": "lán",
+    "path": 5
+  },
+  "共": {
+    "pinyin": "gòng gōng",
+    "path": 6
+  },
+  "关": {
+    "pinyin": "guān",
+    "path": 6
+  },
+  "兴": {
+    "pinyin": "xīng xìng",
+    "path": 6
+  },
+  "兵": {
+    "pinyin": "bīng",
+    "path": 7
+  },
+  "其": {
+    "pinyin": "qí jī",
+    "path": 8
+  },
+  "具": {
+    "pinyin": "jù",
+    "path": 8
+  },
+  "典": {
+    "pinyin": "diǎn",
+    "path": 8
+  },
+  "养": {
+    "pinyin": "yǎng",
+    "path": 9
+  },
+  "兼": {
+    "pinyin": "jiān",
+    "path": 10
+  },
+  "兽": {
+    "pinyin": "shòu",
+    "path": 11
+  },
+  "冀": {
+    "pinyin": "jì",
+    "path": 16
+  },
+  "内": {
+    "pinyin": "nèi nà",
+    "path": 4
+  },
+  "冈": {
+    "pinyin": "gāng",
+    "path": 4
+  },
+  "册": {
+    "pinyin": "cè",
+    "path": 5
+  },
+  "再": {
+    "pinyin": "zài",
+    "path": 6
+  },
+  "冒": {
+    "pinyin": "mào mò",
+    "path": 9
+  },
+  "冕": {
+    "pinyin": "miǎn",
+    "path": 11
+  },
+  "冗": {
+    "pinyin": "rǒng",
+    "path": 4
+  },
+  "写": {
+    "pinyin": "xiě",
+    "path": 5
+  },
+  "军": {
+    "pinyin": "jūn",
+    "path": 6
+  },
+  "农": {
+    "pinyin": "nóng",
+    "path": 6
+  },
+  "冠": {
+    "pinyin": "guān guàn",
+    "path": 9
+  },
+  "冤": {
+    "pinyin": "yuān",
+    "path": 10
+  },
+  "冬": {
+    "pinyin": "dōng",
+    "path": 5
+  },
+  "冯": {
+    "pinyin": "féng píng",
+    "path": 5
+  },
+  "冰": {
+    "pinyin": "bīng",
+    "path": 6
+  },
+  "冲": {
+    "pinyin": "chōng chòng",
+    "path": 6
+  },
+  "决": {
+    "pinyin": "jué",
+    "path": 6
+  },
+  "况": {
+    "pinyin": "kuàng",
+    "path": 7
+  },
+  "冶": {
+    "pinyin": "yě",
+    "path": 7
+  },
+  "冷": {
+    "pinyin": "lěng",
+    "path": 7
+  },
+  "冻": {
+    "pinyin": "dòng",
+    "path": 7
+  },
+  "净": {
+    "pinyin": "jìng chēng",
+    "path": 8
+  },
+  "凄": {
+    "pinyin": "qī",
+    "path": 10
+  },
+  "准": {
+    "pinyin": "zhǔn",
+    "path": 10
+  },
+  "凉": {
+    "pinyin": "liáng liàng",
+    "path": 10
+  },
+  "凌": {
+    "pinyin": "líng",
+    "path": 10
+  },
+  "减": {
+    "pinyin": "jiǎn",
+    "path": 11
+  },
+  "凑": {
+    "pinyin": "còu",
+    "path": 11
+  },
+  "凛": {
+    "pinyin": "lǐn",
+    "path": 15
+  },
+  "凝": {
+    "pinyin": "níng",
+    "path": 16
+  },
+  "几": {
+    "pinyin": "jǐ jī",
+    "path": 2
+  },
+  "凡": {
+    "pinyin": "fán",
+    "path": 3
+  },
+  "凤": {
+    "pinyin": "fèng",
+    "path": 4
+  },
+  "凫": {
+    "pinyin": "fú",
+    "path": 6
+  },
+  "凭": {
+    "pinyin": "píng",
+    "path": 8
+  },
+  "凯": {
+    "pinyin": "kǎi",
+    "path": 8
+  },
+  "凰": {
+    "pinyin": "huáng",
+    "path": 11
+  },
+  "凳": {
+    "pinyin": "dèng",
+    "path": 14
+  },
+  "凶": {
+    "pinyin": "xiōng",
+    "path": 4
+  },
+  "凸": {
+    "pinyin": "tū",
+    "path": 5
+  },
+  "凹": {
+    "pinyin": "āo wā",
+    "path": 5
+  },
+  "出": {
+    "pinyin": "chū",
+    "path": 5
+  },
+  "击": {
+    "pinyin": "jī",
+    "path": 5
+  },
+  "函": {
+    "pinyin": "hán",
+    "path": 8
+  },
+  "凿": {
+    "pinyin": "záo",
+    "path": 12
+  },
+  "刀": {
+    "pinyin": "dāo",
+    "path": 2
+  },
+  "刁": {
+    "pinyin": "diāo",
+    "path": 2
+  },
+  "刃": {
+    "pinyin": "rèn",
+    "path": 3
+  },
+  "分": {
+    "pinyin": "fēn fèn",
+    "path": 4
+  },
+  "切": {
+    "pinyin": "qiē qiè",
+    "path": 4
+  },
+  "刊": {
+    "pinyin": "kān",
+    "path": 5
+  },
+  "刑": {
+    "pinyin": "xíng",
+    "path": 6
+  },
+  "划": {
+    "pinyin": "huá huà huai",
+    "path": 6
+  },
+  "列": {
+    "pinyin": "liè",
+    "path": 6
+  },
+  "刘": {
+    "pinyin": "liú",
+    "path": 6
+  },
+  "则": {
+    "pinyin": "zé",
+    "path": 6
+  },
+  "刚": {
+    "pinyin": "gāng",
+    "path": 6
+  },
+  "创": {
+    "pinyin": "chuàng chuāng",
+    "path": 6
+  },
+  "初": {
+    "pinyin": "chū",
+    "path": 7
+  },
+  "删": {
+    "pinyin": "shān",
+    "path": 7
+  },
+  "判": {
+    "pinyin": "pàn",
+    "path": 7
+  },
+  "刨": {
+    "pinyin": "páo bào",
+    "path": 7
+  },
+  "利": {
+    "pinyin": "lì",
+    "path": 7
+  },
+  "别": {
+    "pinyin": "bié biè",
+    "path": 7
+  },
+  "刮": {
+    "pinyin": "guā",
+    "path": 8
+  },
+  "到": {
+    "pinyin": "dào",
+    "path": 8
+  },
+  "制": {
+    "pinyin": "zhì",
+    "path": 8
+  },
+  "刷": {
+    "pinyin": "shuā shuà",
+    "path": 8
+  },
+  "券": {
+    "pinyin": "quàn xuàn",
+    "path": 8
+  },
+  "刹": {
+    "pinyin": "shā chà",
+    "path": 8
+  },
+  "刺": {
+    "pinyin": "cì cī",
+    "path": 8
+  },
+  "刻": {
+    "pinyin": "kè",
+    "path": 8
+  },
+  "刽": {
+    "pinyin": "guì",
+    "path": 8
+  },
+  "剂": {
+    "pinyin": "jì",
+    "path": 8
+  },
+  "剃": {
+    "pinyin": "tì",
+    "path": 9
+  },
+  "削": {
+    "pinyin": "xuē xiāo",
+    "path": 9
+  },
+  "前": {
+    "pinyin": "qián",
+    "path": 9
+  },
+  "剑": {
+    "pinyin": "jiàn",
+    "path": 9
+  },
+  "剔": {
+    "pinyin": "tī",
+    "path": 10
+  },
+  "剖": {
+    "pinyin": "pōu",
+    "path": 10
+  },
+  "剥": {
+    "pinyin": "bāo bō",
+    "path": 10
+  },
+  "剧": {
+    "pinyin": "jù",
+    "path": 10
+  },
+  "剩": {
+    "pinyin": "shèng",
+    "path": 12
+  },
+  "剪": {
+    "pinyin": "jiǎn",
+    "path": 11
+  },
+  "副": {
+    "pinyin": "fù",
+    "path": 11
+  },
+  "割": {
+    "pinyin": "gē",
+    "path": 12
+  },
+  "剿": {
+    "pinyin": "jiǎo chāo",
+    "path": 13
+  },
+  "劈": {
+    "pinyin": "pī pǐ",
+    "path": 15
+  },
+  "力": {
+    "pinyin": "lì",
+    "path": 2
+  },
+  "劝": {
+    "pinyin": "quàn",
+    "path": 4
+  },
+  "办": {
+    "pinyin": "bàn",
+    "path": 4
+  },
+  "功": {
+    "pinyin": "gōng",
+    "path": 5
+  },
+  "加": {
+    "pinyin": "jiā",
+    "path": 5
+  },
+  "务": {
+    "pinyin": "wù",
+    "path": 5
+  },
+  "劣": {
+    "pinyin": "liè",
+    "path": 6
+  },
+  "动": {
+    "pinyin": "dòng",
+    "path": 6
+  },
+  "助": {
+    "pinyin": "zhù chú",
+    "path": 7
+  },
+  "努": {
+    "pinyin": "nǔ",
+    "path": 7
+  },
+  "劫": {
+    "pinyin": "jié",
+    "path": 7
+  },
+  "励": {
+    "pinyin": "lì",
+    "path": 7
+  },
+  "劲": {
+    "pinyin": "jìn jìng",
+    "path": 7
+  },
+  "劳": {
+    "pinyin": "láo",
+    "path": 7
+  },
+  "势": {
+    "pinyin": "shì",
+    "path": 8
+  },
+  "勃": {
+    "pinyin": "bó bèi",
+    "path": 9
+  },
+  "勇": {
+    "pinyin": "yǒng",
+    "path": 9
+  },
+  "勉": {
+    "pinyin": "miǎn",
+    "path": 9
+  },
+  "勋": {
+    "pinyin": "xūn",
+    "path": 9
+  },
+  "勒": {
+    "pinyin": "lè lēi",
+    "path": 11
+  },
+  "勘": {
+    "pinyin": "kān",
+    "path": 11
+  },
+  "募": {
+    "pinyin": "mù",
+    "path": 12
+  },
+  "勤": {
+    "pinyin": "qín",
+    "path": 13
+  },
+  "勺": {
+    "pinyin": "sháo",
+    "path": 3
+  },
+  "勾": {
+    "pinyin": "gōu gòu",
+    "path": 4
+  },
+  "勿": {
+    "pinyin": "wù",
+    "path": 4
+  },
+  "匀": {
+    "pinyin": "yún",
+    "path": 4
+  },
+  "包": {
+    "pinyin": "bāo",
+    "path": 5
+  },
+  "匆": {
+    "pinyin": "cōng",
+    "path": 5
+  },
+  "匈": {
+    "pinyin": "xiōng",
+    "path": 6
+  },
+  "匕": {
+    "pinyin": "bǐ",
+    "path": 2
+  },
+  "化": {
+    "pinyin": "huà huā",
+    "path": 4
+  },
+  "北": {
+    "pinyin": "běi bèi",
+    "path": 5
+  },
+  "匙": {
+    "pinyin": "chí shi",
+    "path": 11
+  },
+  "匠": {
+    "pinyin": "jiàng",
+    "path": 6
+  },
+  "匣": {
+    "pinyin": "xiá",
+    "path": 7
+  },
+  "匪": {
+    "pinyin": "fěi",
+    "path": 10
+  },
+  "匹": {
+    "pinyin": "pǐ",
+    "path": 4
+  },
+  "区": {
+    "pinyin": "qū ōu",
+    "path": 4
+  },
+  "医": {
+    "pinyin": "yī",
+    "path": 7
+  },
+  "匾": {
+    "pinyin": "biǎn",
+    "path": 11
+  },
+  "匿": {
+    "pinyin": "nì",
+    "path": 10
+  },
+  "十": {
+    "pinyin": "shí",
+    "path": 2
+  },
+  "千": {
+    "pinyin": "qiān",
+    "path": 3
+  },
+  "升": {
+    "pinyin": "shēng",
+    "path": 4
+  },
+  "午": {
+    "pinyin": "wǔ",
+    "path": 4
+  },
+  "半": {
+    "pinyin": "bàn",
+    "path": 5
+  },
+  "华": {
+    "pinyin": "huá huā huà",
+    "path": 6
+  },
+  "协": {
+    "pinyin": "xié",
+    "path": 6
+  },
+  "卑": {
+    "pinyin": "bēi",
+    "path": 8
+  },
+  "卒": {
+    "pinyin": "zú cù",
+    "path": 8
+  },
+  "卓": {
+    "pinyin": "zhuó",
+    "path": 8
+  },
+  "单": {
+    "pinyin": "dān chán shàn",
+    "path": 8
+  },
+  "卖": {
+    "pinyin": "mài",
+    "path": 8
+  },
+  "南": {
+    "pinyin": "nán nā",
+    "path": 9
+  },
+  "博": {
+    "pinyin": "bó",
+    "path": 12
+  },
+  "卜": {
+    "pinyin": "bǔ bo pú",
+    "path": 2
+  },
+  "占": {
+    "pinyin": "zhàn zhān",
+    "path": 5
+  },
+  "卡": {
+    "pinyin": "kǎ qiǎ",
+    "path": 5
+  },
+  "卢": {
+    "pinyin": "lú",
+    "path": 5
+  },
+  "卤": {
+    "pinyin": "lǔ",
+    "path": 7
+  },
+  "卦": {
+    "pinyin": "guà",
+    "path": 8
+  },
+  "卧": {
+    "pinyin": "wò",
+    "path": 8
+  },
+  "卫": {
+    "pinyin": "wèi",
+    "path": 3
+  },
+  "印": {
+    "pinyin": "yìn",
+    "path": 5
+  },
+  "危": {
+    "pinyin": "wēi",
+    "path": 6
+  },
+  "即": {
+    "pinyin": "jí",
+    "path": 7
+  },
+  "却": {
+    "pinyin": "què",
+    "path": 7
+  },
+  "卵": {
+    "pinyin": "luǎn",
+    "path": 7
+  },
+  "卷": {
+    "pinyin": "juàn juǎn",
+    "path": 8
+  },
+  "卸": {
+    "pinyin": "xiè",
+    "path": 9
+  },
+  "卿": {
+    "pinyin": "qīng",
+    "path": 10
+  },
+  "厂": {
+    "pinyin": "chǎng ān",
+    "path": 2
+  },
+  "厅": {
+    "pinyin": "tīng",
+    "path": 4
+  },
+  "历": {
+    "pinyin": "lì",
+    "path": 4
+  },
+  "厉": {
+    "pinyin": "lì",
+    "path": 5
+  },
+  "压": {
+    "pinyin": "yā yà",
+    "path": 6
+  },
+  "厌": {
+    "pinyin": "yàn",
+    "path": 6
+  },
+  "厕": {
+    "pinyin": "cè",
+    "path": 8
+  },
+  "厘": {
+    "pinyin": "lí",
+    "path": 9
+  },
+  "厚": {
+    "pinyin": "hòu",
+    "path": 9
+  },
+  "原": {
+    "pinyin": "yuán",
+    "path": 10
+  },
+  "厢": {
+    "pinyin": "xiāng",
+    "path": 11
+  },
+  "厦": {
+    "pinyin": "shà xià",
+    "path": 12
+  },
+  "厨": {
+    "pinyin": "chú",
+    "path": 12
+  },
+  "去": {
+    "pinyin": "qù",
+    "path": 5
+  },
+  "县": {
+    "pinyin": "xiàn xuán",
+    "path": 7
+  },
+  "参": {
+    "pinyin": "cān shēn cēn sān",
+    "path": 8
+  },
+  "又": {
+    "pinyin": "yòu",
+    "path": 2
+  },
+  "叉": {
+    "pinyin": "chā chà chǎ chá",
+    "path": 3
+  },
+  "及": {
+    "pinyin": "jí",
+    "path": 3
+  },
+  "友": {
+    "pinyin": "yǒu",
+    "path": 4
+  },
+  "双": {
+    "pinyin": "shuāng",
+    "path": 4
+  },
+  "反": {
+    "pinyin": "fǎn",
+    "path": 4
+  },
+  "发": {
+    "pinyin": "fā fà",
+    "path": 5
+  },
+  "叔": {
+    "pinyin": "shū",
+    "path": 8
+  },
+  "取": {
+    "pinyin": "qǔ",
+    "path": 8
+  },
+  "受": {
+    "pinyin": "shòu",
+    "path": 8
+  },
+  "变": {
+    "pinyin": "biàn",
+    "path": 8
+  },
+  "叙": {
+    "pinyin": "xù",
+    "path": 9
+  },
+  "叛": {
+    "pinyin": "pàn",
+    "path": 9
+  },
+  "叠": {
+    "pinyin": "dié",
+    "path": 13
+  },
+  "口": {
+    "pinyin": "kǒu",
+    "path": 3
+  },
+  "古": {
+    "pinyin": "gǔ",
+    "path": 5
+  },
+  "句": {
+    "pinyin": "jù gōu",
+    "path": 5
+  },
+  "另": {
+    "pinyin": "lìng",
+    "path": 5
+  },
+  "叨": {
+    "pinyin": "dāo dáo tāo",
+    "path": 5
+  },
+  "只": {
+    "pinyin": "zhī zhǐ",
+    "path": 5
+  },
+  "叫": {
+    "pinyin": "jiào",
+    "path": 5
+  },
+  "召": {
+    "pinyin": "zhào shào",
+    "path": 5
+  },
+  "叭": {
+    "pinyin": "bā",
+    "path": 5
+  },
+  "叮": {
+    "pinyin": "dīng",
+    "path": 5
+  },
+  "可": {
+    "pinyin": "kě kè",
+    "path": 5
+  },
+  "台": {
+    "pinyin": "tái tāi",
+    "path": 5
+  },
+  "史": {
+    "pinyin": "shǐ",
+    "path": 5
+  },
+  "右": {
+    "pinyin": "yòu",
+    "path": 5
+  },
+  "叶": {
+    "pinyin": "yè xié",
+    "path": 5
+  },
+  "号": {
+    "pinyin": "hào háo",
+    "path": 5
+  },
+  "司": {
+    "pinyin": "sī",
+    "path": 5
+  },
+  "叹": {
+    "pinyin": "tàn",
+    "path": 5
+  },
+  "叼": {
+    "pinyin": "diāo",
+    "path": 5
+  },
+  "叽": {
+    "pinyin": "jī",
+    "path": 5
+  },
+  "吁": {
+    "pinyin": "xū yū yù",
+    "path": 6
+  },
+  "吃": {
+    "pinyin": "chī",
+    "path": 6
+  },
+  "各": {
+    "pinyin": "gè gě",
+    "path": 6
+  },
+  "吆": {
+    "pinyin": "yāo",
+    "path": 6
+  },
+  "合": {
+    "pinyin": "hé gě",
+    "path": 6
+  },
+  "吉": {
+    "pinyin": "jí",
+    "path": 6
+  },
+  "吊": {
+    "pinyin": "diào",
+    "path": 6
+  },
+  "同": {
+    "pinyin": "tóng tòng",
+    "path": 6
+  },
+  "名": {
+    "pinyin": "míng",
+    "path": 6
+  },
+  "后": {
+    "pinyin": "hòu",
+    "path": 6
+  },
+  "吏": {
+    "pinyin": "lì",
+    "path": 6
+  },
+  "吐": {
+    "pinyin": "tǔ tù",
+    "path": 6
+  },
+  "向": {
+    "pinyin": "xiàng",
+    "path": 6
+  },
+  "吓": {
+    "pinyin": "xià hè",
+    "path": 6
+  },
+  "吕": {
+    "pinyin": "lǚ",
+    "path": 6
+  },
+  "吗": {
+    "pinyin": "ma má mǎ",
+    "path": 6
+  },
+  "君": {
+    "pinyin": "jūn",
+    "path": 7
+  },
+  "吝": {
+    "pinyin": "lìn",
+    "path": 7
+  },
+  "吞": {
+    "pinyin": "tūn",
+    "path": 7
+  },
+  "吟": {
+    "pinyin": "yín",
+    "path": 7
+  },
+  "吠": {
+    "pinyin": "fèi",
+    "path": 7
+  },
+  "否": {
+    "pinyin": "fǒu pǐ",
+    "path": 7
+  },
+  "吧": {
+    "pinyin": "bā ba",
+    "path": 7
+  },
+  "吨": {
+    "pinyin": "dūn",
+    "path": 7
+  },
+  "吩": {
+    "pinyin": "fēn",
+    "path": 7
+  },
+  "含": {
+    "pinyin": "hán",
+    "path": 7
+  },
+  "听": {
+    "pinyin": "tīng",
+    "path": 7
+  },
+  "吭": {
+    "pinyin": "kēng háng",
+    "path": 7
+  },
+  "吮": {
+    "pinyin": "shǔn",
+    "path": 7
+  },
+  "启": {
+    "pinyin": "qǐ",
+    "path": 7
+  },
+  "吱": {
+    "pinyin": "zī zhī",
+    "path": 7
+  },
+  "吴": {
+    "pinyin": "wú",
+    "path": 7
+  },
+  "吵": {
+    "pinyin": "chǎo chāo",
+    "path": 7
+  },
+  "吸": {
+    "pinyin": "xī",
+    "path": 6
+  },
+  "吹": {
+    "pinyin": "chuī",
+    "path": 7
+  },
+  "吻": {
+    "pinyin": "wěn",
+    "path": 7
+  },
+  "吼": {
+    "pinyin": "hǒu",
+    "path": 7
+  },
+  "呀": {
+    "pinyin": "yā ya",
+    "path": 7
+  },
+  "呆": {
+    "pinyin": "dāi",
+    "path": 7
+  },
+  "呈": {
+    "pinyin": "chéng",
+    "path": 7
+  },
+  "告": {
+    "pinyin": "gào",
+    "path": 7
+  },
+  "呐": {
+    "pinyin": "nà ·ne",
+    "path": 7
+  },
+  "呕": {
+    "pinyin": "ǒu ōu òu",
+    "path": 7
+  },
+  "员": {
+    "pinyin": "yuán yún yùn",
+    "path": 7
+  },
+  "呛": {
+    "pinyin": "qiāng qiàng",
+    "path": 7
+  },
+  "呜": {
+    "pinyin": "wū",
+    "path": 7
+  },
+  "呢": {
+    "pinyin": "ne ní",
+    "path": 8
+  },
+  "周": {
+    "pinyin": "zhōu",
+    "path": 8
+  },
+  "味": {
+    "pinyin": "wèi",
+    "path": 8
+  },
+  "呵": {
+    "pinyin": "hē ā á ǎ à a kē",
+    "path": 8
+  },
+  "呻": {
+    "pinyin": "shēn",
+    "path": 8
+  },
+  "呼": {
+    "pinyin": "hū",
+    "path": 8
+  },
+  "命": {
+    "pinyin": "mìng",
+    "path": 8
+  },
+  "咆": {
+    "pinyin": "páo",
+    "path": 8
+  },
+  "和": {
+    "pinyin": "hé hè huò huó hú",
+    "path": 8
+  },
+  "咏": {
+    "pinyin": "yǒng",
+    "path": 8
+  },
+  "咐": {
+    "pinyin": "fù",
+    "path": 8
+  },
+  "咒": {
+    "pinyin": "zhòu",
+    "path": 8
+  },
+  "咕": {
+    "pinyin": "gū",
+    "path": 8
+  },
+  "咖": {
+    "pinyin": "kā gā",
+    "path": 8
+  },
+  "咙": {
+    "pinyin": "lóng",
+    "path": 8
+  },
+  "咧": {
+    "pinyin": "liē liě lie lié",
+    "path": 9
+  },
+  "咨": {
+    "pinyin": "zī",
+    "path": 9
+  },
+  "咪": {
+    "pinyin": "mī",
+    "path": 9
+  },
+  "咬": {
+    "pinyin": "yǎo",
+    "path": 9
+  },
+  "咱": {
+    "pinyin": "zán zá zǎ zan",
+    "path": 9
+  },
+  "咳": {
+    "pinyin": "hāi ké",
+    "path": 9
+  },
+  "咸": {
+    "pinyin": "xián",
+    "path": 9
+  },
+  "咽": {
+    "pinyin": "yān yàn yè",
+    "path": 9
+  },
+  "哀": {
+    "pinyin": "āi",
+    "path": 9
+  },
+  "品": {
+    "pinyin": "pǐn",
+    "path": 9
+  },
+  "哄": {
+    "pinyin": "hǒng hōng hòng",
+    "path": 9
+  },
+  "哆": {
+    "pinyin": "duō",
+    "path": 9
+  },
+  "哈": {
+    "pinyin": "hā hǎ hà",
+    "path": 9
+  },
+  "响": {
+    "pinyin": "xiǎng",
+    "path": 9
+  },
+  "哎": {
+    "pinyin": "āi",
+    "path": 8
+  },
+  "哑": {
+    "pinyin": "yǎ yā",
+    "path": 9
+  },
+  "哗": {
+    "pinyin": "huá huā",
+    "path": 9
+  },
+  "哟": {
+    "pinyin": "yō yo",
+    "path": 9
+  },
+  "哥": {
+    "pinyin": "gē",
+    "path": 10
+  },
+  "哨": {
+    "pinyin": "shào",
+    "path": 10
+  },
+  "哩": {
+    "pinyin": "lī lǐ li",
+    "path": 10
+  },
+  "哪": {
+    "pinyin": "nǎ na nǎi né něi",
+    "path": 9
+  },
+  "哭": {
+    "pinyin": "kū",
+    "path": 10
+  },
+  "哮": {
+    "pinyin": "xiào",
+    "path": 10
+  },
+  "哲": {
+    "pinyin": "zhé",
+    "path": 10
+  },
+  "哺": {
+    "pinyin": "bǔ",
+    "path": 10
+  },
+  "哼": {
+    "pinyin": "hēng hng",
+    "path": 10
+  },
+  "唁": {
+    "pinyin": "yàn",
+    "path": 10
+  },
+  "唆": {
+    "pinyin": "suō",
+    "path": 10
+  },
+  "唇": {
+    "pinyin": "chún",
+    "path": 10
+  },
+  "唉": {
+    "pinyin": "āi ài",
+    "path": 10
+  },
+  "唐": {
+    "pinyin": "táng",
+    "path": 10
+  },
+  "唠": {
+    "pinyin": "lào láo",
+    "path": 10
+  },
+  "唤": {
+    "pinyin": "huàn",
+    "path": 10
+  },
+  "唧": {
+    "pinyin": "jī",
+    "path": 10
+  },
+  "唬": {
+    "pinyin": "hǔ xià",
+    "path": 11
+  },
+  "售": {
+    "pinyin": "shòu",
+    "path": 11
+  },
+  "唯": {
+    "pinyin": "wéi",
+    "path": 11
+  },
+  "唱": {
+    "pinyin": "chàng",
+    "path": 11
+  },
+  "唾": {
+    "pinyin": "tuò",
+    "path": 11
+  },
+  "啃": {
+    "pinyin": "kěn",
+    "path": 11
+  },
+  "啄": {
+    "pinyin": "zhuó",
+    "path": 11
+  },
+  "商": {
+    "pinyin": "shāng",
+    "path": 11
+  },
+  "啊": {
+    "pinyin": "ā a ǎ á à",
+    "path": 10
+  },
+  "啡": {
+    "pinyin": "fēi",
+    "path": 11
+  },
+  "啤": {
+    "pinyin": "pí",
+    "path": 11
+  },
+  "啥": {
+    "pinyin": "shá",
+    "path": 11
+  },
+  "啦": {
+    "pinyin": "lā la",
+    "path": 11
+  },
+  "啰": {
+    "pinyin": "luō luó luo",
+    "path": 11
+  },
+  "啸": {
+    "pinyin": "xiào",
+    "path": 11
+  },
+  "啼": {
+    "pinyin": "tí",
+    "path": 12
+  },
+  "喂": {
+    "pinyin": "wèi",
+    "path": 12
+  },
+  "善": {
+    "pinyin": "shàn",
+    "path": 12
+  },
+  "喇": {
+    "pinyin": "lā lá lǎ",
+    "path": 12
+  },
+  "喉": {
+    "pinyin": "hóu",
+    "path": 12
+  },
+  "喊": {
+    "pinyin": "hǎn",
+    "path": 12
+  },
+  "喘": {
+    "pinyin": "chuǎn",
+    "path": 12
+  },
+  "喜": {
+    "pinyin": "xǐ",
+    "path": 12
+  },
+  "喝": {
+    "pinyin": "hē hè yè",
+    "path": 12
+  },
+  "喧": {
+    "pinyin": "xuān",
+    "path": 12
+  },
+  "喳": {
+    "pinyin": "zhā chā",
+    "path": 12
+  },
+  "喷": {
+    "pinyin": "pēn pèn",
+    "path": 12
+  },
+  "喻": {
+    "pinyin": "yù",
+    "path": 12
+  },
+  "嗅": {
+    "pinyin": "xiù",
+    "path": 13
+  },
+  "嗓": {
+    "pinyin": "sǎng",
+    "path": 13
+  },
+  "嗜": {
+    "pinyin": "shì",
+    "path": 13
+  },
+  "嗡": {
+    "pinyin": "wēng",
+    "path": 13
+  },
+  "嗤": {
+    "pinyin": "chī",
+    "path": 13
+  },
+  "嗦": {
+    "pinyin": "suō",
+    "path": 13
+  },
+  "嗽": {
+    "pinyin": "sòu",
+    "path": 14
+  },
+  "嘀": {
+    "pinyin": "dí",
+    "path": 14
+  },
+  "嘁": {
+    "pinyin": "qī",
+    "path": 14
+  },
+  "嘉": {
+    "pinyin": "jiā",
+    "path": 14
+  },
+  "嘱": {
+    "pinyin": "zhǔ",
+    "path": 15
+  },
+  "嘲": {
+    "pinyin": "cháo zhāo",
+    "path": 15
+  },
+  "嘴": {
+    "pinyin": "zuǐ",
+    "path": 16
+  },
+  "嘶": {
+    "pinyin": "sī",
+    "path": 15
+  },
+  "嘹": {
+    "pinyin": "liáo",
+    "path": 15
+  },
+  "嘿": {
+    "pinyin": "hēi mò",
+    "path": 15
+  },
+  "器": {
+    "pinyin": "qì",
+    "path": 16
+  },
+  "噩": {
+    "pinyin": "è",
+    "path": 16
+  },
+  "噪": {
+    "pinyin": "zào",
+    "path": 16
+  },
+  "嚎": {
+    "pinyin": "háo",
+    "path": 17
+  },
+  "嚣": {
+    "pinyin": "áo xiāo",
+    "path": 18
+  },
+  "嚷": {
+    "pinyin": "rǎng rāng",
+    "path": 20
+  },
+  "嚼": {
+    "pinyin": "jiáo jué jiào",
+    "path": 20
+  },
+  "囊": {
+    "pinyin": "náng nāng",
+    "path": 22
+  },
+  "囚": {
+    "pinyin": "qiú",
+    "path": 5
+  },
+  "四": {
+    "pinyin": "sì",
+    "path": 5
+  },
+  "回": {
+    "pinyin": "huí",
+    "path": 6
+  },
+  "因": {
+    "pinyin": "yīn",
+    "path": 6
+  },
+  "团": {
+    "pinyin": "tuán",
+    "path": 6
+  },
+  "囤": {
+    "pinyin": "dùn tún",
+    "path": 7
+  },
+  "园": {
+    "pinyin": "yuán",
+    "path": 7
+  },
+  "困": {
+    "pinyin": "kùn",
+    "path": 7
+  },
+  "囱": {
+    "pinyin": "cōng",
+    "path": 7
+  },
+  "围": {
+    "pinyin": "wéi",
+    "path": 7
+  },
+  "固": {
+    "pinyin": "gù",
+    "path": 8
+  },
+  "国": {
+    "pinyin": "guó",
+    "path": 8
+  },
+  "图": {
+    "pinyin": "tú",
+    "path": 8
+  },
+  "圃": {
+    "pinyin": "pǔ",
+    "path": 10
+  },
+  "圆": {
+    "pinyin": "yuán",
+    "path": 10
+  },
+  "圈": {
+    "pinyin": "quān juàn juān",
+    "path": 11
+  },
+  "土": {
+    "pinyin": "tǔ",
+    "path": 3
+  },
+  "圣": {
+    "pinyin": "shèng",
+    "path": 5
+  },
+  "在": {
+    "pinyin": "zài",
+    "path": 6
+  },
+  "地": {
+    "pinyin": "dì de",
+    "path": 6
+  },
+  "场": {
+    "pinyin": "chǎng cháng",
+    "path": 6
+  },
+  "圾": {
+    "pinyin": "jī",
+    "path": 6
+  },
+  "址": {
+    "pinyin": "zhǐ",
+    "path": 7
+  },
+  "均": {
+    "pinyin": "jūn",
+    "path": 7
+  },
+  "坊": {
+    "pinyin": "fāng fáng",
+    "path": 7
+  },
+  "坎": {
+    "pinyin": "kǎn",
+    "path": 7
+  },
+  "坏": {
+    "pinyin": "huài pī pēi péi",
+    "path": 7
+  },
+  "坐": {
+    "pinyin": "zuò",
+    "path": 7
+  },
+  "坑": {
+    "pinyin": "kēng",
+    "path": 7
+  },
+  "块": {
+    "pinyin": "kuài",
+    "path": 7
+  },
+  "坚": {
+    "pinyin": "jiān",
+    "path": 7
+  },
+  "坛": {
+    "pinyin": "tán",
+    "path": 7
+  },
+  "坝": {
+    "pinyin": "bà",
+    "path": 7
+  },
+  "坞": {
+    "pinyin": "wù",
+    "path": 7
+  },
+  "坟": {
+    "pinyin": "fén",
+    "path": 7
+  },
+  "坠": {
+    "pinyin": "zhuì",
+    "path": 7
+  },
+  "坡": {
+    "pinyin": "pō",
+    "path": 8
+  },
+  "坤": {
+    "pinyin": "kūn",
+    "path": 8
+  },
+  "坦": {
+    "pinyin": "tǎn",
+    "path": 8
+  },
+  "坪": {
+    "pinyin": "píng",
+    "path": 8
+  },
+  "坯": {
+    "pinyin": "pī",
+    "path": 8
+  },
+  "坷": {
+    "pinyin": "kē kě",
+    "path": 8
+  },
+  "垂": {
+    "pinyin": "chuí",
+    "path": 8
+  },
+  "垃": {
+    "pinyin": "lā",
+    "path": 8
+  },
+  "垄": {
+    "pinyin": "lǒng",
+    "path": 8
+  },
+  "型": {
+    "pinyin": "xíng",
+    "path": 9
+  },
+  "垒": {
+    "pinyin": "lěi",
+    "path": 9
+  },
+  "垛": {
+    "pinyin": "duǒ duò",
+    "path": 9
+  },
+  "垢": {
+    "pinyin": "gòu",
+    "path": 9
+  },
+  "垦": {
+    "pinyin": "kěn",
+    "path": 9
+  },
+  "垫": {
+    "pinyin": "diàn",
+    "path": 9
+  },
+  "垮": {
+    "pinyin": "kuǎ",
+    "path": 9
+  },
+  "埂": {
+    "pinyin": "gěng",
+    "path": 10
+  },
+  "埃": {
+    "pinyin": "āi",
+    "path": 10
+  },
+  "埋": {
+    "pinyin": "mái mán",
+    "path": 10
+  },
+  "城": {
+    "pinyin": "chéng",
+    "path": 9
+  },
+  "域": {
+    "pinyin": "yù",
+    "path": 11
+  },
+  "埠": {
+    "pinyin": "bù",
+    "path": 11
+  },
+  "培": {
+    "pinyin": "péi",
+    "path": 11
+  },
+  "基": {
+    "pinyin": "jī",
+    "path": 11
+  },
+  "堂": {
+    "pinyin": "táng",
+    "path": 11
+  },
+  "堆": {
+    "pinyin": "duī",
+    "path": 11
+  },
+  "堕": {
+    "pinyin": "duò huī",
+    "path": 11
+  },
+  "堡": {
+    "pinyin": "pù bǎo bǔ",
+    "path": 12
+  },
+  "堤": {
+    "pinyin": "dī",
+    "path": 12
+  },
+  "堪": {
+    "pinyin": "kān",
+    "path": 12
+  },
+  "堰": {
+    "pinyin": "yàn",
+    "path": 12
+  },
+  "堵": {
+    "pinyin": "dǔ",
+    "path": 11
+  },
+  "塌": {
+    "pinyin": "tā",
+    "path": 13
+  },
+  "塑": {
+    "pinyin": "sù",
+    "path": 13
+  },
+  "塔": {
+    "pinyin": "tǎ",
+    "path": 12
+  },
+  "塘": {
+    "pinyin": "táng",
+    "path": 13
+  },
+  "塞": {
+    "pinyin": "sāi sè sài",
+    "path": 13
+  },
+  "填": {
+    "pinyin": "tián zhèn",
+    "path": 13
+  },
+  "境": {
+    "pinyin": "jìng",
+    "path": 14
+  },
+  "墅": {
+    "pinyin": "shù",
+    "path": 14
+  },
+  "墓": {
+    "pinyin": "mù",
+    "path": 13
+  },
+  "墙": {
+    "pinyin": "qiáng",
+    "path": 14
+  },
+  "增": {
+    "pinyin": "zēng",
+    "path": 15
+  },
+  "墨": {
+    "pinyin": "mò",
+    "path": 15
+  },
+  "墩": {
+    "pinyin": "dūn",
+    "path": 15
+  },
+  "壁": {
+    "pinyin": "bì",
+    "path": 16
+  },
+  "壕": {
+    "pinyin": "háo",
+    "path": 17
+  },
+  "壤": {
+    "pinyin": "rǎng",
+    "path": 20
+  },
+  "士": {
+    "pinyin": "shì",
+    "path": 3
+  },
+  "壮": {
+    "pinyin": "zhuàng",
+    "path": 6
+  },
+  "声": {
+    "pinyin": "shēng",
+    "path": 7
+  },
+  "壳": {
+    "pinyin": "ké qiào",
+    "path": 7
+  },
+  "壶": {
+    "pinyin": "hú",
+    "path": 10
+  },
+  "壹": {
+    "pinyin": "yī",
+    "path": 12
+  },
+  "处": {
+    "pinyin": "chǔ chù",
+    "path": 5
+  },
+  "备": {
+    "pinyin": "bèi",
+    "path": 8
+  },
+  "复": {
+    "pinyin": "fù",
+    "path": 9
+  },
+  "夏": {
+    "pinyin": "xià",
+    "path": 10
+  },
+  "夕": {
+    "pinyin": "xī",
+    "path": 3
+  },
+  "外": {
+    "pinyin": "wài",
+    "path": 5
+  },
+  "多": {
+    "pinyin": "duō",
+    "path": 6
+  },
+  "夜": {
+    "pinyin": "yè",
+    "path": 8
+  },
+  "够": {
+    "pinyin": "gòu",
+    "path": 11
+  },
+  "大": {
+    "pinyin": "dà dài",
+    "path": 3
+  },
+  "天": {
+    "pinyin": "tiān",
+    "path": 4
+  },
+  "太": {
+    "pinyin": "tài",
+    "path": 4
+  },
+  "夫": {
+    "pinyin": "fū fú",
+    "path": 4
+  },
+  "夭": {
+    "pinyin": "yāo",
+    "path": 4
+  },
+  "央": {
+    "pinyin": "yāng",
+    "path": 5
+  },
+  "夯": {
+    "pinyin": "hāng bèn",
+    "path": 5
+  },
+  "失": {
+    "pinyin": "shī",
+    "path": 5
+  },
+  "头": {
+    "pinyin": "tóu tou",
+    "path": 5
+  },
+  "夷": {
+    "pinyin": "yí",
+    "path": 6
+  },
+  "夸": {
+    "pinyin": "kuā kuà",
+    "path": 6
+  },
+  "夹": {
+    "pinyin": "jiā jiá gā xiá",
+    "path": 6
+  },
+  "夺": {
+    "pinyin": "duó",
+    "path": 6
+  },
+  "奄": {
+    "pinyin": "yǎn yān",
+    "path": 8
+  },
+  "奇": {
+    "pinyin": "qí jī",
+    "path": 8
+  },
+  "奈": {
+    "pinyin": "nài",
+    "path": 8
+  },
+  "奉": {
+    "pinyin": "fèng",
+    "path": 8
+  },
+  "奋": {
+    "pinyin": "fèn",
+    "path": 8
+  },
+  "奏": {
+    "pinyin": "zòu",
+    "path": 9
+  },
+  "契": {
+    "pinyin": "qì qiè xiè",
+    "path": 9
+  },
+  "奔": {
+    "pinyin": "bēn bèn",
+    "path": 8
+  },
+  "奕": {
+    "pinyin": "yì",
+    "path": 9
+  },
+  "奖": {
+    "pinyin": "jiǎng",
+    "path": 9
+  },
+  "套": {
+    "pinyin": "tào",
+    "path": 10
+  },
+  "奠": {
+    "pinyin": "diàn",
+    "path": 12
+  },
+  "奢": {
+    "pinyin": "shē",
+    "path": 11
+  },
+  "奥": {
+    "pinyin": "ào yù",
+    "path": 12
+  },
+  "女": {
+    "pinyin": "nǚ rǔ",
+    "path": 3
+  },
+  "奴": {
+    "pinyin": "nú",
+    "path": 5
+  },
+  "奶": {
+    "pinyin": "nǎi",
+    "path": 5
+  },
+  "奸": {
+    "pinyin": "jiān",
+    "path": 6
+  },
+  "她": {
+    "pinyin": "tā jiě",
+    "path": 6
+  },
+  "好": {
+    "pinyin": "hǎo hào",
+    "path": 6
+  },
+  "如": {
+    "pinyin": "rú",
+    "path": 6
+  },
+  "妄": {
+    "pinyin": "wàng",
+    "path": 6
+  },
+  "妆": {
+    "pinyin": "zhuāng",
+    "path": 6
+  },
+  "妇": {
+    "pinyin": "fù",
+    "path": 6
+  },
+  "妈": {
+    "pinyin": "mā",
+    "path": 6
+  },
+  "妒": {
+    "pinyin": "dù",
+    "path": 7
+  },
+  "妓": {
+    "pinyin": "jì",
+    "path": 7
+  },
+  "妖": {
+    "pinyin": "yāo",
+    "path": 7
+  },
+  "妙": {
+    "pinyin": "miào",
+    "path": 7
+  },
+  "妥": {
+    "pinyin": "tuǒ",
+    "path": 7
+  },
+  "妨": {
+    "pinyin": "fáng",
+    "path": 7
+  },
+  "妹": {
+    "pinyin": "mèi",
+    "path": 8
+  },
+  "妻": {
+    "pinyin": "qī qì",
+    "path": 8
+  },
+  "姆": {
+    "pinyin": "mǔ",
+    "path": 8
+  },
+  "姊": {
+    "pinyin": "zǐ",
+    "path": 7
+  },
+  "始": {
+    "pinyin": "shǐ",
+    "path": 8
+  },
+  "姐": {
+    "pinyin": "jiě",
+    "path": 8
+  },
+  "姑": {
+    "pinyin": "gū",
+    "path": 8
+  },
+  "姓": {
+    "pinyin": "xìng",
+    "path": 8
+  },
+  "委": {
+    "pinyin": "wěi wēi",
+    "path": 8
+  },
+  "姚": {
+    "pinyin": "yáo",
+    "path": 9
+  },
+  "姜": {
+    "pinyin": "jiāng",
+    "path": 9
+  },
+  "姥": {
+    "pinyin": "lǎo mǔ",
+    "path": 9
+  },
+  "姨": {
+    "pinyin": "yí",
+    "path": 9
+  },
+  "姻": {
+    "pinyin": "yīn",
+    "path": 9
+  },
+  "姿": {
+    "pinyin": "zī",
+    "path": 9
+  },
+  "威": {
+    "pinyin": "wēi",
+    "path": 9
+  },
+  "娃": {
+    "pinyin": "wá",
+    "path": 9
+  },
+  "娄": {
+    "pinyin": "lóu",
+    "path": 9
+  },
+  "娇": {
+    "pinyin": "jiāo",
+    "path": 9
+  },
+  "娘": {
+    "pinyin": "niáng",
+    "path": 10
+  },
+  "娜": {
+    "pinyin": "nà nuó",
+    "path": 9
+  },
+  "娩": {
+    "pinyin": "miǎn",
+    "path": 10
+  },
+  "娱": {
+    "pinyin": "yú",
+    "path": 10
+  },
+  "娶": {
+    "pinyin": "qǔ",
+    "path": 11
+  },
+  "婆": {
+    "pinyin": "pó",
+    "path": 11
+  },
+  "婉": {
+    "pinyin": "wǎn",
+    "path": 11
+  },
+  "婚": {
+    "pinyin": "hūn",
+    "path": 11
+  },
+  "婴": {
+    "pinyin": "yīng",
+    "path": 11
+  },
+  "婶": {
+    "pinyin": "shěn",
+    "path": 11
+  },
+  "婿": {
+    "pinyin": "xù",
+    "path": 12
+  },
+  "媒": {
+    "pinyin": "méi",
+    "path": 12
+  },
+  "媚": {
+    "pinyin": "mèi",
+    "path": 12
+  },
+  "媳": {
+    "pinyin": "xí",
+    "path": 13
+  },
+  "嫁": {
+    "pinyin": "jià",
+    "path": 13
+  },
+  "嫂": {
+    "pinyin": "sǎo",
+    "path": 12
+  },
+  "嫉": {
+    "pinyin": "jí",
+    "path": 13
+  },
+  "嫌": {
+    "pinyin": "xián",
+    "path": 13
+  },
+  "嫡": {
+    "pinyin": "dí",
+    "path": 14
+  },
+  "嫩": {
+    "pinyin": "nèn",
+    "path": 14
+  },
+  "嬉": {
+    "pinyin": "xī",
+    "path": 15
+  },
+  "子": {
+    "pinyin": "zǐ ·zi",
+    "path": 3
+  },
+  "孔": {
+    "pinyin": "kǒng",
+    "path": 4
+  },
+  "孕": {
+    "pinyin": "yùn",
+    "path": 5
+  },
+  "字": {
+    "pinyin": "zì",
+    "path": 6
+  },
+  "存": {
+    "pinyin": "cún",
+    "path": 6
+  },
+  "孙": {
+    "pinyin": "sūn xùn",
+    "path": 6
+  },
+  "孝": {
+    "pinyin": "xiào",
+    "path": 7
+  },
+  "孟": {
+    "pinyin": "mèng",
+    "path": 8
+  },
+  "季": {
+    "pinyin": "jì",
+    "path": 8
+  },
+  "孤": {
+    "pinyin": "gū",
+    "path": 8
+  },
+  "学": {
+    "pinyin": "xué",
+    "path": 8
+  },
+  "孩": {
+    "pinyin": "hái",
+    "path": 9
+  },
+  "孵": {
+    "pinyin": "fū",
+    "path": 14
+  },
+  "孽": {
+    "pinyin": "niè",
+    "path": 19
+  },
+  "宁": {
+    "pinyin": "níng nìng",
+    "path": 5
+  },
+  "它": {
+    "pinyin": "tā",
+    "path": 5
+  },
+  "宅": {
+    "pinyin": "zhái",
+    "path": 6
+  },
+  "宇": {
+    "pinyin": "yǔ",
+    "path": 6
+  },
+  "守": {
+    "pinyin": "shǒu",
+    "path": 6
+  },
+  "安": {
+    "pinyin": "ān",
+    "path": 6
+  },
+  "宋": {
+    "pinyin": "sòng",
+    "path": 7
+  },
+  "完": {
+    "pinyin": "wán",
+    "path": 7
+  },
+  "宏": {
+    "pinyin": "hóng",
+    "path": 7
+  },
+  "宗": {
+    "pinyin": "zōng",
+    "path": 8
+  },
+  "官": {
+    "pinyin": "guān",
+    "path": 8
+  },
+  "宙": {
+    "pinyin": "zhòu",
+    "path": 8
+  },
+  "定": {
+    "pinyin": "dìng",
+    "path": 8
+  },
+  "宛": {
+    "pinyin": "wǎn yuān",
+    "path": 8
+  },
+  "宜": {
+    "pinyin": "yí",
+    "path": 8
+  },
+  "宝": {
+    "pinyin": "bǎo",
+    "path": 8
+  },
+  "实": {
+    "pinyin": "shí",
+    "path": 8
+  },
+  "宠": {
+    "pinyin": "chǒng",
+    "path": 8
+  },
+  "审": {
+    "pinyin": "shěn",
+    "path": 8
+  },
+  "客": {
+    "pinyin": "kè",
+    "path": 9
+  },
+  "宣": {
+    "pinyin": "xuān",
+    "path": 9
+  },
+  "室": {
+    "pinyin": "shì",
+    "path": 9
+  },
+  "宦": {
+    "pinyin": "huàn",
+    "path": 9
+  },
+  "宪": {
+    "pinyin": "xiàn",
+    "path": 9
+  },
+  "宫": {
+    "pinyin": "gōng",
+    "path": 9
+  },
+  "宰": {
+    "pinyin": "zǎi",
+    "path": 10
+  },
+  "害": {
+    "pinyin": "hài",
+    "path": 10
+  },
+  "宴": {
+    "pinyin": "yàn",
+    "path": 10
+  },
+  "宵": {
+    "pinyin": "xiāo",
+    "path": 10
+  },
+  "家": {
+    "pinyin": "jiā jia jie",
+    "path": 10
+  },
+  "容": {
+    "pinyin": "róng",
+    "path": 10
+  },
+  "宽": {
+    "pinyin": "kuān",
+    "path": 10
+  },
+  "宾": {
+    "pinyin": "bīn",
+    "path": 10
+  },
+  "宿": {
+    "pinyin": "sù xiǔ xiù",
+    "path": 11
+  },
+  "寂": {
+    "pinyin": "jì",
+    "path": 11
+  },
+  "寄": {
+    "pinyin": "jì",
+    "path": 11
+  },
+  "密": {
+    "pinyin": "mì",
+    "path": 11
+  },
+  "寇": {
+    "pinyin": "kòu",
+    "path": 11
+  },
+  "富": {
+    "pinyin": "fù",
+    "path": 12
+  },
+  "寒": {
+    "pinyin": "hán",
+    "path": 12
+  },
+  "寓": {
+    "pinyin": "yù",
+    "path": 12
+  },
+  "寝": {
+    "pinyin": "qǐn",
+    "path": 13
+  },
+  "寞": {
+    "pinyin": "mò",
+    "path": 13
+  },
+  "察": {
+    "pinyin": "chá",
+    "path": 14
+  },
+  "寡": {
+    "pinyin": "guǎ",
+    "path": 14
+  },
+  "寥": {
+    "pinyin": "liáo",
+    "path": 14
+  },
+  "寨": {
+    "pinyin": "zhài",
+    "path": 14
+  },
+  "寸": {
+    "pinyin": "cùn",
+    "path": 3
+  },
+  "对": {
+    "pinyin": "duì",
+    "path": 5
+  },
+  "寺": {
+    "pinyin": "sì",
+    "path": 6
+  },
+  "寻": {
+    "pinyin": "xún",
+    "path": 6
+  },
+  "导": {
+    "pinyin": "dǎo",
+    "path": 6
+  },
+  "寿": {
+    "pinyin": "shòu",
+    "path": 7
+  },
+  "封": {
+    "pinyin": "fēng",
+    "path": 9
+  },
+  "射": {
+    "pinyin": "shè yè yì",
+    "path": 10
+  },
+  "将": {
+    "pinyin": "jiāng jiàng qiāng",
+    "path": 9
+  },
+  "尉": {
+    "pinyin": "wèi yù",
+    "path": 11
+  },
+  "尊": {
+    "pinyin": "zūn",
+    "path": 12
+  },
+  "小": {
+    "pinyin": "xiǎo",
+    "path": 3
+  },
+  "少": {
+    "pinyin": "shǎo shào",
+    "path": 4
+  },
+  "尔": {
+    "pinyin": "ěr",
+    "path": 5
+  },
+  "尖": {
+    "pinyin": "jiān",
+    "path": 6
+  },
+  "尘": {
+    "pinyin": "chén",
+    "path": 6
+  },
+  "尚": {
+    "pinyin": "shàng",
+    "path": 8
+  },
+  "尝": {
+    "pinyin": "cháng",
+    "path": 9
+  },
+  "尤": {
+    "pinyin": "yóu",
+    "path": 4
+  },
+  "就": {
+    "pinyin": "jiù",
+    "path": 12
+  },
+  "尸": {
+    "pinyin": "shī",
+    "path": 3
+  },
+  "尺": {
+    "pinyin": "chǐ chě",
+    "path": 4
+  },
+  "尼": {
+    "pinyin": "ní",
+    "path": 5
+  },
+  "尽": {
+    "pinyin": "jìn jǐn",
+    "path": 6
+  },
+  "尾": {
+    "pinyin": "wěi yǐ",
+    "path": 7
+  },
+  "尿": {
+    "pinyin": "niào suī",
+    "path": 7
+  },
+  "局": {
+    "pinyin": "jú",
+    "path": 7
+  },
+  "屁": {
+    "pinyin": "pì",
+    "path": 7
+  },
+  "层": {
+    "pinyin": "céng",
+    "path": 7
+  },
+  "居": {
+    "pinyin": "jū",
+    "path": 8
+  },
+  "屈": {
+    "pinyin": "qū",
+    "path": 8
+  },
+  "屉": {
+    "pinyin": "tì",
+    "path": 8
+  },
+  "届": {
+    "pinyin": "jiè",
+    "path": 8
+  },
+  "屋": {
+    "pinyin": "wū",
+    "path": 9
+  },
+  "屎": {
+    "pinyin": "shǐ",
+    "path": 9
+  },
+  "屏": {
+    "pinyin": "bīng píng bǐng",
+    "path": 9
+  },
+  "屑": {
+    "pinyin": "xiè",
+    "path": 10
+  },
+  "展": {
+    "pinyin": "zhǎn",
+    "path": 10
+  },
+  "属": {
+    "pinyin": "shǔ zhǔ",
+    "path": 12
+  },
+  "屠": {
+    "pinyin": "tú",
+    "path": 11
+  },
+  "屡": {
+    "pinyin": "lǚ",
+    "path": 12
+  },
+  "履": {
+    "pinyin": "lǚ",
+    "path": 15
+  },
+  "屯": {
+    "pinyin": "tún zhūn",
+    "path": 4
+  },
+  "山": {
+    "pinyin": "shān",
+    "path": 3
+  },
+  "屹": {
+    "pinyin": "yì",
+    "path": 6
+  },
+  "屿": {
+    "pinyin": "yǔ",
+    "path": 6
+  },
+  "岁": {
+    "pinyin": "suì",
+    "path": 6
+  },
+  "岂": {
+    "pinyin": "qǐ kǎi",
+    "path": 6
+  },
+  "岔": {
+    "pinyin": "chà",
+    "path": 7
+  },
+  "岖": {
+    "pinyin": "qū",
+    "path": 7
+  },
+  "岗": {
+    "pinyin": "gǎng gāng",
+    "path": 7
+  },
+  "岛": {
+    "pinyin": "dǎo",
+    "path": 7
+  },
+  "岩": {
+    "pinyin": "yán",
+    "path": 8
+  },
+  "岭": {
+    "pinyin": "lǐng",
+    "path": 8
+  },
+  "岳": {
+    "pinyin": "yuè",
+    "path": 8
+  },
+  "岸": {
+    "pinyin": "àn",
+    "path": 8
+  },
+  "峡": {
+    "pinyin": "xiá",
+    "path": 9
+  },
+  "峦": {
+    "pinyin": "luán",
+    "path": 9
+  },
+  "峭": {
+    "pinyin": "qiào",
+    "path": 10
+  },
+  "峰": {
+    "pinyin": "fēng",
+    "path": 10
+  },
+  "峻": {
+    "pinyin": "jùn",
+    "path": 10
+  },
+  "崇": {
+    "pinyin": "chóng",
+    "path": 11
+  },
+  "崎": {
+    "pinyin": "qí",
+    "path": 11
+  },
+  "崔": {
+    "pinyin": "cuī",
+    "path": 11
+  },
+  "崖": {
+    "pinyin": "yá",
+    "path": 11
+  },
+  "崩": {
+    "pinyin": "bēng",
+    "path": 11
+  },
+  "崭": {
+    "pinyin": "zhǎn chán",
+    "path": 11
+  },
+  "嵌": {
+    "pinyin": "qiàn kàn",
+    "path": 12
+  },
+  "巍": {
+    "pinyin": "wēi",
+    "path": 20
+  },
+  "川": {
+    "pinyin": "chuān",
+    "path": 3
+  },
+  "州": {
+    "pinyin": "zhōu",
+    "path": 6
+  },
+  "巡": {
+    "pinyin": "xún",
+    "path": 6
+  },
+  "巢": {
+    "pinyin": "cháo",
+    "path": 11
+  },
+  "工": {
+    "pinyin": "gōng",
+    "path": 3
+  },
+  "左": {
+    "pinyin": "zuǒ",
+    "path": 5
+  },
+  "巧": {
+    "pinyin": "qiǎo",
+    "path": 5
+  },
+  "巨": {
+    "pinyin": "jù",
+    "path": 4
+  },
+  "巩": {
+    "pinyin": "gǒng",
+    "path": 6
+  },
+  "巫": {
+    "pinyin": "wū",
+    "path": 7
+  },
+  "差": {
+    "pinyin": "chā chà chāi chài cī",
+    "path": 9
+  },
+  "己": {
+    "pinyin": "jǐ",
+    "path": 3
+  },
+  "已": {
+    "pinyin": "yǐ",
+    "path": 3
+  },
+  "巴": {
+    "pinyin": "bā",
+    "path": 4
+  },
+  "巷": {
+    "pinyin": "xiàng hàng",
+    "path": 9
+  },
+  "巾": {
+    "pinyin": "jīn",
+    "path": 3
+  },
+  "币": {
+    "pinyin": "bì",
+    "path": 4
+  },
+  "市": {
+    "pinyin": "shì",
+    "path": 5
+  },
+  "布": {
+    "pinyin": "bù",
+    "path": 5
+  },
+  "帅": {
+    "pinyin": "shuài",
+    "path": 5
+  },
+  "帆": {
+    "pinyin": "fān",
+    "path": 6
+  },
+  "师": {
+    "pinyin": "shī",
+    "path": 6
+  },
+  "希": {
+    "pinyin": "xī",
+    "path": 7
+  },
+  "帐": {
+    "pinyin": "zhàng",
+    "path": 7
+  },
+  "帕": {
+    "pinyin": "pà",
+    "path": 8
+  },
+  "帖": {
+    "pinyin": "tiē tiě tiè",
+    "path": 8
+  },
+  "帘": {
+    "pinyin": "lián",
+    "path": 8
+  },
+  "帚": {
+    "pinyin": "zhǒu",
+    "path": 8
+  },
+  "帜": {
+    "pinyin": "zhì",
+    "path": 8
+  },
+  "帝": {
+    "pinyin": "dì",
+    "path": 9
+  },
+  "带": {
+    "pinyin": "dài",
+    "path": 9
+  },
+  "席": {
+    "pinyin": "xí",
+    "path": 10
+  },
+  "帮": {
+    "pinyin": "bāng",
+    "path": 9
+  },
+  "常": {
+    "pinyin": "cháng",
+    "path": 11
+  },
+  "帽": {
+    "pinyin": "mào",
+    "path": 12
+  },
+  "幅": {
+    "pinyin": "fú",
+    "path": 12
+  },
+  "幌": {
+    "pinyin": "huǎng",
+    "path": 13
+  },
+  "幔": {
+    "pinyin": "màn",
+    "path": 14
+  },
+  "幕": {
+    "pinyin": "mù",
+    "path": 13
+  },
+  "幢": {
+    "pinyin": "zhuàng chuáng",
+    "path": 15
+  },
+  "干": {
+    "pinyin": "gàn gān",
+    "path": 3
+  },
+  "平": {
+    "pinyin": "píng",
+    "path": 5
+  },
+  "年": {
+    "pinyin": "nián",
+    "path": 6
+  },
+  "并": {
+    "pinyin": "bìng bīng",
+    "path": 6
+  },
+  "幸": {
+    "pinyin": "xìng",
+    "path": 8
+  },
+  "幻": {
+    "pinyin": "huàn",
+    "path": 4
+  },
+  "幼": {
+    "pinyin": "yòu",
+    "path": 5
+  },
+  "幽": {
+    "pinyin": "yōu",
+    "path": 9
+  },
+  "广": {
+    "pinyin": "guǎng ān",
+    "path": 3
+  },
+  "庄": {
+    "pinyin": "zhuāng",
+    "path": 6
+  },
+  "庆": {
+    "pinyin": "qìng",
+    "path": 6
+  },
+  "庇": {
+    "pinyin": "bì",
+    "path": 7
+  },
+  "床": {
+    "pinyin": "chuáng",
+    "path": 7
+  },
+  "序": {
+    "pinyin": "xù",
+    "path": 7
+  },
+  "庐": {
+    "pinyin": "lú",
+    "path": 7
+  },
+  "库": {
+    "pinyin": "kù",
+    "path": 7
+  },
+  "应": {
+    "pinyin": "yìng yīng",
+    "path": 7
+  },
+  "底": {
+    "pinyin": "dǐ de",
+    "path": 8
+  },
+  "店": {
+    "pinyin": "diàn",
+    "path": 8
+  },
+  "庙": {
+    "pinyin": "miào",
+    "path": 8
+  },
+  "府": {
+    "pinyin": "fǔ",
+    "path": 8
+  },
+  "庞": {
+    "pinyin": "páng",
+    "path": 8
+  },
+  "废": {
+    "pinyin": "fèi",
+    "path": 8
+  },
+  "度": {
+    "pinyin": "dù duó",
+    "path": 9
+  },
+  "座": {
+    "pinyin": "zuò",
+    "path": 10
+  },
+  "庭": {
+    "pinyin": "tíng",
+    "path": 9
+  },
+  "庵": {
+    "pinyin": "ān",
+    "path": 11
+  },
+  "庶": {
+    "pinyin": "shù",
+    "path": 11
+  },
+  "康": {
+    "pinyin": "kāng",
+    "path": 11
+  },
+  "庸": {
+    "pinyin": "yōng",
+    "path": 11
+  },
+  "廉": {
+    "pinyin": "lián",
+    "path": 13
+  },
+  "廊": {
+    "pinyin": "láng",
+    "path": 11
+  },
+  "廓": {
+    "pinyin": "kuò",
+    "path": 13
+  },
+  "延": {
+    "pinyin": "yán",
+    "path": 6
+  },
+  "廷": {
+    "pinyin": "tíng",
+    "path": 6
+  },
+  "建": {
+    "pinyin": "jiàn",
+    "path": 8
+  },
+  "开": {
+    "pinyin": "kāi",
+    "path": 4
+  },
+  "异": {
+    "pinyin": "yì",
+    "path": 6
+  },
+  "弃": {
+    "pinyin": "qì",
+    "path": 7
+  },
+  "弄": {
+    "pinyin": "nòng lòng",
+    "path": 7
+  },
+  "弊": {
+    "pinyin": "bì",
+    "path": 14
+  },
+  "式": {
+    "pinyin": "shì",
+    "path": 6
+  },
+  "弓": {
+    "pinyin": "gōng",
+    "path": 3
+  },
+  "引": {
+    "pinyin": "yǐn",
+    "path": 4
+  },
+  "弛": {
+    "pinyin": "chí",
+    "path": 6
+  },
+  "弟": {
+    "pinyin": "dì tì tuí",
+    "path": 7
+  },
+  "张": {
+    "pinyin": "zhāng",
+    "path": 7
+  },
+  "弥": {
+    "pinyin": "mí mǐ",
+    "path": 8
+  },
+  "弦": {
+    "pinyin": "xián",
+    "path": 8
+  },
+  "弧": {
+    "pinyin": "hú",
+    "path": 8
+  },
+  "弯": {
+    "pinyin": "wān",
+    "path": 9
+  },
+  "弱": {
+    "pinyin": "ruò",
+    "path": 10
+  },
+  "弹": {
+    "pinyin": "dàn tán",
+    "path": 11
+  },
+  "强": {
+    "pinyin": "qiáng qiǎng jiàng",
+    "path": 12
+  },
+  "归": {
+    "pinyin": "guī",
+    "path": 5
+  },
+  "当": {
+    "pinyin": "dāng dàng",
+    "path": 6
+  },
+  "录": {
+    "pinyin": "lù",
+    "path": 8
+  },
+  "形": {
+    "pinyin": "xíng",
+    "path": 7
+  },
+  "彤": {
+    "pinyin": "tóng",
+    "path": 7
+  },
+  "彩": {
+    "pinyin": "cǎi",
+    "path": 11
+  },
+  "彪": {
+    "pinyin": "biāo",
+    "path": 11
+  },
+  "彬": {
+    "pinyin": "bīn",
+    "path": 11
+  },
+  "彭": {
+    "pinyin": "péng bāng",
+    "path": 12
+  },
+  "彰": {
+    "pinyin": "zhāng",
+    "path": 14
+  },
+  "影": {
+    "pinyin": "yǐng",
+    "path": 15
+  },
+  "役": {
+    "pinyin": "yì",
+    "path": 7
+  },
+  "彻": {
+    "pinyin": "chè",
+    "path": 7
+  },
+  "彼": {
+    "pinyin": "bǐ",
+    "path": 8
+  },
+  "往": {
+    "pinyin": "wǎng",
+    "path": 8
+  },
+  "征": {
+    "pinyin": "zhēng",
+    "path": 8
+  },
+  "径": {
+    "pinyin": "jìng",
+    "path": 8
+  },
+  "待": {
+    "pinyin": "dài dāi",
+    "path": 9
+  },
+  "很": {
+    "pinyin": "hěn",
+    "path": 9
+  },
+  "徊": {
+    "pinyin": "huái",
+    "path": 9
+  },
+  "律": {
+    "pinyin": "lǜ",
+    "path": 9
+  },
+  "徐": {
+    "pinyin": "xú",
+    "path": 10
+  },
+  "徒": {
+    "pinyin": "tú",
+    "path": 10
+  },
+  "得": {
+    "pinyin": "dé de děi",
+    "path": 11
+  },
+  "徘": {
+    "pinyin": "pái",
+    "path": 11
+  },
+  "御": {
+    "pinyin": "yù",
+    "path": 12
+  },
+  "循": {
+    "pinyin": "xún",
+    "path": 12
+  },
+  "微": {
+    "pinyin": "wēi",
+    "path": 13
+  },
+  "德": {
+    "pinyin": "dé",
+    "path": 15
+  },
+  "徽": {
+    "pinyin": "huī",
+    "path": 17
+  },
+  "心": {
+    "pinyin": "xīn",
+    "path": 4
+  },
+  "必": {
+    "pinyin": "bì",
+    "path": 5
+  },
+  "忆": {
+    "pinyin": "yì",
+    "path": 4
+  },
+  "忌": {
+    "pinyin": "jì",
+    "path": 7
+  },
+  "忍": {
+    "pinyin": "rěn",
+    "path": 7
+  },
+  "志": {
+    "pinyin": "zhì",
+    "path": 7
+  },
+  "忘": {
+    "pinyin": "wàng",
+    "path": 7
+  },
+  "忙": {
+    "pinyin": "máng",
+    "path": 6
+  },
+  "忠": {
+    "pinyin": "zhōng",
+    "path": 8
+  },
+  "忧": {
+    "pinyin": "yōu",
+    "path": 7
+  },
+  "快": {
+    "pinyin": "kuài",
+    "path": 7
+  },
+  "忱": {
+    "pinyin": "chén",
+    "path": 7
+  },
+  "念": {
+    "pinyin": "niàn",
+    "path": 8
+  },
+  "忽": {
+    "pinyin": "hū",
+    "path": 8
+  },
+  "忿": {
+    "pinyin": "fèn",
+    "path": 8
+  },
+  "怀": {
+    "pinyin": "huái",
+    "path": 7
+  },
+  "态": {
+    "pinyin": "tài",
+    "path": 8
+  },
+  "怎": {
+    "pinyin": "zěn",
+    "path": 9
+  },
+  "怒": {
+    "pinyin": "nù",
+    "path": 9
+  },
+  "怔": {
+    "pinyin": "zhēng zhèng",
+    "path": 8
+  },
+  "怕": {
+    "pinyin": "pà",
+    "path": 8
+  },
+  "怖": {
+    "pinyin": "bù",
+    "path": 8
+  },
+  "怜": {
+    "pinyin": "lián",
+    "path": 8
+  },
+  "思": {
+    "pinyin": "sī sāi",
+    "path": 9
+  },
+  "怠": {
+    "pinyin": "dài",
+    "path": 9
+  },
+  "急": {
+    "pinyin": "jí",
+    "path": 9
+  },
+  "性": {
+    "pinyin": "xìng",
+    "path": 8
+  },
+  "怨": {
+    "pinyin": "yuàn",
+    "path": 9
+  },
+  "怪": {
+    "pinyin": "guài",
+    "path": 8
+  },
+  "怯": {
+    "pinyin": "qiè",
+    "path": 8
+  },
+  "总": {
+    "pinyin": "zǒng",
+    "path": 9
+  },
+  "恃": {
+    "pinyin": "shì",
+    "path": 9
+  },
+  "恋": {
+    "pinyin": "liàn",
+    "path": 10
+  },
+  "恍": {
+    "pinyin": "huǎng",
+    "path": 9
+  },
+  "恐": {
+    "pinyin": "kǒng",
+    "path": 10
+  },
+  "恒": {
+    "pinyin": "héng",
+    "path": 9
+  },
+  "恕": {
+    "pinyin": "shù",
+    "path": 10
+  },
+  "恢": {
+    "pinyin": "huī",
+    "path": 9
+  },
+  "恤": {
+    "pinyin": "xù",
+    "path": 9
+  },
+  "恨": {
+    "pinyin": "hèn",
+    "path": 9
+  },
+  "恩": {
+    "pinyin": "ēn",
+    "path": 10
+  },
+  "恬": {
+    "pinyin": "tián",
+    "path": 9
+  },
+  "恭": {
+    "pinyin": "gōng",
+    "path": 10
+  },
+  "息": {
+    "pinyin": "xī",
+    "path": 10
+  },
+  "恰": {
+    "pinyin": "qià",
+    "path": 9
+  },
+  "恳": {
+    "pinyin": "kěn",
+    "path": 10
+  },
+  "恶": {
+    "pinyin": "è wù ě wū",
+    "path": 10
+  },
+  "恼": {
+    "pinyin": "nǎo",
+    "path": 9
+  },
+  "悄": {
+    "pinyin": "qiāo qiǎo",
+    "path": 10
+  },
+  "悉": {
+    "pinyin": "xī",
+    "path": 11
+  },
+  "悍": {
+    "pinyin": "hàn",
+    "path": 10
+  },
+  "悔": {
+    "pinyin": "huǐ",
+    "path": 10
+  },
+  "悟": {
+    "pinyin": "wù",
+    "path": 10
+  },
+  "悠": {
+    "pinyin": "yōu",
+    "path": 11
+  },
+  "患": {
+    "pinyin": "huàn",
+    "path": 11
+  },
+  "悦": {
+    "pinyin": "yuè",
+    "path": 10
+  },
+  "您": {
+    "pinyin": "nín",
+    "path": 11
+  },
+  "悬": {
+    "pinyin": "xuán",
+    "path": 11
+  },
+  "悯": {
+    "pinyin": "mǐn",
+    "path": 10
+  },
+  "悲": {
+    "pinyin": "bēi",
+    "path": 12
+  },
+  "悴": {
+    "pinyin": "cuì",
+    "path": 11
+  },
+  "悼": {
+    "pinyin": "dào",
+    "path": 11
+  },
+  "情": {
+    "pinyin": "qíng",
+    "path": 11
+  },
+  "惊": {
+    "pinyin": "jīng",
+    "path": 11
+  },
+  "惋": {
+    "pinyin": "wǎn",
+    "path": 11
+  },
+  "惑": {
+    "pinyin": "huò",
+    "path": 12
+  },
+  "惕": {
+    "pinyin": "tì",
+    "path": 11
+  },
+  "惜": {
+    "pinyin": "xī",
+    "path": 11
+  },
+  "惠": {
+    "pinyin": "huì",
+    "path": 12
+  },
+  "惦": {
+    "pinyin": "diàn",
+    "path": 11
+  },
+  "惧": {
+    "pinyin": "jù",
+    "path": 11
+  },
+  "惨": {
+    "pinyin": "cǎn",
+    "path": 11
+  },
+  "惩": {
+    "pinyin": "chéng",
+    "path": 12
+  },
+  "惫": {
+    "pinyin": "bèi",
+    "path": 12
+  },
+  "惭": {
+    "pinyin": "cán",
+    "path": 11
+  },
+  "惯": {
+    "pinyin": "guàn",
+    "path": 11
+  },
+  "惰": {
+    "pinyin": "duò",
+    "path": 12
+  },
+  "想": {
+    "pinyin": "xiǎng",
+    "path": 13
+  },
+  "惶": {
+    "pinyin": "huáng",
+    "path": 12
+  },
+  "惹": {
+    "pinyin": "rě",
+    "path": 12
+  },
+  "愁": {
+    "pinyin": "chóu",
+    "path": 13
+  },
+  "愈": {
+    "pinyin": "yù",
+    "path": 13
+  },
+  "愉": {
+    "pinyin": "yú tōu",
+    "path": 12
+  },
+  "意": {
+    "pinyin": "yì",
+    "path": 13
+  },
+  "愕": {
+    "pinyin": "è",
+    "path": 12
+  },
+  "愚": {
+    "pinyin": "yú",
+    "path": 13
+  },
+  "感": {
+    "pinyin": "gǎn",
+    "path": 13
+  },
+  "愤": {
+    "pinyin": "fèn",
+    "path": 12
+  },
+  "愧": {
+    "pinyin": "kuì",
+    "path": 12
+  },
+  "愿": {
+    "pinyin": "yuàn",
+    "path": 14
+  },
+  "慈": {
+    "pinyin": "cí",
+    "path": 13
+  },
+  "慌": {
+    "pinyin": "huāng ·huang",
+    "path": 12
+  },
+  "慎": {
+    "pinyin": "shèn",
+    "path": 13
+  },
+  "慕": {
+    "pinyin": "mù",
+    "path": 14
+  },
+  "慢": {
+    "pinyin": "màn",
+    "path": 14
+  },
+  "慧": {
+    "pinyin": "huì",
+    "path": 15
+  },
+  "慨": {
+    "pinyin": "kǎi",
+    "path": 12
+  },
+  "慰": {
+    "pinyin": "wèi",
+    "path": 15
+  },
+  "慷": {
+    "pinyin": "kāng",
+    "path": 14
+  },
+  "憋": {
+    "pinyin": "biē",
+    "path": 15
+  },
+  "憎": {
+    "pinyin": "zēng",
+    "path": 15
+  },
+  "憔": {
+    "pinyin": "qiáo",
+    "path": 15
+  },
+  "憨": {
+    "pinyin": "hān",
+    "path": 15
+  },
+  "憾": {
+    "pinyin": "hàn",
+    "path": 16
+  },
+  "懂": {
+    "pinyin": "dǒng",
+    "path": 15
+  },
+  "懈": {
+    "pinyin": "xiè",
+    "path": 16
+  },
+  "懊": {
+    "pinyin": "ào",
+    "path": 15
+  },
+  "懒": {
+    "pinyin": "lǎn",
+    "path": 16
+  },
+  "懦": {
+    "pinyin": "nuò",
+    "path": 17
+  },
+  "戈": {
+    "pinyin": "gē",
+    "path": 4
+  },
+  "戏": {
+    "pinyin": "xì hū",
+    "path": 6
+  },
+  "成": {
+    "pinyin": "chéng",
+    "path": 6
+  },
+  "我": {
+    "pinyin": "wǒ",
+    "path": 7
+  },
+  "戒": {
+    "pinyin": "jiè",
+    "path": 7
+  },
+  "或": {
+    "pinyin": "huò",
+    "path": 8
+  },
+  "战": {
+    "pinyin": "zhàn",
+    "path": 9
+  },
+  "戚": {
+    "pinyin": "qī",
+    "path": 11
+  },
+  "截": {
+    "pinyin": "jié",
+    "path": 14
+  },
+  "戳": {
+    "pinyin": "chuō",
+    "path": 18
+  },
+  "戴": {
+    "pinyin": "dài",
+    "path": 17
+  },
+  "户": {
+    "pinyin": "hù",
+    "path": 4
+  },
+  "房": {
+    "pinyin": "fáng",
+    "path": 8
+  },
+  "所": {
+    "pinyin": "suǒ",
+    "path": 8
+  },
+  "扁": {
+    "pinyin": "biǎn piān",
+    "path": 9
+  },
+  "扇": {
+    "pinyin": "shàn shān",
+    "path": 10
+  },
+  "手": {
+    "pinyin": "shǒu",
+    "path": 4
+  },
+  "才": {
+    "pinyin": "cái",
+    "path": 3
+  },
+  "扎": {
+    "pinyin": "zhā zā zhá",
+    "path": 4
+  },
+  "扑": {
+    "pinyin": "pū",
+    "path": 5
+  },
+  "扒": {
+    "pinyin": "bā pá",
+    "path": 5
+  },
+  "打": {
+    "pinyin": "dǎ dá",
+    "path": 5
+  },
+  "扔": {
+    "pinyin": "rēng",
+    "path": 5
+  },
+  "托": {
+    "pinyin": "tuō",
+    "path": 6
+  },
+  "扛": {
+    "pinyin": "káng gāng",
+    "path": 6
+  },
+  "扣": {
+    "pinyin": "kòu",
+    "path": 6
+  },
+  "执": {
+    "pinyin": "zhí",
+    "path": 6
+  },
+  "扩": {
+    "pinyin": "kuò",
+    "path": 6
+  },
+  "扫": {
+    "pinyin": "sǎo sào",
+    "path": 6
+  },
+  "扬": {
+    "pinyin": "yáng",
+    "path": 6
+  },
+  "扭": {
+    "pinyin": "niǔ",
+    "path": 7
+  },
+  "扮": {
+    "pinyin": "bàn",
+    "path": 7
+  },
+  "扯": {
+    "pinyin": "chě",
+    "path": 7
+  },
+  "扰": {
+    "pinyin": "rǎo",
+    "path": 7
+  },
+  "扳": {
+    "pinyin": "bān pān",
+    "path": 7
+  },
+  "扶": {
+    "pinyin": "fú",
+    "path": 7
+  },
+  "批": {
+    "pinyin": "pī",
+    "path": 7
+  },
+  "扼": {
+    "pinyin": "è",
+    "path": 7
+  },
+  "找": {
+    "pinyin": "zhǎo",
+    "path": 7
+  },
+  "承": {
+    "pinyin": "chéng",
+    "path": 8
+  },
+  "技": {
+    "pinyin": "jì",
+    "path": 7
+  },
+  "抄": {
+    "pinyin": "chāo",
+    "path": 7
+  },
+  "把": {
+    "pinyin": "bǎ bà",
+    "path": 7
+  },
+  "抑": {
+    "pinyin": "yì",
+    "path": 7
+  },
+  "抒": {
+    "pinyin": "shū",
+    "path": 7
+  },
+  "抓": {
+    "pinyin": "zhuā",
+    "path": 7
+  },
+  "投": {
+    "pinyin": "tóu",
+    "path": 7
+  },
+  "抖": {
+    "pinyin": "dǒu",
+    "path": 7
+  },
+  "抗": {
+    "pinyin": "kàng",
+    "path": 7
+  },
+  "折": {
+    "pinyin": "shé zhé zhē",
+    "path": 7
+  },
+  "抚": {
+    "pinyin": "fǔ",
+    "path": 7
+  },
+  "抛": {
+    "pinyin": "pāo",
+    "path": 7
+  },
+  "抠": {
+    "pinyin": "kōu",
+    "path": 7
+  },
+  "抡": {
+    "pinyin": "lún lūn",
+    "path": 7
+  },
+  "抢": {
+    "pinyin": "qiǎng qiāng chēng",
+    "path": 7
+  },
+  "护": {
+    "pinyin": "hù",
+    "path": 7
+  },
+  "报": {
+    "pinyin": "bào",
+    "path": 7
+  },
+  "披": {
+    "pinyin": "pī",
+    "path": 8
+  },
+  "抬": {
+    "pinyin": "tái",
+    "path": 8
+  },
+  "抱": {
+    "pinyin": "bào",
+    "path": 8
+  },
+  "抵": {
+    "pinyin": "dǐ",
+    "path": 8
+  },
+  "抹": {
+    "pinyin": "mǒ mò mā",
+    "path": 8
+  },
+  "押": {
+    "pinyin": "yā",
+    "path": 8
+  },
+  "抽": {
+    "pinyin": "chōu",
+    "path": 8
+  },
+  "拂": {
+    "pinyin": "fú bì",
+    "path": 8
+  },
+  "拄": {
+    "pinyin": "zhǔ",
+    "path": 8
+  },
+  "担": {
+    "pinyin": "dān dàn dǎn",
+    "path": 8
+  },
+  "拆": {
+    "pinyin": "chāi cā",
+    "path": 8
+  },
+  "拇": {
+    "pinyin": "mǔ",
+    "path": 8
+  },
+  "拉": {
+    "pinyin": "lā lá lǎ là",
+    "path": 8
+  },
+  "拌": {
+    "pinyin": "bàn pàn",
+    "path": 8
+  },
+  "拍": {
+    "pinyin": "pāi",
+    "path": 8
+  },
+  "拐": {
+    "pinyin": "guǎi",
+    "path": 8
+  },
+  "拒": {
+    "pinyin": "jù",
+    "path": 7
+  },
+  "拓": {
+    "pinyin": "tuò tà zhí",
+    "path": 8
+  },
+  "拔": {
+    "pinyin": "bá",
+    "path": 8
+  },
+  "拖": {
+    "pinyin": "tuō",
+    "path": 8
+  },
+  "拗": {
+    "pinyin": "niù ào ǎo",
+    "path": 8
+  },
+  "拘": {
+    "pinyin": "jū gōu",
+    "path": 8
+  },
+  "拙": {
+    "pinyin": "zhuō",
+    "path": 8
+  },
+  "招": {
+    "pinyin": "zhāo",
+    "path": 8
+  },
+  "拜": {
+    "pinyin": "bài bái",
+    "path": 9
+  },
+  "拟": {
+    "pinyin": "nǐ",
+    "path": 7
+  },
+  "拢": {
+    "pinyin": "lǒng",
+    "path": 8
+  },
+  "拣": {
+    "pinyin": "jiǎn",
+    "path": 8
+  },
+  "拥": {
+    "pinyin": "yōng",
+    "path": 8
+  },
+  "拦": {
+    "pinyin": "lán",
+    "path": 8
+  },
+  "拧": {
+    "pinyin": "nǐng níng nìng",
+    "path": 8
+  },
+  "拨": {
+    "pinyin": "bō",
+    "path": 8
+  },
+  "择": {
+    "pinyin": "zé zhái",
+    "path": 8
+  },
+  "括": {
+    "pinyin": "kuò guā",
+    "path": 9
+  },
+  "拭": {
+    "pinyin": "shì",
+    "path": 9
+  },
+  "拯": {
+    "pinyin": "zhěng",
+    "path": 9
+  },
+  "拱": {
+    "pinyin": "gǒng",
+    "path": 9
+  },
+  "拳": {
+    "pinyin": "quán",
+    "path": 10
+  },
+  "拴": {
+    "pinyin": "shuān",
+    "path": 9
+  },
+  "拷": {
+    "pinyin": "kǎo",
+    "path": 9
+  },
+  "拼": {
+    "pinyin": "pīn",
+    "path": 9
+  },
+  "拾": {
+    "pinyin": "shí shè",
+    "path": 9
+  },
+  "拿": {
+    "pinyin": "ná",
+    "path": 10
+  },
+  "持": {
+    "pinyin": "chí",
+    "path": 9
+  },
+  "挂": {
+    "pinyin": "guà",
+    "path": 9
+  },
+  "指": {
+    "pinyin": "zhǐ",
+    "path": 9
+  },
+  "按": {
+    "pinyin": "àn",
+    "path": 9
+  },
+  "挎": {
+    "pinyin": "kuà kū",
+    "path": 9
+  },
+  "挑": {
+    "pinyin": "tiāo tiǎo",
+    "path": 9
+  },
+  "挖": {
+    "pinyin": "wā",
+    "path": 9
+  },
+  "挚": {
+    "pinyin": "zhì",
+    "path": 10
+  },
+  "挟": {
+    "pinyin": "jiā xié",
+    "path": 9
+  },
+  "挠": {
+    "pinyin": "náo",
+    "path": 9
+  },
+  "挡": {
+    "pinyin": "dǎng dàng",
+    "path": 9
+  },
+  "挣": {
+    "pinyin": "zhèng zhēng",
+    "path": 9
+  },
+  "挤": {
+    "pinyin": "jǐ",
+    "path": 9
+  },
+  "挥": {
+    "pinyin": "huī",
+    "path": 9
+  },
+  "挨": {
+    "pinyin": "āi ái",
+    "path": 10
+  },
+  "挪": {
+    "pinyin": "nuó",
+    "path": 9
+  },
+  "挫": {
+    "pinyin": "cuò",
+    "path": 10
+  },
+  "振": {
+    "pinyin": "zhèn",
+    "path": 10
+  },
+  "挺": {
+    "pinyin": "tǐng",
+    "path": 9
+  },
+  "挽": {
+    "pinyin": "wǎn",
+    "path": 10
+  },
+  "捂": {
+    "pinyin": "wǔ wú",
+    "path": 10
+  },
+  "捅": {
+    "pinyin": "tǒng",
+    "path": 10
+  },
+  "捆": {
+    "pinyin": "kǔn",
+    "path": 10
+  },
+  "捉": {
+    "pinyin": "zhuō",
+    "path": 10
+  },
+  "捌": {
+    "pinyin": "bā",
+    "path": 10
+  },
+  "捍": {
+    "pinyin": "hàn",
+    "path": 10
+  },
+  "捎": {
+    "pinyin": "shāo shào",
+    "path": 10
+  },
+  "捏": {
+    "pinyin": "niē",
+    "path": 10
+  },
+  "捐": {
+    "pinyin": "juān",
+    "path": 10
+  },
+  "捕": {
+    "pinyin": "bǔ",
+    "path": 10
+  },
+  "捞": {
+    "pinyin": "lāo",
+    "path": 10
+  },
+  "损": {
+    "pinyin": "sǔn",
+    "path": 10
+  },
+  "捡": {
+    "pinyin": "jiǎn",
+    "path": 10
+  },
+  "换": {
+    "pinyin": "huàn",
+    "path": 10
+  },
+  "捣": {
+    "pinyin": "dǎo",
+    "path": 10
+  },
+  "捧": {
+    "pinyin": "pěng",
+    "path": 11
+  },
+  "据": {
+    "pinyin": "jù jū",
+    "path": 11
+  },
+  "捶": {
+    "pinyin": "chuí",
+    "path": 11
+  },
+  "捷": {
+    "pinyin": "jié",
+    "path": 11
+  },
+  "捺": {
+    "pinyin": "nà",
+    "path": 11
+  },
+  "捻": {
+    "pinyin": "niǎn niē",
+    "path": 11
+  },
+  "掀": {
+    "pinyin": "xiān",
+    "path": 11
+  },
+  "掂": {
+    "pinyin": "diān",
+    "path": 11
+  },
+  "授": {
+    "pinyin": "shòu",
+    "path": 11
+  },
+  "掉": {
+    "pinyin": "diào",
+    "path": 11
+  },
+  "掌": {
+    "pinyin": "zhǎng",
+    "path": 12
+  },
+  "掏": {
+    "pinyin": "tāo",
+    "path": 11
+  },
+  "掐": {
+    "pinyin": "qiā",
+    "path": 11
+  },
+  "排": {
+    "pinyin": "pái pǎi",
+    "path": 11
+  },
+  "掖": {
+    "pinyin": "yè yē",
+    "path": 11
+  },
+  "掘": {
+    "pinyin": "jué",
+    "path": 11
+  },
+  "掠": {
+    "pinyin": "lüè",
+    "path": 11
+  },
+  "探": {
+    "pinyin": "tàn",
+    "path": 11
+  },
+  "接": {
+    "pinyin": "jiē",
+    "path": 11
+  },
+  "控": {
+    "pinyin": "kòng",
+    "path": 11
+  },
+  "推": {
+    "pinyin": "tuī",
+    "path": 11
+  },
+  "掩": {
+    "pinyin": "yǎn",
+    "path": 11
+  },
+  "措": {
+    "pinyin": "cuò",
+    "path": 11
+  },
+  "掰": {
+    "pinyin": "bāi",
+    "path": 12
+  },
+  "掷": {
+    "pinyin": "zhì",
+    "path": 11
+  },
+  "掸": {
+    "pinyin": "dǎn shàn",
+    "path": 11
+  },
+  "掺": {
+    "pinyin": "chān càn shǎn xiān",
+    "path": 11
+  },
+  "揉": {
+    "pinyin": "róu",
+    "path": 12
+  },
+  "揍": {
+    "pinyin": "zòu",
+    "path": 12
+  },
+  "描": {
+    "pinyin": "miáo",
+    "path": 11
+  },
+  "提": {
+    "pinyin": "tí dī dǐ",
+    "path": 12
+  },
+  "插": {
+    "pinyin": "chā",
+    "path": 12
+  },
+  "揖": {
+    "pinyin": "yī",
+    "path": 12
+  },
+  "握": {
+    "pinyin": "wò",
+    "path": 12
+  },
+  "揣": {
+    "pinyin": "chuāi chuǎi chuài tuán zhuī",
+    "path": 12
+  },
+  "揩": {
+    "pinyin": "kāi",
+    "path": 12
+  },
+  "揪": {
+    "pinyin": "jiū",
+    "path": 12
+  },
+  "揭": {
+    "pinyin": "jiē qì",
+    "path": 12
+  },
+  "援": {
+    "pinyin": "yuán",
+    "path": 12
+  },
+  "揽": {
+    "pinyin": "lǎn",
+    "path": 12
+  },
+  "搀": {
+    "pinyin": "chān",
+    "path": 12
+  },
+  "搁": {
+    "pinyin": "gē gé",
+    "path": 12
+  },
+  "搂": {
+    "pinyin": "lōu lǒu",
+    "path": 12
+  },
+  "搅": {
+    "pinyin": "jiǎo",
+    "path": 12
+  },
+  "搏": {
+    "pinyin": "bó",
+    "path": 13
+  },
+  "搓": {
+    "pinyin": "cuō",
+    "path": 12
+  },
+  "搔": {
+    "pinyin": "sāo",
+    "path": 12
+  },
+  "搜": {
+    "pinyin": "sōu",
+    "path": 12
+  },
+  "搞": {
+    "pinyin": "gǎo",
+    "path": 13
+  },
+  "搪": {
+    "pinyin": "táng",
+    "path": 13
+  },
+  "搬": {
+    "pinyin": "bān",
+    "path": 13
+  },
+  "搭": {
+    "pinyin": "dā",
+    "path": 12
+  },
+  "携": {
+    "pinyin": "xié",
+    "path": 13
+  },
+  "摄": {
+    "pinyin": "shè niè",
+    "path": 13
+  },
+  "摆": {
+    "pinyin": "bǎi",
+    "path": 13
+  },
+  "摇": {
+    "pinyin": "yáo",
+    "path": 13
+  },
+  "摊": {
+    "pinyin": "tān",
+    "path": 13
+  },
+  "摔": {
+    "pinyin": "shuāi",
+    "path": 14
+  },
+  "摘": {
+    "pinyin": "zhāi",
+    "path": 14
+  },
+  "摧": {
+    "pinyin": "cuī",
+    "path": 14
+  },
+  "摩": {
+    "pinyin": "mó mā",
+    "path": 15
+  },
+  "摸": {
+    "pinyin": "mō",
+    "path": 13
+  },
+  "摹": {
+    "pinyin": "mó",
+    "path": 14
+  },
+  "撇": {
+    "pinyin": "piě piē",
+    "path": 14
+  },
+  "撑": {
+    "pinyin": "chēng",
+    "path": 15
+  },
+  "撒": {
+    "pinyin": "sā sǎ",
+    "path": 15
+  },
+  "撕": {
+    "pinyin": "sī",
+    "path": 15
+  },
+  "撞": {
+    "pinyin": "zhuàng",
+    "path": 15
+  },
+  "撤": {
+    "pinyin": "chè",
+    "path": 15
+  },
+  "撩": {
+    "pinyin": "liáo liāo",
+    "path": 15
+  },
+  "撬": {
+    "pinyin": "qiào",
+    "path": 15
+  },
+  "播": {
+    "pinyin": "bō",
+    "path": 15
+  },
+  "撮": {
+    "pinyin": "cuō zuǒ",
+    "path": 15
+  },
+  "撰": {
+    "pinyin": "zhuàn",
+    "path": 15
+  },
+  "撵": {
+    "pinyin": "niǎn",
+    "path": 15
+  },
+  "撼": {
+    "pinyin": "hàn",
+    "path": 16
+  },
+  "擂": {
+    "pinyin": "lèi léi",
+    "path": 16
+  },
+  "擅": {
+    "pinyin": "shàn",
+    "path": 16
+  },
+  "操": {
+    "pinyin": "cāo",
+    "path": 16
+  },
+  "擎": {
+    "pinyin": "qíng",
+    "path": 16
+  },
+  "擒": {
+    "pinyin": "qín",
+    "path": 15
+  },
+  "擦": {
+    "pinyin": "cā",
+    "path": 17
+  },
+  "攀": {
+    "pinyin": "pān",
+    "path": 19
+  },
+  "攒": {
+    "pinyin": "zǎn cuán",
+    "path": 19
+  },
+  "攘": {
+    "pinyin": "rǎng",
+    "path": 20
+  },
+  "支": {
+    "pinyin": "zhī",
+    "path": 4
+  },
+  "收": {
+    "pinyin": "shōu",
+    "path": 6
+  },
+  "改": {
+    "pinyin": "gǎi",
+    "path": 7
+  },
+  "攻": {
+    "pinyin": "gōng",
+    "path": 7
+  },
+  "放": {
+    "pinyin": "fàng",
+    "path": 8
+  },
+  "政": {
+    "pinyin": "zhèng",
+    "path": 9
+  },
+  "故": {
+    "pinyin": "gù",
+    "path": 9
+  },
+  "效": {
+    "pinyin": "xiào",
+    "path": 10
+  },
+  "敌": {
+    "pinyin": "dí",
+    "path": 10
+  },
+  "敏": {
+    "pinyin": "mǐn",
+    "path": 11
+  },
+  "救": {
+    "pinyin": "jiù",
+    "path": 11
+  },
+  "教": {
+    "pinyin": "jiào jiāo",
+    "path": 11
+  },
+  "敛": {
+    "pinyin": "liǎn",
+    "path": 11
+  },
+  "敞": {
+    "pinyin": "chǎng",
+    "path": 12
+  },
+  "敢": {
+    "pinyin": "gǎn",
+    "path": 11
+  },
+  "散": {
+    "pinyin": "sàn sǎn",
+    "path": 12
+  },
+  "敦": {
+    "pinyin": "dūn duì",
+    "path": 12
+  },
+  "敬": {
+    "pinyin": "jìng",
+    "path": 12
+  },
+  "数": {
+    "pinyin": "shù shǔ shuò",
+    "path": 13
+  },
+  "敲": {
+    "pinyin": "qiāo",
+    "path": 14
+  },
+  "整": {
+    "pinyin": "zhěng",
+    "path": 16
+  },
+  "敷": {
+    "pinyin": "fū",
+    "path": 15
+  },
+  "文": {
+    "pinyin": "wén",
+    "path": 4
+  },
+  "斋": {
+    "pinyin": "zhāi",
+    "path": 10
+  },
+  "斑": {
+    "pinyin": "bān",
+    "path": 12
+  },
+  "斗": {
+    "pinyin": "dòu dǒu",
+    "path": 4
+  },
+  "料": {
+    "pinyin": "liào",
+    "path": 10
+  },
+  "斜": {
+    "pinyin": "xié",
+    "path": 11
+  },
+  "斟": {
+    "pinyin": "zhēn",
+    "path": 13
+  },
+  "斤": {
+    "pinyin": "jīn",
+    "path": 4
+  },
+  "斥": {
+    "pinyin": "chì",
+    "path": 5
+  },
+  "斧": {
+    "pinyin": "fǔ",
+    "path": 8
+  },
+  "斩": {
+    "pinyin": "zhǎn",
+    "path": 8
+  },
+  "断": {
+    "pinyin": "duàn",
+    "path": 11
+  },
+  "斯": {
+    "pinyin": "sī",
+    "path": 12
+  },
+  "新": {
+    "pinyin": "xīn",
+    "path": 13
+  },
+  "方": {
+    "pinyin": "fāng",
+    "path": 4
+  },
+  "施": {
+    "pinyin": "shī",
+    "path": 9
+  },
+  "旁": {
+    "pinyin": "páng bàng",
+    "path": 10
+  },
+  "旅": {
+    "pinyin": "lǚ",
+    "path": 10
+  },
+  "旋": {
+    "pinyin": "xuán xuàn",
+    "path": 11
+  },
+  "族": {
+    "pinyin": "zú",
+    "path": 11
+  },
+  "旗": {
+    "pinyin": "qí",
+    "path": 14
+  },
+  "无": {
+    "pinyin": "wú mó",
+    "path": 4
+  },
+  "既": {
+    "pinyin": "jì",
+    "path": 9
+  },
+  "日": {
+    "pinyin": "rì",
+    "path": 4
+  },
+  "旦": {
+    "pinyin": "dàn",
+    "path": 5
+  },
+  "旧": {
+    "pinyin": "jiù",
+    "path": 5
+  },
+  "旨": {
+    "pinyin": "zhǐ",
+    "path": 6
+  },
+  "早": {
+    "pinyin": "zǎo",
+    "path": 6
+  },
+  "旬": {
+    "pinyin": "xún",
+    "path": 6
+  },
+  "旭": {
+    "pinyin": "xù",
+    "path": 6
+  },
+  "旱": {
+    "pinyin": "hàn",
+    "path": 7
+  },
+  "时": {
+    "pinyin": "shí",
+    "path": 7
+  },
+  "旷": {
+    "pinyin": "kuàng",
+    "path": 7
+  },
+  "旺": {
+    "pinyin": "wàng",
+    "path": 8
+  },
+  "昂": {
+    "pinyin": "áng",
+    "path": 8
+  },
+  "昆": {
+    "pinyin": "kūn",
+    "path": 8
+  },
+  "昌": {
+    "pinyin": "chāng",
+    "path": 8
+  },
+  "明": {
+    "pinyin": "míng",
+    "path": 8
+  },
+  "昏": {
+    "pinyin": "hūn",
+    "path": 8
+  },
+  "易": {
+    "pinyin": "yì",
+    "path": 8
+  },
+  "昔": {
+    "pinyin": "xī",
+    "path": 8
+  },
+  "昙": {
+    "pinyin": "tán",
+    "path": 8
+  },
+  "星": {
+    "pinyin": "xīng",
+    "path": 9
+  },
+  "映": {
+    "pinyin": "yìng",
+    "path": 9
+  },
+  "春": {
+    "pinyin": "chūn",
+    "path": 9
+  },
+  "昧": {
+    "pinyin": "mèi",
+    "path": 9
+  },
+  "昨": {
+    "pinyin": "zuó",
+    "path": 9
+  },
+  "昭": {
+    "pinyin": "zhāo",
+    "path": 9
+  },
+  "是": {
+    "pinyin": "shì",
+    "path": 9
+  },
+  "昵": {
+    "pinyin": "nì",
+    "path": 9
+  },
+  "昼": {
+    "pinyin": "zhòu",
+    "path": 9
+  },
+  "显": {
+    "pinyin": "xiǎn",
+    "path": 9
+  },
+  "晃": {
+    "pinyin": "huàng huǎng",
+    "path": 10
+  },
+  "晋": {
+    "pinyin": "jìn",
+    "path": 10
+  },
+  "晌": {
+    "pinyin": "shǎng",
+    "path": 10
+  },
+  "晒": {
+    "pinyin": "shài",
+    "path": 10
+  },
+  "晓": {
+    "pinyin": "xiǎo",
+    "path": 10
+  },
+  "晕": {
+    "pinyin": "yūn yùn",
+    "path": 10
+  },
+  "晚": {
+    "pinyin": "wǎn",
+    "path": 11
+  },
+  "晤": {
+    "pinyin": "wù",
+    "path": 11
+  },
+  "晦": {
+    "pinyin": "huì",
+    "path": 11
+  },
+  "晨": {
+    "pinyin": "chén",
+    "path": 11
+  },
+  "普": {
+    "pinyin": "pǔ",
+    "path": 12
+  },
+  "景": {
+    "pinyin": "jǐng yǐng",
+    "path": 12
+  },
+  "晰": {
+    "pinyin": "xī",
+    "path": 12
+  },
+  "晴": {
+    "pinyin": "qíng",
+    "path": 12
+  },
+  "晶": {
+    "pinyin": "jīng",
+    "path": 12
+  },
+  "智": {
+    "pinyin": "zhì",
+    "path": 12
+  },
+  "晾": {
+    "pinyin": "liàng",
+    "path": 12
+  },
+  "暂": {
+    "pinyin": "zàn",
+    "path": 12
+  },
+  "暇": {
+    "pinyin": "xiá",
+    "path": 13
+  },
+  "暑": {
+    "pinyin": "shǔ",
+    "path": 12
+  },
+  "暖": {
+    "pinyin": "nuǎn",
+    "path": 13
+  },
+  "暗": {
+    "pinyin": "àn",
+    "path": 13
+  },
+  "暮": {
+    "pinyin": "mù",
+    "path": 14
+  },
+  "暴": {
+    "pinyin": "bào pù",
+    "path": 15
+  },
+  "曙": {
+    "pinyin": "shǔ",
+    "path": 17
+  },
+  "曲": {
+    "pinyin": "qǔ qū",
+    "path": 6
+  },
+  "更": {
+    "pinyin": "gēng gèng",
+    "path": 7
+  },
+  "曹": {
+    "pinyin": "cáo",
+    "path": 11
+  },
+  "曼": {
+    "pinyin": "màn",
+    "path": 11
+  },
+  "曾": {
+    "pinyin": "zēng céng",
+    "path": 12
+  },
+  "替": {
+    "pinyin": "tì",
+    "path": 12
+  },
+  "最": {
+    "pinyin": "zuì",
+    "path": 12
+  },
+  "月": {
+    "pinyin": "yuè",
+    "path": 4
+  },
+  "有": {
+    "pinyin": "yǒu yòu",
+    "path": 6
+  },
+  "朋": {
+    "pinyin": "péng",
+    "path": 8
+  },
+  "服": {
+    "pinyin": "fú fù",
+    "path": 8
+  },
+  "朗": {
+    "pinyin": "lǎng",
+    "path": 10
+  },
+  "望": {
+    "pinyin": "wàng",
+    "path": 11
+  },
+  "朝": {
+    "pinyin": "cháo zhāo",
+    "path": 12
+  },
+  "期": {
+    "pinyin": "qī jī",
+    "path": 12
+  },
+  "朦": {
+    "pinyin": "méng",
+    "path": 17
+  },
+  "木": {
+    "pinyin": "mù",
+    "path": 4
+  },
+  "未": {
+    "pinyin": "wèi",
+    "path": 5
+  },
+  "末": {
+    "pinyin": "mò ·me",
+    "path": 5
+  },
+  "本": {
+    "pinyin": "běn",
+    "path": 5
+  },
+  "术": {
+    "pinyin": "shù zhú shú",
+    "path": 5
+  },
+  "朱": {
+    "pinyin": "zhū shú",
+    "path": 6
+  },
+  "朴": {
+    "pinyin": "pǔ piáo pò pō",
+    "path": 6
+  },
+  "朵": {
+    "pinyin": "duǒ",
+    "path": 6
+  },
+  "机": {
+    "pinyin": "jī",
+    "path": 6
+  },
+  "朽": {
+    "pinyin": "xiǔ",
+    "path": 6
+  },
+  "杀": {
+    "pinyin": "shā",
+    "path": 6
+  },
+  "杂": {
+    "pinyin": "zá",
+    "path": 6
+  },
+  "权": {
+    "pinyin": "quán",
+    "path": 6
+  },
+  "杆": {
+    "pinyin": "gǎn gān",
+    "path": 7
+  },
+  "杈": {
+    "pinyin": "chā chà",
+    "path": 7
+  },
+  "杉": {
+    "pinyin": "shān shā",
+    "path": 7
+  },
+  "李": {
+    "pinyin": "lǐ",
+    "path": 7
+  },
+  "杏": {
+    "pinyin": "xìng",
+    "path": 7
+  },
+  "材": {
+    "pinyin": "cái",
+    "path": 7
+  },
+  "村": {
+    "pinyin": "cūn",
+    "path": 7
+  },
+  "杖": {
+    "pinyin": "zhàng",
+    "path": 7
+  },
+  "杜": {
+    "pinyin": "dù",
+    "path": 7
+  },
+  "束": {
+    "pinyin": "shù",
+    "path": 7
+  },
+  "杠": {
+    "pinyin": "gàng gāng",
+    "path": 7
+  },
+  "条": {
+    "pinyin": "tiáo tiāo",
+    "path": 7
+  },
+  "来": {
+    "pinyin": "lái",
+    "path": 7
+  },
+  "杨": {
+    "pinyin": "yáng",
+    "path": 7
+  },
+  "杭": {
+    "pinyin": "háng",
+    "path": 8
+  },
+  "杯": {
+    "pinyin": "bēi",
+    "path": 8
+  },
+  "杰": {
+    "pinyin": "jié",
+    "path": 8
+  },
+  "松": {
+    "pinyin": "sōng",
+    "path": 8
+  },
+  "板": {
+    "pinyin": "bǎn",
+    "path": 8
+  },
+  "极": {
+    "pinyin": "jí",
+    "path": 7
+  },
+  "构": {
+    "pinyin": "gòu",
+    "path": 8
+  },
+  "枉": {
+    "pinyin": "wǎng",
+    "path": 8
+  },
+  "析": {
+    "pinyin": "xī",
+    "path": 8
+  },
+  "枕": {
+    "pinyin": "zhěn",
+    "path": 8
+  },
+  "林": {
+    "pinyin": "lín",
+    "path": 8
+  },
+  "枚": {
+    "pinyin": "méi",
+    "path": 8
+  },
+  "果": {
+    "pinyin": "guǒ",
+    "path": 8
+  },
+  "枝": {
+    "pinyin": "zhī qí",
+    "path": 8
+  },
+  "枢": {
+    "pinyin": "shū",
+    "path": 8
+  },
+  "枣": {
+    "pinyin": "zǎo",
+    "path": 8
+  },
+  "枪": {
+    "pinyin": "qiāng",
+    "path": 8
+  },
+  "枫": {
+    "pinyin": "fēng",
+    "path": 8
+  },
+  "枯": {
+    "pinyin": "kū",
+    "path": 9
+  },
+  "架": {
+    "pinyin": "jià",
+    "path": 9
+  },
+  "枷": {
+    "pinyin": "jiā",
+    "path": 9
+  },
+  "柄": {
+    "pinyin": "bǐng",
+    "path": 9
+  },
+  "柏": {
+    "pinyin": "bǎi bó bò",
+    "path": 9
+  },
+  "某": {
+    "pinyin": "mǒu",
+    "path": 9
+  },
+  "柑": {
+    "pinyin": "gān",
+    "path": 9
+  },
+  "柒": {
+    "pinyin": "qī",
+    "path": 9
+  },
+  "染": {
+    "pinyin": "rǎn",
+    "path": 9
+  },
+  "柔": {
+    "pinyin": "róu",
+    "path": 9
+  },
+  "柜": {
+    "pinyin": "guì jǔ",
+    "path": 8
+  },
+  "柠": {
+    "pinyin": "níng",
+    "path": 9
+  },
+  "查": {
+    "pinyin": "zhā chá",
+    "path": 9
+  },
+  "柬": {
+    "pinyin": "jiǎn",
+    "path": 9
+  },
+  "柱": {
+    "pinyin": "zhù",
+    "path": 9
+  },
+  "柳": {
+    "pinyin": "liǔ",
+    "path": 9
+  },
+  "柴": {
+    "pinyin": "chái",
+    "path": 10
+  },
+  "柿": {
+    "pinyin": "shì",
+    "path": 9
+  },
+  "栅": {
+    "pinyin": "shān zhà shi cè",
+    "path": 9
+  },
+  "标": {
+    "pinyin": "biāo",
+    "path": 9
+  },
+  "栈": {
+    "pinyin": "zhàn",
+    "path": 9
+  },
+  "栋": {
+    "pinyin": "dòng",
+    "path": 9
+  },
+  "栏": {
+    "pinyin": "lán",
+    "path": 9
+  },
+  "树": {
+    "pinyin": "shù",
+    "path": 9
+  },
+  "栓": {
+    "pinyin": "shuān",
+    "path": 10
+  },
+  "栖": {
+    "pinyin": "qī xī",
+    "path": 10
+  },
+  "栗": {
+    "pinyin": "lì",
+    "path": 10
+  },
+  "校": {
+    "pinyin": "xiào jiào",
+    "path": 10
+  },
+  "株": {
+    "pinyin": "zhū",
+    "path": 10
+  },
+  "样": {
+    "pinyin": "yàng",
+    "path": 10
+  },
+  "核": {
+    "pinyin": "hé hú",
+    "path": 10
+  },
+  "根": {
+    "pinyin": "gēn",
+    "path": 10
+  },
+  "格": {
+    "pinyin": "gé gē",
+    "path": 10
+  },
+  "栽": {
+    "pinyin": "zāi",
+    "path": 10
+  },
+  "桂": {
+    "pinyin": "guì",
+    "path": 10
+  },
+  "桃": {
+    "pinyin": "táo",
+    "path": 10
+  },
+  "桅": {
+    "pinyin": "wéi",
+    "path": 10
+  },
+  "框": {
+    "pinyin": "kuàng",
+    "path": 10
+  },
+  "案": {
+    "pinyin": "àn",
+    "path": 10
+  },
+  "桌": {
+    "pinyin": "zhuō",
+    "path": 10
+  },
+  "桐": {
+    "pinyin": "tóng",
+    "path": 10
+  },
+  "桑": {
+    "pinyin": "sāng",
+    "path": 10
+  },
+  "档": {
+    "pinyin": "dàng",
+    "path": 10
+  },
+  "桥": {
+    "pinyin": "qiáo",
+    "path": 10
+  },
+  "桦": {
+    "pinyin": "huà",
+    "path": 10
+  },
+  "桨": {
+    "pinyin": "jiǎng",
+    "path": 10
+  },
+  "桩": {
+    "pinyin": "zhuāng",
+    "path": 10
+  },
+  "桶": {
+    "pinyin": "tǒng",
+    "path": 11
+  },
+  "梁": {
+    "pinyin": "liáng",
+    "path": 11
+  },
+  "梅": {
+    "pinyin": "méi",
+    "path": 11
+  },
+  "梆": {
+    "pinyin": "bāng",
+    "path": 10
+  },
+  "梗": {
+    "pinyin": "gěng",
+    "path": 11
+  },
+  "梢": {
+    "pinyin": "shāo sào",
+    "path": 11
+  },
+  "梦": {
+    "pinyin": "mèng",
+    "path": 11
+  },
+  "梧": {
+    "pinyin": "wú",
+    "path": 11
+  },
+  "梨": {
+    "pinyin": "lí",
+    "path": 11
+  },
+  "梭": {
+    "pinyin": "suō",
+    "path": 11
+  },
+  "梯": {
+    "pinyin": "tī",
+    "path": 11
+  },
+  "械": {
+    "pinyin": "xiè",
+    "path": 11
+  },
+  "梳": {
+    "pinyin": "shū",
+    "path": 11
+  },
+  "检": {
+    "pinyin": "jiǎn",
+    "path": 11
+  },
+  "棉": {
+    "pinyin": "mián",
+    "path": 12
+  },
+  "棋": {
+    "pinyin": "qí",
+    "path": 12
+  },
+  "棍": {
+    "pinyin": "gùn hùn",
+    "path": 12
+  },
+  "棒": {
+    "pinyin": "bàng",
+    "path": 12
+  },
+  "棕": {
+    "pinyin": "zōng",
+    "path": 12
+  },
+  "棘": {
+    "pinyin": "jí",
+    "path": 12
+  },
+  "棚": {
+    "pinyin": "péng",
+    "path": 12
+  },
+  "棠": {
+    "pinyin": "táng",
+    "path": 12
+  },
+  "森": {
+    "pinyin": "sēn",
+    "path": 12
+  },
+  "棱": {
+    "pinyin": "léng lēng líng",
+    "path": 12
+  },
+  "棵": {
+    "pinyin": "kē",
+    "path": 12
+  },
+  "棺": {
+    "pinyin": "guān",
+    "path": 12
+  },
+  "椅": {
+    "pinyin": "yǐ yī",
+    "path": 12
+  },
+  "植": {
+    "pinyin": "zhí",
+    "path": 12
+  },
+  "椎": {
+    "pinyin": "zhuī chuí",
+    "path": 12
+  },
+  "椒": {
+    "pinyin": "jiāo",
+    "path": 12
+  },
+  "椭": {
+    "pinyin": "tuǒ",
+    "path": 12
+  },
+  "椰": {
+    "pinyin": "yē",
+    "path": 12
+  },
+  "椿": {
+    "pinyin": "chūn",
+    "path": 13
+  },
+  "楔": {
+    "pinyin": "xiē",
+    "path": 13
+  },
+  "楚": {
+    "pinyin": "chǔ",
+    "path": 13
+  },
+  "楞": {
+    "pinyin": "léng",
+    "path": 13
+  },
+  "楣": {
+    "pinyin": "méi",
+    "path": 13
+  },
+  "楷": {
+    "pinyin": "kǎi jiē",
+    "path": 13
+  },
+  "楼": {
+    "pinyin": "lóu",
+    "path": 13
+  },
+  "概": {
+    "pinyin": "gài",
+    "path": 13
+  },
+  "榄": {
+    "pinyin": "lǎn",
+    "path": 13
+  },
+  "榆": {
+    "pinyin": "yú",
+    "path": 13
+  },
+  "榔": {
+    "pinyin": "láng",
+    "path": 12
+  },
+  "榕": {
+    "pinyin": "róng",
+    "path": 14
+  },
+  "榛": {
+    "pinyin": "zhēn",
+    "path": 14
+  },
+  "榜": {
+    "pinyin": "bǎng bàng",
+    "path": 14
+  },
+  "榨": {
+    "pinyin": "zhà",
+    "path": 14
+  },
+  "榴": {
+    "pinyin": "liú",
+    "path": 14
+  },
+  "槐": {
+    "pinyin": "huái",
+    "path": 13
+  },
+  "槽": {
+    "pinyin": "cáo",
+    "path": 15
+  },
+  "樊": {
+    "pinyin": "fán",
+    "path": 15
+  },
+  "樟": {
+    "pinyin": "zhāng",
+    "path": 15
+  },
+  "模": {
+    "pinyin": "mó mú",
+    "path": 14
+  },
+  "横": {
+    "pinyin": "héng hèng",
+    "path": 15
+  },
+  "樱": {
+    "pinyin": "yīng",
+    "path": 15
+  },
+  "橄": {
+    "pinyin": "gǎn",
+    "path": 15
+  },
+  "橘": {
+    "pinyin": "jú",
+    "path": 16
+  },
+  "橙": {
+    "pinyin": "chéng",
+    "path": 16
+  },
+  "橡": {
+    "pinyin": "xiàng",
+    "path": 15
+  },
+  "橱": {
+    "pinyin": "chú",
+    "path": 16
+  },
+  "檀": {
+    "pinyin": "tán",
+    "path": 17
+  },
+  "檐": {
+    "pinyin": "yán",
+    "path": 17
+  },
+  "檩": {
+    "pinyin": "lǐn",
+    "path": 17
+  },
+  "檬": {
+    "pinyin": "méng",
+    "path": 17
+  },
+  "欠": {
+    "pinyin": "qiàn",
+    "path": 4
+  },
+  "次": {
+    "pinyin": "cì",
+    "path": 6
+  },
+  "欢": {
+    "pinyin": "huān",
+    "path": 6
+  },
+  "欣": {
+    "pinyin": "xīn",
+    "path": 8
+  },
+  "欧": {
+    "pinyin": "ōu",
+    "path": 8
+  },
+  "欲": {
+    "pinyin": "yù",
+    "path": 11
+  },
+  "欺": {
+    "pinyin": "qī",
+    "path": 12
+  },
+  "款": {
+    "pinyin": "kuǎn",
+    "path": 12
+  },
+  "歇": {
+    "pinyin": "xiē",
+    "path": 13
+  },
+  "歉": {
+    "pinyin": "qiàn",
+    "path": 14
+  },
+  "歌": {
+    "pinyin": "gē",
+    "path": 14
+  },
+  "止": {
+    "pinyin": "zhǐ",
+    "path": 4
+  },
+  "正": {
+    "pinyin": "zhèng zhēng",
+    "path": 5
+  },
+  "此": {
+    "pinyin": "cǐ",
+    "path": 6
+  },
+  "步": {
+    "pinyin": "bù",
+    "path": 7
+  },
+  "武": {
+    "pinyin": "wǔ",
+    "path": 8
+  },
+  "歧": {
+    "pinyin": "qí",
+    "path": 8
+  },
+  "歪": {
+    "pinyin": "wāi",
+    "path": 9
+  },
+  "歹": {
+    "pinyin": "dǎi",
+    "path": 4
+  },
+  "死": {
+    "pinyin": "sǐ",
+    "path": 6
+  },
+  "歼": {
+    "pinyin": "jiān",
+    "path": 7
+  },
+  "殃": {
+    "pinyin": "yāng",
+    "path": 9
+  },
+  "殉": {
+    "pinyin": "xùn",
+    "path": 10
+  },
+  "殊": {
+    "pinyin": "shū",
+    "path": 10
+  },
+  "残": {
+    "pinyin": "cán",
+    "path": 9
+  },
+  "殖": {
+    "pinyin": "zhí shi",
+    "path": 12
+  },
+  "殴": {
+    "pinyin": "ōu",
+    "path": 8
+  },
+  "段": {
+    "pinyin": "duàn",
+    "path": 9
+  },
+  "殷": {
+    "pinyin": "yīn yān yǐn",
+    "path": 10
+  },
+  "殿": {
+    "pinyin": "diàn",
+    "path": 13
+  },
+  "毁": {
+    "pinyin": "huǐ",
+    "path": 13
+  },
+  "毅": {
+    "pinyin": "yì",
+    "path": 15
+  },
+  "母": {
+    "pinyin": "mǔ",
+    "path": 5
+  },
+  "每": {
+    "pinyin": "měi",
+    "path": 7
+  },
+  "毒": {
+    "pinyin": "dú dài",
+    "path": 9
+  },
+  "比": {
+    "pinyin": "bǐ",
+    "path": 4
+  },
+  "毕": {
+    "pinyin": "bì",
+    "path": 6
+  },
+  "毙": {
+    "pinyin": "bì",
+    "path": 10
+  },
+  "毛": {
+    "pinyin": "máo",
+    "path": 4
+  },
+  "毡": {
+    "pinyin": "zhān",
+    "path": 9
+  },
+  "毫": {
+    "pinyin": "háo",
+    "path": 11
+  },
+  "毯": {
+    "pinyin": "tǎn",
+    "path": 12
+  },
+  "氏": {
+    "pinyin": "shì zhī",
+    "path": 4
+  },
+  "民": {
+    "pinyin": "mín",
+    "path": 5
+  },
+  "氓": {
+    "pinyin": "méng máng",
+    "path": 8
+  },
+  "气": {
+    "pinyin": "qì",
+    "path": 4
+  },
+  "氛": {
+    "pinyin": "fēn",
+    "path": 8
+  },
+  "氢": {
+    "pinyin": "qīng",
+    "path": 9
+  },
+  "氧": {
+    "pinyin": "yǎng",
+    "path": 10
+  },
+  "氨": {
+    "pinyin": "ān",
+    "path": 10
+  },
+  "氮": {
+    "pinyin": "dàn",
+    "path": 12
+  },
+  "氯": {
+    "pinyin": "lǜ",
+    "path": 12
+  },
+  "水": {
+    "pinyin": "shuǐ",
+    "path": 4
+  },
+  "永": {
+    "pinyin": "yǒng",
+    "path": 5
+  },
+  "汁": {
+    "pinyin": "zhī",
+    "path": 5
+  },
+  "求": {
+    "pinyin": "qiú",
+    "path": 7
+  },
+  "汇": {
+    "pinyin": "huì",
+    "path": 5
+  },
+  "汉": {
+    "pinyin": "hàn",
+    "path": 5
+  },
+  "汗": {
+    "pinyin": "hàn hán",
+    "path": 6
+  },
+  "汛": {
+    "pinyin": "xùn",
+    "path": 6
+  },
+  "汞": {
+    "pinyin": "gǒng",
+    "path": 7
+  },
+  "江": {
+    "pinyin": "jiāng",
+    "path": 6
+  },
+  "池": {
+    "pinyin": "chí",
+    "path": 6
+  },
+  "污": {
+    "pinyin": "wū",
+    "path": 6
+  },
+  "汤": {
+    "pinyin": "tāng shāng",
+    "path": 6
+  },
+  "汪": {
+    "pinyin": "wāng",
+    "path": 7
+  },
+  "汰": {
+    "pinyin": "tài",
+    "path": 7
+  },
+  "汹": {
+    "pinyin": "xiōng",
+    "path": 7
+  },
+  "汽": {
+    "pinyin": "qì",
+    "path": 7
+  },
+  "沃": {
+    "pinyin": "wò",
+    "path": 7
+  },
+  "沈": {
+    "pinyin": "shěn chén",
+    "path": 7
+  },
+  "沉": {
+    "pinyin": "chén",
+    "path": 7
+  },
+  "沐": {
+    "pinyin": "mù",
+    "path": 7
+  },
+  "沙": {
+    "pinyin": "shā shà",
+    "path": 7
+  },
+  "沛": {
+    "pinyin": "pèi",
+    "path": 7
+  },
+  "沟": {
+    "pinyin": "gōu",
+    "path": 7
+  },
+  "没": {
+    "pinyin": "méi mò",
+    "path": 7
+  },
+  "沥": {
+    "pinyin": "lì",
+    "path": 7
+  },
+  "沦": {
+    "pinyin": "lún",
+    "path": 7
+  },
+  "沧": {
+    "pinyin": "cāng",
+    "path": 7
+  },
+  "沪": {
+    "pinyin": "hù",
+    "path": 7
+  },
+  "沫": {
+    "pinyin": "mò",
+    "path": 8
+  },
+  "沮": {
+    "pinyin": "jǔ jù",
+    "path": 8
+  },
+  "河": {
+    "pinyin": "hé",
+    "path": 8
+  },
+  "沸": {
+    "pinyin": "fèi",
+    "path": 8
+  },
+  "油": {
+    "pinyin": "yóu",
+    "path": 8
+  },
+  "治": {
+    "pinyin": "zhì",
+    "path": 8
+  },
+  "沼": {
+    "pinyin": "zhǎo",
+    "path": 8
+  },
+  "沽": {
+    "pinyin": "gū",
+    "path": 8
+  },
+  "沾": {
+    "pinyin": "zhān",
+    "path": 8
+  },
+  "沿": {
+    "pinyin": "yán",
+    "path": 8
+  },
+  "泄": {
+    "pinyin": "xiè yì",
+    "path": 8
+  },
+  "泉": {
+    "pinyin": "quán",
+    "path": 9
+  },
+  "泊": {
+    "pinyin": "bó pō",
+    "path": 8
+  },
+  "泌": {
+    "pinyin": "mì bì",
+    "path": 8
+  },
+  "法": {
+    "pinyin": "fǎ",
+    "path": 8
+  },
+  "泛": {
+    "pinyin": "fàn",
+    "path": 7
+  },
+  "泞": {
+    "pinyin": "nìng",
+    "path": 8
+  },
+  "泡": {
+    "pinyin": "pào pāo",
+    "path": 8
+  },
+  "波": {
+    "pinyin": "bō",
+    "path": 8
+  },
+  "泣": {
+    "pinyin": "qì",
+    "path": 8
+  },
+  "泥": {
+    "pinyin": "ní nì",
+    "path": 8
+  },
+  "注": {
+    "pinyin": "zhù",
+    "path": 8
+  },
+  "泪": {
+    "pinyin": "lèi",
+    "path": 8
+  },
+  "泰": {
+    "pinyin": "tài",
+    "path": 10
+  },
+  "泳": {
+    "pinyin": "yǒng",
+    "path": 8
+  },
+  "泵": {
+    "pinyin": "bèng",
+    "path": 9
+  },
+  "泻": {
+    "pinyin": "xiè",
+    "path": 8
+  },
+  "泼": {
+    "pinyin": "pō",
+    "path": 8
+  },
+  "泽": {
+    "pinyin": "zé shì",
+    "path": 8
+  },
+  "洁": {
+    "pinyin": "jié",
+    "path": 9
+  },
+  "洋": {
+    "pinyin": "yáng",
+    "path": 9
+  },
+  "洒": {
+    "pinyin": "sǎ xǐ",
+    "path": 9
+  },
+  "洗": {
+    "pinyin": "xǐ xiǎn",
+    "path": 9
+  },
+  "洛": {
+    "pinyin": "luò",
+    "path": 9
+  },
+  "洞": {
+    "pinyin": "dòng tóng",
+    "path": 9
+  },
+  "津": {
+    "pinyin": "jīn",
+    "path": 9
+  },
+  "洪": {
+    "pinyin": "hóng",
+    "path": 9
+  },
+  "洲": {
+    "pinyin": "zhōu",
+    "path": 9
+  },
+  "活": {
+    "pinyin": "huó",
+    "path": 9
+  },
+  "洼": {
+    "pinyin": "wā",
+    "path": 9
+  },
+  "洽": {
+    "pinyin": "qià",
+    "path": 9
+  },
+  "派": {
+    "pinyin": "pài",
+    "path": 9
+  },
+  "流": {
+    "pinyin": "liú",
+    "path": 10
+  },
+  "浅": {
+    "pinyin": "qiǎn jiān",
+    "path": 8
+  },
+  "浆": {
+    "pinyin": "jiāng jiàng",
+    "path": 10
+  },
+  "浇": {
+    "pinyin": "jiāo",
+    "path": 9
+  },
+  "浊": {
+    "pinyin": "zhuó",
+    "path": 9
+  },
+  "测": {
+    "pinyin": "cè",
+    "path": 9
+  },
+  "济": {
+    "pinyin": "jì jǐ",
+    "path": 9
+  },
+  "浑": {
+    "pinyin": "hún",
+    "path": 9
+  },
+  "浓": {
+    "pinyin": "nóng",
+    "path": 9
+  },
+  "浙": {
+    "pinyin": "zhè",
+    "path": 10
+  },
+  "浦": {
+    "pinyin": "pǔ",
+    "path": 10
+  },
+  "浩": {
+    "pinyin": "hào",
+    "path": 10
+  },
+  "浪": {
+    "pinyin": "làng",
+    "path": 10
+  },
+  "浮": {
+    "pinyin": "fú",
+    "path": 10
+  },
+  "浴": {
+    "pinyin": "yù",
+    "path": 10
+  },
+  "海": {
+    "pinyin": "hǎi",
+    "path": 10
+  },
+  "浸": {
+    "pinyin": "jìn",
+    "path": 10
+  },
+  "涂": {
+    "pinyin": "tú",
+    "path": 10
+  },
+  "消": {
+    "pinyin": "xiāo",
+    "path": 10
+  },
+  "涉": {
+    "pinyin": "shè",
+    "path": 10
+  },
+  "涌": {
+    "pinyin": "yǒng chōng",
+    "path": 10
+  },
+  "涎": {
+    "pinyin": "xián",
+    "path": 9
+  },
+  "涕": {
+    "pinyin": "tì",
+    "path": 10
+  },
+  "涛": {
+    "pinyin": "tāo",
+    "path": 10
+  },
+  "涝": {
+    "pinyin": "lào",
+    "path": 10
+  },
+  "涡": {
+    "pinyin": "wō guō",
+    "path": 10
+  },
+  "涣": {
+    "pinyin": "huàn",
+    "path": 10
+  },
+  "涤": {
+    "pinyin": "dí",
+    "path": 10
+  },
+  "润": {
+    "pinyin": "rùn",
+    "path": 10
+  },
+  "涧": {
+    "pinyin": "jiàn",
+    "path": 10
+  },
+  "涨": {
+    "pinyin": "zhǎng zhàng",
+    "path": 10
+  },
+  "涩": {
+    "pinyin": "sè",
+    "path": 10
+  },
+  "涮": {
+    "pinyin": "shuàn",
+    "path": 11
+  },
+  "涯": {
+    "pinyin": "yá",
+    "path": 11
+  },
+  "液": {
+    "pinyin": "yè",
+    "path": 11
+  },
+  "涵": {
+    "pinyin": "hán",
+    "path": 11
+  },
+  "淀": {
+    "pinyin": "diàn",
+    "path": 11
+  },
+  "淆": {
+    "pinyin": "xiáo",
+    "path": 11
+  },
+  "淋": {
+    "pinyin": "lín lìn",
+    "path": 11
+  },
+  "淌": {
+    "pinyin": "tǎng chǎng",
+    "path": 11
+  },
+  "淑": {
+    "pinyin": "shū",
+    "path": 11
+  },
+  "淘": {
+    "pinyin": "táo",
+    "path": 11
+  },
+  "淡": {
+    "pinyin": "dàn",
+    "path": 11
+  },
+  "淤": {
+    "pinyin": "yū",
+    "path": 11
+  },
+  "淫": {
+    "pinyin": "yín",
+    "path": 11
+  },
+  "淮": {
+    "pinyin": "huái",
+    "path": 11
+  },
+  "深": {
+    "pinyin": "shēn",
+    "path": 11
+  },
+  "淳": {
+    "pinyin": "chún zhūn",
+    "path": 11
+  },
+  "混": {
+    "pinyin": "hùn hún",
+    "path": 11
+  },
+  "淹": {
+    "pinyin": "yān",
+    "path": 11
+  },
+  "添": {
+    "pinyin": "tiān",
+    "path": 11
+  },
+  "清": {
+    "pinyin": "qīng",
+    "path": 11
+  },
+  "渊": {
+    "pinyin": "yuān",
+    "path": 11
+  },
+  "渐": {
+    "pinyin": "jiàn jiān",
+    "path": 11
+  },
+  "渔": {
+    "pinyin": "yú",
+    "path": 11
+  },
+  "渗": {
+    "pinyin": "shèn",
+    "path": 11
+  },
+  "渠": {
+    "pinyin": "qú jù",
+    "path": 11
+  },
+  "渡": {
+    "pinyin": "dù",
+    "path": 12
+  },
+  "渣": {
+    "pinyin": "zhā",
+    "path": 12
+  },
+  "渤": {
+    "pinyin": "bó",
+    "path": 12
+  },
+  "温": {
+    "pinyin": "wēn",
+    "path": 12
+  },
+  "港": {
+    "pinyin": "gǎng jiǎng",
+    "path": 12
+  },
+  "渴": {
+    "pinyin": "kě",
+    "path": 12
+  },
+  "游": {
+    "pinyin": "yóu",
+    "path": 12
+  },
+  "渺": {
+    "pinyin": "miǎo",
+    "path": 12
+  },
+  "湃": {
+    "pinyin": "pài",
+    "path": 12
+  },
+  "湖": {
+    "pinyin": "hú",
+    "path": 12
+  },
+  "湘": {
+    "pinyin": "xiāng",
+    "path": 12
+  },
+  "湾": {
+    "pinyin": "wān",
+    "path": 12
+  },
+  "湿": {
+    "pinyin": "shī",
+    "path": 12
+  },
+  "溃": {
+    "pinyin": "kuì huì",
+    "path": 12
+  },
+  "溅": {
+    "pinyin": "jiàn jiān",
+    "path": 12
+  },
+  "溉": {
+    "pinyin": "gài",
+    "path": 12
+  },
+  "源": {
+    "pinyin": "yuán",
+    "path": 13
+  },
+  "溜": {
+    "pinyin": "liū liù",
+    "path": 13
+  },
+  "溢": {
+    "pinyin": "yì",
+    "path": 13
+  },
+  "溪": {
+    "pinyin": "xī",
+    "path": 13
+  },
+  "溯": {
+    "pinyin": "sù",
+    "path": 13
+  },
+  "溶": {
+    "pinyin": "róng",
+    "path": 13
+  },
+  "溺": {
+    "pinyin": "nì niào",
+    "path": 13
+  },
+  "滋": {
+    "pinyin": "zī",
+    "path": 12
+  },
+  "滑": {
+    "pinyin": "huá",
+    "path": 12
+  },
+  "滓": {
+    "pinyin": "zǐ",
+    "path": 13
+  },
+  "滔": {
+    "pinyin": "tāo",
+    "path": 13
+  },
+  "滚": {
+    "pinyin": "gǔn",
+    "path": 13
+  },
+  "滞": {
+    "pinyin": "zhì",
+    "path": 12
+  },
+  "满": {
+    "pinyin": "mǎn",
+    "path": 13
+  },
+  "滤": {
+    "pinyin": "lǜ",
+    "path": 13
+  },
+  "滥": {
+    "pinyin": "làn",
+    "path": 13
+  },
+  "滨": {
+    "pinyin": "bīn",
+    "path": 13
+  },
+  "滩": {
+    "pinyin": "tān",
+    "path": 13
+  },
+  "滴": {
+    "pinyin": "dī",
+    "path": 14
+  },
+  "漂": {
+    "pinyin": "piāo piǎo piào",
+    "path": 14
+  },
+  "漆": {
+    "pinyin": "qī",
+    "path": 14
+  },
+  "漏": {
+    "pinyin": "lòu",
+    "path": 14
+  },
+  "漓": {
+    "pinyin": "lí",
+    "path": 13
+  },
+  "演": {
+    "pinyin": "yǎn",
+    "path": 14
+  },
+  "漠": {
+    "pinyin": "mò",
+    "path": 13
+  },
+  "漩": {
+    "pinyin": "xuán",
+    "path": 14
+  },
+  "漫": {
+    "pinyin": "màn",
+    "path": 14
+  },
+  "漱": {
+    "pinyin": "shù",
+    "path": 14
+  },
+  "漾": {
+    "pinyin": "yàng",
+    "path": 14
+  },
+  "潘": {
+    "pinyin": "pān",
+    "path": 15
+  },
+  "潜": {
+    "pinyin": "qián",
+    "path": 15
+  },
+  "潦": {
+    "pinyin": "liáo lǎo lào",
+    "path": 15
+  },
+  "潭": {
+    "pinyin": "tán",
+    "path": 15
+  },
+  "潮": {
+    "pinyin": "cháo",
+    "path": 15
+  },
+  "澄": {
+    "pinyin": "chéng dèng",
+    "path": 15
+  },
+  "澈": {
+    "pinyin": "chè",
+    "path": 15
+  },
+  "澎": {
+    "pinyin": "péng pēng",
+    "path": 15
+  },
+  "澜": {
+    "pinyin": "lán",
+    "path": 15
+  },
+  "澡": {
+    "pinyin": "zǎo",
+    "path": 16
+  },
+  "澳": {
+    "pinyin": "ào",
+    "path": 15
+  },
+  "激": {
+    "pinyin": "jī",
+    "path": 16
+  },
+  "濒": {
+    "pinyin": "bīn",
+    "path": 16
+  },
+  "瀑": {
+    "pinyin": "bào pù",
+    "path": 18
+  },
+  "灌": {
+    "pinyin": "guàn",
+    "path": 20
+  },
+  "火": {
+    "pinyin": "huǒ",
+    "path": 4
+  },
+  "灭": {
+    "pinyin": "miè",
+    "path": 5
+  },
+  "灯": {
+    "pinyin": "dēng",
+    "path": 6
+  },
+  "灰": {
+    "pinyin": "huī",
+    "path": 6
+  },
+  "灵": {
+    "pinyin": "líng",
+    "path": 7
+  },
+  "灶": {
+    "pinyin": "zào",
+    "path": 7
+  },
+  "灸": {
+    "pinyin": "jiǔ",
+    "path": 7
+  },
+  "灼": {
+    "pinyin": "zhuó",
+    "path": 7
+  },
+  "灾": {
+    "pinyin": "zāi",
+    "path": 7
+  },
+  "灿": {
+    "pinyin": "càn",
+    "path": 7
+  },
+  "炉": {
+    "pinyin": "lú",
+    "path": 8
+  },
+  "炊": {
+    "pinyin": "chuī",
+    "path": 8
+  },
+  "炎": {
+    "pinyin": "yán",
+    "path": 8
+  },
+  "炒": {
+    "pinyin": "chǎo",
+    "path": 8
+  },
+  "炕": {
+    "pinyin": "kàng",
+    "path": 8
+  },
+  "炫": {
+    "pinyin": "xuàn",
+    "path": 9
+  },
+  "炬": {
+    "pinyin": "jù",
+    "path": 8
+  },
+  "炭": {
+    "pinyin": "tàn",
+    "path": 9
+  },
+  "炮": {
+    "pinyin": "pào páo bāo",
+    "path": 9
+  },
+  "炸": {
+    "pinyin": "zhà zhá",
+    "path": 9
+  },
+  "点": {
+    "pinyin": "diǎn",
+    "path": 9
+  },
+  "炼": {
+    "pinyin": "liàn",
+    "path": 9
+  },
+  "烁": {
+    "pinyin": "shuò",
+    "path": 9
+  },
+  "烂": {
+    "pinyin": "làn",
+    "path": 9
+  },
+  "烈": {
+    "pinyin": "liè",
+    "path": 10
+  },
+  "烘": {
+    "pinyin": "hōng",
+    "path": 10
+  },
+  "烙": {
+    "pinyin": "lào luò",
+    "path": 10
+  },
+  "烛": {
+    "pinyin": "zhú",
+    "path": 10
+  },
+  "烟": {
+    "pinyin": "yān",
+    "path": 10
+  },
+  "烤": {
+    "pinyin": "kǎo",
+    "path": 10
+  },
+  "烦": {
+    "pinyin": "fán",
+    "path": 10
+  },
+  "烧": {
+    "pinyin": "shāo",
+    "path": 10
+  },
+  "烫": {
+    "pinyin": "tàng",
+    "path": 10
+  },
+  "热": {
+    "pinyin": "rè",
+    "path": 10
+  },
+  "烹": {
+    "pinyin": "pēng",
+    "path": 11
+  },
+  "焊": {
+    "pinyin": "hàn",
+    "path": 11
+  },
+  "焕": {
+    "pinyin": "huàn",
+    "path": 11
+  },
+  "焙": {
+    "pinyin": "bèi",
+    "path": 12
+  },
+  "焚": {
+    "pinyin": "fén",
+    "path": 12
+  },
+  "焦": {
+    "pinyin": "jiāo",
+    "path": 12
+  },
+  "焰": {
+    "pinyin": "yàn",
+    "path": 12
+  },
+  "然": {
+    "pinyin": "rán",
+    "path": 12
+  },
+  "煌": {
+    "pinyin": "huáng",
+    "path": 13
+  },
+  "煎": {
+    "pinyin": "jiān",
+    "path": 13
+  },
+  "煞": {
+    "pinyin": "shà shā",
+    "path": 13
+  },
+  "煤": {
+    "pinyin": "méi",
+    "path": 13
+  },
+  "照": {
+    "pinyin": "zhào",
+    "path": 13
+  },
+  "煮": {
+    "pinyin": "zhǔ",
+    "path": 12
+  },
+  "熄": {
+    "pinyin": "xī",
+    "path": 14
+  },
+  "熊": {
+    "pinyin": "xióng",
+    "path": 14
+  },
+  "熏": {
+    "pinyin": "xūn xùn",
+    "path": 14
+  },
+  "熔": {
+    "pinyin": "róng",
+    "path": 14
+  },
+  "熙": {
+    "pinyin": "xī",
+    "path": 14
+  },
+  "熟": {
+    "pinyin": "shú shóu",
+    "path": 15
+  },
+  "熬": {
+    "pinyin": "áo āo",
+    "path": 14
+  },
+  "燃": {
+    "pinyin": "rán",
+    "path": 16
+  },
+  "燎": {
+    "pinyin": "liáo liǎo",
+    "path": 16
+  },
+  "燕": {
+    "pinyin": "yàn yān",
+    "path": 16
+  },
+  "燥": {
+    "pinyin": "zào",
+    "path": 17
+  },
+  "爆": {
+    "pinyin": "bào",
+    "path": 19
+  },
+  "爪": {
+    "pinyin": "zhǎo zhuǎ",
+    "path": 4
+  },
+  "爬": {
+    "pinyin": "pá",
+    "path": 8
+  },
+  "爱": {
+    "pinyin": "ài",
+    "path": 10
+  },
+  "爵": {
+    "pinyin": "jué",
+    "path": 17
+  },
+  "父": {
+    "pinyin": "fù fǔ",
+    "path": 4
+  },
+  "爷": {
+    "pinyin": "yé",
+    "path": 6
+  },
+  "爸": {
+    "pinyin": "bà",
+    "path": 8
+  },
+  "爹": {
+    "pinyin": "diē",
+    "path": 10
+  },
+  "爽": {
+    "pinyin": "shuǎng",
+    "path": 11
+  },
+  "片": {
+    "pinyin": "piàn piān",
+    "path": 4
+  },
+  "版": {
+    "pinyin": "bǎn",
+    "path": 8
+  },
+  "牌": {
+    "pinyin": "pái",
+    "path": 12
+  },
+  "牍": {
+    "pinyin": "dú",
+    "path": 12
+  },
+  "牙": {
+    "pinyin": "yá",
+    "path": 4
+  },
+  "牛": {
+    "pinyin": "niú",
+    "path": 4
+  },
+  "牡": {
+    "pinyin": "mǔ",
+    "path": 7
+  },
+  "牢": {
+    "pinyin": "láo",
+    "path": 7
+  },
+  "牧": {
+    "pinyin": "mù",
+    "path": 8
+  },
+  "物": {
+    "pinyin": "wù",
+    "path": 8
+  },
+  "牲": {
+    "pinyin": "shēng",
+    "path": 9
+  },
+  "牵": {
+    "pinyin": "qiān",
+    "path": 9
+  },
+  "特": {
+    "pinyin": "tè",
+    "path": 10
+  },
+  "牺": {
+    "pinyin": "xī",
+    "path": 10
+  },
+  "犀": {
+    "pinyin": "xī",
+    "path": 12
+  },
+  "犁": {
+    "pinyin": "lí",
+    "path": 11
+  },
+  "犬": {
+    "pinyin": "quǎn",
+    "path": 4
+  },
+  "犯": {
+    "pinyin": "fàn",
+    "path": 5
+  },
+  "状": {
+    "pinyin": "zhuàng",
+    "path": 7
+  },
+  "犹": {
+    "pinyin": "yóu",
+    "path": 7
+  },
+  "狂": {
+    "pinyin": "kuáng",
+    "path": 7
+  },
+  "狈": {
+    "pinyin": "bèi",
+    "path": 7
+  },
+  "狐": {
+    "pinyin": "hú",
+    "path": 8
+  },
+  "狗": {
+    "pinyin": "gǒu",
+    "path": 8
+  },
+  "狞": {
+    "pinyin": "níng",
+    "path": 8
+  },
+  "狠": {
+    "pinyin": "hěn",
+    "path": 9
+  },
+  "狡": {
+    "pinyin": "jiǎo",
+    "path": 9
+  },
+  "独": {
+    "pinyin": "dú",
+    "path": 9
+  },
+  "狭": {
+    "pinyin": "xiá",
+    "path": 9
+  },
+  "狮": {
+    "pinyin": "shī",
+    "path": 9
+  },
+  "狰": {
+    "pinyin": "zhēng",
+    "path": 9
+  },
+  "狱": {
+    "pinyin": "yù",
+    "path": 9
+  },
+  "狸": {
+    "pinyin": "lí",
+    "path": 10
+  },
+  "狼": {
+    "pinyin": "láng",
+    "path": 10
+  },
+  "猎": {
+    "pinyin": "liè",
+    "path": 11
+  },
+  "猖": {
+    "pinyin": "chāng",
+    "path": 11
+  },
+  "猛": {
+    "pinyin": "měng",
+    "path": 11
+  },
+  "猜": {
+    "pinyin": "cāi",
+    "path": 11
+  },
+  "猩": {
+    "pinyin": "xīng",
+    "path": 12
+  },
+  "猪": {
+    "pinyin": "zhū",
+    "path": 11
+  },
+  "猫": {
+    "pinyin": "māo máo",
+    "path": 11
+  },
+  "猬": {
+    "pinyin": "wèi",
+    "path": 12
+  },
+  "献": {
+    "pinyin": "xiàn",
+    "path": 13
+  },
+  "猴": {
+    "pinyin": "hóu",
+    "path": 12
+  },
+  "猾": {
+    "pinyin": "huá",
+    "path": 12
+  },
+  "猿": {
+    "pinyin": "yuán",
+    "path": 13
+  },
+  "玄": {
+    "pinyin": "xuán",
+    "path": 5
+  },
+  "率": {
+    "pinyin": "lǜ shuài",
+    "path": 11
+  },
+  "玉": {
+    "pinyin": "yù",
+    "path": 5
+  },
+  "王": {
+    "pinyin": "wáng wàng",
+    "path": 4
+  },
+  "玖": {
+    "pinyin": "jiǔ",
+    "path": 7
+  },
+  "玛": {
+    "pinyin": "mǎ",
+    "path": 7
+  },
+  "玩": {
+    "pinyin": "wán",
+    "path": 8
+  },
+  "玫": {
+    "pinyin": "méi",
+    "path": 8
+  },
+  "环": {
+    "pinyin": "huán",
+    "path": 8
+  },
+  "现": {
+    "pinyin": "xiàn",
+    "path": 8
+  },
+  "玲": {
+    "pinyin": "líng",
+    "path": 9
+  },
+  "玷": {
+    "pinyin": "diàn",
+    "path": 9
+  },
+  "玻": {
+    "pinyin": "bō",
+    "path": 9
+  },
+  "珊": {
+    "pinyin": "shān",
+    "path": 9
+  },
+  "珍": {
+    "pinyin": "zhēn",
+    "path": 9
+  },
+  "珠": {
+    "pinyin": "zhū",
+    "path": 10
+  },
+  "班": {
+    "pinyin": "bān",
+    "path": 10
+  },
+  "球": {
+    "pinyin": "qiú",
+    "path": 11
+  },
+  "琅": {
+    "pinyin": "láng",
+    "path": 11
+  },
+  "理": {
+    "pinyin": "lǐ",
+    "path": 11
+  },
+  "琉": {
+    "pinyin": "liú",
+    "path": 11
+  },
+  "琐": {
+    "pinyin": "suǒ",
+    "path": 11
+  },
+  "琢": {
+    "pinyin": "zhuó zuó",
+    "path": 12
+  },
+  "琳": {
+    "pinyin": "lín",
+    "path": 12
+  },
+  "琴": {
+    "pinyin": "qín",
+    "path": 12
+  },
+  "琼": {
+    "pinyin": "qióng",
+    "path": 12
+  },
+  "瑞": {
+    "pinyin": "ruì",
+    "path": 13
+  },
+  "瑟": {
+    "pinyin": "sè",
+    "path": 13
+  },
+  "瑰": {
+    "pinyin": "guī",
+    "path": 13
+  },
+  "璃": {
+    "pinyin": "lí",
+    "path": 14
+  },
+  "璧": {
+    "pinyin": "bì",
+    "path": 18
+  },
+  "瓜": {
+    "pinyin": "guā",
+    "path": 5
+  },
+  "瓢": {
+    "pinyin": "piáo",
+    "path": 16
+  },
+  "瓣": {
+    "pinyin": "bàn",
+    "path": 19
+  },
+  "瓤": {
+    "pinyin": "ráng",
+    "path": 22
+  },
+  "瓦": {
+    "pinyin": "wǎ wà",
+    "path": 4
+  },
+  "瓮": {
+    "pinyin": "wèng",
+    "path": 8
+  },
+  "瓶": {
+    "pinyin": "píng",
+    "path": 10
+  },
+  "瓷": {
+    "pinyin": "cí",
+    "path": 10
+  },
+  "甘": {
+    "pinyin": "gān",
+    "path": 5
+  },
+  "甚": {
+    "pinyin": "shèn shén",
+    "path": 9
+  },
+  "甜": {
+    "pinyin": "tián",
+    "path": 11
+  },
+  "生": {
+    "pinyin": "shēng",
+    "path": 5
+  },
+  "甥": {
+    "pinyin": "shēng",
+    "path": 12
+  },
+  "用": {
+    "pinyin": "yòng",
+    "path": 5
+  },
+  "甩": {
+    "pinyin": "shuǎi",
+    "path": 5
+  },
+  "甫": {
+    "pinyin": "fǔ",
+    "path": 7
+  },
+  "田": {
+    "pinyin": "tián",
+    "path": 5
+  },
+  "由": {
+    "pinyin": "yóu",
+    "path": 5
+  },
+  "甲": {
+    "pinyin": "jiǎ",
+    "path": 5
+  },
+  "申": {
+    "pinyin": "shēn",
+    "path": 5
+  },
+  "电": {
+    "pinyin": "diàn",
+    "path": 5
+  },
+  "男": {
+    "pinyin": "nán",
+    "path": 7
+  },
+  "甸": {
+    "pinyin": "diàn tián shèng",
+    "path": 7
+  },
+  "画": {
+    "pinyin": "huà",
+    "path": 8
+  },
+  "畅": {
+    "pinyin": "chàng",
+    "path": 8
+  },
+  "界": {
+    "pinyin": "jiè",
+    "path": 9
+  },
+  "畏": {
+    "pinyin": "wèi",
+    "path": 9
+  },
+  "畔": {
+    "pinyin": "pàn",
+    "path": 10
+  },
+  "留": {
+    "pinyin": "liú",
+    "path": 10
+  },
+  "畜": {
+    "pinyin": "chù xù",
+    "path": 10
+  },
+  "略": {
+    "pinyin": "lüè",
+    "path": 11
+  },
+  "畦": {
+    "pinyin": "qí",
+    "path": 11
+  },
+  "番": {
+    "pinyin": "fān pān",
+    "path": 12
+  },
+  "畴": {
+    "pinyin": "chóu",
+    "path": 12
+  },
+  "畸": {
+    "pinyin": "jī",
+    "path": 13
+  },
+  "疆": {
+    "pinyin": "jiāng qiáng",
+    "path": 19
+  },
+  "疏": {
+    "pinyin": "shū",
+    "path": 12
+  },
+  "疑": {
+    "pinyin": "yí",
+    "path": 14
+  },
+  "疗": {
+    "pinyin": "liáo",
+    "path": 7
+  },
+  "疙": {
+    "pinyin": "gē yì",
+    "path": 8
+  },
+  "疚": {
+    "pinyin": "jiù",
+    "path": 8
+  },
+  "疟": {
+    "pinyin": "nüè yào",
+    "path": 8
+  },
+  "疤": {
+    "pinyin": "bā",
+    "path": 9
+  },
+  "疫": {
+    "pinyin": "yì",
+    "path": 9
+  },
+  "疮": {
+    "pinyin": "chuāng",
+    "path": 9
+  },
+  "疯": {
+    "pinyin": "fēng",
+    "path": 9
+  },
+  "疲": {
+    "pinyin": "pí",
+    "path": 10
+  },
+  "疹": {
+    "pinyin": "zhěn",
+    "path": 10
+  },
+  "疼": {
+    "pinyin": "téng",
+    "path": 10
+  },
+  "疾": {
+    "pinyin": "jí",
+    "path": 10
+  },
+  "病": {
+    "pinyin": "bìng",
+    "path": 10
+  },
+  "症": {
+    "pinyin": "zhèng zhēng",
+    "path": 10
+  },
+  "痊": {
+    "pinyin": "quán",
+    "path": 11
+  },
+  "痒": {
+    "pinyin": "yǎng",
+    "path": 11
+  },
+  "痕": {
+    "pinyin": "hén",
+    "path": 11
+  },
+  "痘": {
+    "pinyin": "dòu",
+    "path": 12
+  },
+  "痛": {
+    "pinyin": "tòng",
+    "path": 12
+  },
+  "痢": {
+    "pinyin": "lì",
+    "path": 0
+  },
+  "痪": {
+    "pinyin": "huàn",
+    "path": 12
+  },
+  "痰": {
+    "pinyin": "tán",
+    "path": 13
+  },
+  "痴": {
+    "pinyin": "chī",
+    "path": 13
+  },
+  "痹": {
+    "pinyin": "bì",
+    "path": 13
+  },
+  "瘟": {
+    "pinyin": "wēn",
+    "path": 14
+  },
+  "瘤": {
+    "pinyin": "liú",
+    "path": 15
+  },
+  "瘦": {
+    "pinyin": "shòu",
+    "path": 14
+  },
+  "瘩": {
+    "pinyin": "da dá",
+    "path": 14
+  },
+  "瘪": {
+    "pinyin": "biě biē",
+    "path": 15
+  },
+  "瘫": {
+    "pinyin": "tān",
+    "path": 15
+  },
+  "瘸": {
+    "pinyin": "qué",
+    "path": 16
+  },
+  "瘾": {
+    "pinyin": "yǐn",
+    "path": 16
+  },
+  "癌": {
+    "pinyin": "ái",
+    "path": 17
+  },
+  "癞": {
+    "pinyin": "lài",
+    "path": 18
+  },
+  "癣": {
+    "pinyin": "xuǎn",
+    "path": 19
+  },
+  "登": {
+    "pinyin": "dēng",
+    "path": 12
+  },
+  "白": {
+    "pinyin": "bái",
+    "path": 5
+  },
+  "百": {
+    "pinyin": "bǎi",
+    "path": 6
+  },
+  "皂": {
+    "pinyin": "zào",
+    "path": 7
+  },
+  "的": {
+    "pinyin": "de dí dì dī",
+    "path": 8
+  },
+  "皆": {
+    "pinyin": "jiē",
+    "path": 9
+  },
+  "皇": {
+    "pinyin": "huáng",
+    "path": 9
+  },
+  "皮": {
+    "pinyin": "pí",
+    "path": 5
+  },
+  "皱": {
+    "pinyin": "zhòu",
+    "path": 10
+  },
+  "皿": {
+    "pinyin": "mǐn",
+    "path": 5
+  },
+  "盅": {
+    "pinyin": "zhōng",
+    "path": 9
+  },
+  "盆": {
+    "pinyin": "pén",
+    "path": 9
+  },
+  "盈": {
+    "pinyin": "yíng",
+    "path": 9
+  },
+  "益": {
+    "pinyin": "yì",
+    "path": 10
+  },
+  "盏": {
+    "pinyin": "zhǎn",
+    "path": 10
+  },
+  "盐": {
+    "pinyin": "yán",
+    "path": 10
+  },
+  "监": {
+    "pinyin": "jiān jiàn",
+    "path": 10
+  },
+  "盒": {
+    "pinyin": "hé",
+    "path": 11
+  },
+  "盔": {
+    "pinyin": "kuī",
+    "path": 11
+  },
+  "盖": {
+    "pinyin": "gài gě hé",
+    "path": 11
+  },
+  "盗": {
+    "pinyin": "dào",
+    "path": 11
+  },
+  "盘": {
+    "pinyin": "pán",
+    "path": 11
+  },
+  "盛": {
+    "pinyin": "shèng chéng",
+    "path": 11
+  },
+  "盟": {
+    "pinyin": "méng",
+    "path": 13
+  },
+  "目": {
+    "pinyin": "mù",
+    "path": 5
+  },
+  "盯": {
+    "pinyin": "dīng",
+    "path": 7
+  },
+  "盲": {
+    "pinyin": "máng",
+    "path": 8
+  },
+  "直": {
+    "pinyin": "zhí",
+    "path": 8
+  },
+  "相": {
+    "pinyin": "xiāng xiàng",
+    "path": 9
+  },
+  "盹": {
+    "pinyin": "dǔn",
+    "path": 9
+  },
+  "盼": {
+    "pinyin": "pàn",
+    "path": 9
+  },
+  "盾": {
+    "pinyin": "dùn",
+    "path": 9
+  },
+  "省": {
+    "pinyin": "shěng xǐng",
+    "path": 9
+  },
+  "眉": {
+    "pinyin": "méi",
+    "path": 9
+  },
+  "看": {
+    "pinyin": "kàn kān",
+    "path": 9
+  },
+  "真": {
+    "pinyin": "zhēn",
+    "path": 10
+  },
+  "眠": {
+    "pinyin": "mián",
+    "path": 10
+  },
+  "眨": {
+    "pinyin": "zhǎ",
+    "path": 9
+  },
+  "眯": {
+    "pinyin": "mī mí",
+    "path": 11
+  },
+  "眶": {
+    "pinyin": "kuàng",
+    "path": 11
+  },
+  "眷": {
+    "pinyin": "juàn",
+    "path": 11
+  },
+  "眼": {
+    "pinyin": "yǎn",
+    "path": 11
+  },
+  "着": {
+    "pinyin": "zhe zhuó zháo zhāo",
+    "path": 11
+  },
+  "睁": {
+    "pinyin": "zhēng",
+    "path": 11
+  },
+  "睛": {
+    "pinyin": "jīng",
+    "path": 13
+  },
+  "睡": {
+    "pinyin": "shuì",
+    "path": 13
+  },
+  "督": {
+    "pinyin": "dū",
+    "path": 13
+  },
+  "睦": {
+    "pinyin": "mù",
+    "path": 13
+  },
+  "睬": {
+    "pinyin": "cǎi",
+    "path": 13
+  },
+  "睹": {
+    "pinyin": "dǔ",
+    "path": 13
+  },
+  "瞄": {
+    "pinyin": "miáo",
+    "path": 13
+  },
+  "瞎": {
+    "pinyin": "xiā",
+    "path": 15
+  },
+  "瞒": {
+    "pinyin": "mán mén",
+    "path": 15
+  },
+  "瞧": {
+    "pinyin": "qiáo",
+    "path": 17
+  },
+  "瞪": {
+    "pinyin": "dèng",
+    "path": 17
+  },
+  "瞬": {
+    "pinyin": "shùn",
+    "path": 17
+  },
+  "瞭": {
+    "pinyin": "liǎo liào",
+    "path": 17
+  },
+  "瞳": {
+    "pinyin": "tóng",
+    "path": 17
+  },
+  "瞻": {
+    "pinyin": "zhān",
+    "path": 18
+  },
+  "矗": {
+    "pinyin": "chù",
+    "path": 24
+  },
+  "矛": {
+    "pinyin": "máo",
+    "path": 5
+  },
+  "矢": {
+    "pinyin": "shǐ",
+    "path": 5
+  },
+  "知": {
+    "pinyin": "zhī zhì",
+    "path": 8
+  },
+  "矩": {
+    "pinyin": "jǔ",
+    "path": 9
+  },
+  "矫": {
+    "pinyin": "jiǎo jiáo",
+    "path": 11
+  },
+  "短": {
+    "pinyin": "duǎn",
+    "path": 12
+  },
+  "矮": {
+    "pinyin": "ǎi",
+    "path": 13
+  },
+  "石": {
+    "pinyin": "shí dàn",
+    "path": 5
+  },
+  "矾": {
+    "pinyin": "fán",
+    "path": 8
+  },
+  "矿": {
+    "pinyin": "kuàng",
+    "path": 8
+  },
+  "码": {
+    "pinyin": "mǎ",
+    "path": 8
+  },
+  "砂": {
+    "pinyin": "shā",
+    "path": 9
+  },
+  "砌": {
+    "pinyin": "qì qiè",
+    "path": 9
+  },
+  "砍": {
+    "pinyin": "kǎn",
+    "path": 9
+  },
+  "研": {
+    "pinyin": "yán yàn",
+    "path": 9
+  },
+  "砖": {
+    "pinyin": "zhuān",
+    "path": 9
+  },
+  "砚": {
+    "pinyin": "yàn",
+    "path": 9
+  },
+  "砰": {
+    "pinyin": "pēng",
+    "path": 10
+  },
+  "破": {
+    "pinyin": "pò",
+    "path": 10
+  },
+  "砸": {
+    "pinyin": "zá",
+    "path": 10
+  },
+  "砾": {
+    "pinyin": "lì",
+    "path": 10
+  },
+  "础": {
+    "pinyin": "chǔ",
+    "path": 10
+  },
+  "硅": {
+    "pinyin": "guī",
+    "path": 11
+  },
+  "硕": {
+    "pinyin": "shuò shí",
+    "path": 11
+  },
+  "硝": {
+    "pinyin": "xiāo",
+    "path": 12
+  },
+  "硫": {
+    "pinyin": "liú",
+    "path": 12
+  },
+  "硬": {
+    "pinyin": "yìng",
+    "path": 12
+  },
+  "确": {
+    "pinyin": "què",
+    "path": 12
+  },
+  "硼": {
+    "pinyin": "péng",
+    "path": 13
+  },
+  "碉": {
+    "pinyin": "diāo",
+    "path": 13
+  },
+  "碌": {
+    "pinyin": "lù liù",
+    "path": 13
+  },
+  "碍": {
+    "pinyin": "ài",
+    "path": 13
+  },
+  "碎": {
+    "pinyin": "suì",
+    "path": 13
+  },
+  "碑": {
+    "pinyin": "bēi",
+    "path": 13
+  },
+  "碗": {
+    "pinyin": "wǎn",
+    "path": 13
+  },
+  "碘": {
+    "pinyin": "diǎn",
+    "path": 13
+  },
+  "碟": {
+    "pinyin": "dié",
+    "path": 14
+  },
+  "碧": {
+    "pinyin": "bì",
+    "path": 14
+  },
+  "碰": {
+    "pinyin": "pèng",
+    "path": 13
+  },
+  "碱": {
+    "pinyin": "jiǎn",
+    "path": 14
+  },
+  "碳": {
+    "pinyin": "tàn",
+    "path": 14
+  },
+  "碴": {
+    "pinyin": "chá chā",
+    "path": 14
+  },
+  "碾": {
+    "pinyin": "niǎn",
+    "path": 15
+  },
+  "磁": {
+    "pinyin": "cí",
+    "path": 14
+  },
+  "磅": {
+    "pinyin": "bàng páng",
+    "path": 15
+  },
+  "磕": {
+    "pinyin": "kē",
+    "path": 15
+  },
+  "磨": {
+    "pinyin": "mó mò",
+    "path": 16
+  },
+  "磷": {
+    "pinyin": "lín",
+    "path": 17
+  },
+  "磺": {
+    "pinyin": "huáng",
+    "path": 16
+  },
+  "礁": {
+    "pinyin": "jiāo",
+    "path": 17
+  },
+  "示": {
+    "pinyin": "shì",
+    "path": 5
+  },
+  "礼": {
+    "pinyin": "lǐ",
+    "path": 5
+  },
+  "社": {
+    "pinyin": "shè",
+    "path": 7
+  },
+  "祈": {
+    "pinyin": "qí",
+    "path": 8
+  },
+  "祖": {
+    "pinyin": "zǔ",
+    "path": 9
+  },
+  "祝": {
+    "pinyin": "zhù",
+    "path": 9
+  },
+  "神": {
+    "pinyin": "shén",
+    "path": 9
+  },
+  "祟": {
+    "pinyin": "suì",
+    "path": 10
+  },
+  "祠": {
+    "pinyin": "cí",
+    "path": 9
+  },
+  "祥": {
+    "pinyin": "xiáng",
+    "path": 10
+  },
+  "票": {
+    "pinyin": "piào piāo",
+    "path": 11
+  },
+  "祭": {
+    "pinyin": "jì zhài",
+    "path": 11
+  },
+  "祷": {
+    "pinyin": "dǎo",
+    "path": 11
+  },
+  "祸": {
+    "pinyin": "huò",
+    "path": 11
+  },
+  "禀": {
+    "pinyin": "bǐng",
+    "path": 13
+  },
+  "禁": {
+    "pinyin": "jìn jīn",
+    "path": 13
+  },
+  "福": {
+    "pinyin": "fú",
+    "path": 13
+  },
+  "离": {
+    "pinyin": "lí",
+    "path": 10
+  },
+  "禽": {
+    "pinyin": "qín",
+    "path": 12
+  },
+  "禾": {
+    "pinyin": "hé",
+    "path": 5
+  },
+  "秀": {
+    "pinyin": "xiù",
+    "path": 7
+  },
+  "私": {
+    "pinyin": "sī",
+    "path": 7
+  },
+  "秃": {
+    "pinyin": "tū",
+    "path": 7
+  },
+  "秆": {
+    "pinyin": "gǎn",
+    "path": 8
+  },
+  "秉": {
+    "pinyin": "bǐng",
+    "path": 8
+  },
+  "秋": {
+    "pinyin": "qiū",
+    "path": 9
+  },
+  "种": {
+    "pinyin": "zhǒng zhòng chóng",
+    "path": 9
+  },
+  "科": {
+    "pinyin": "kē",
+    "path": 9
+  },
+  "秒": {
+    "pinyin": "miǎo",
+    "path": 9
+  },
+  "秕": {
+    "pinyin": "bǐ",
+    "path": 9
+  },
+  "秘": {
+    "pinyin": "mì bì",
+    "path": 10
+  },
+  "租": {
+    "pinyin": "zū",
+    "path": 10
+  },
+  "秤": {
+    "pinyin": "chèng",
+    "path": 10
+  },
+  "秦": {
+    "pinyin": "qín",
+    "path": 10
+  },
+  "秧": {
+    "pinyin": "yāng",
+    "path": 10
+  },
+  "秩": {
+    "pinyin": "zhì",
+    "path": 10
+  },
+  "秫": {
+    "pinyin": "shú",
+    "path": 10
+  },
+  "积": {
+    "pinyin": "jī",
+    "path": 10
+  },
+  "称": {
+    "pinyin": "chēng chèn chèng",
+    "path": 10
+  },
+  "秸": {
+    "pinyin": "jiē",
+    "path": 11
+  },
+  "移": {
+    "pinyin": "yí",
+    "path": 11
+  },
+  "秽": {
+    "pinyin": "huì",
+    "path": 11
+  },
+  "稀": {
+    "pinyin": "xī",
+    "path": 12
+  },
+  "程": {
+    "pinyin": "chéng",
+    "path": 12
+  },
+  "稍": {
+    "pinyin": "shāo shào",
+    "path": 12
+  },
+  "税": {
+    "pinyin": "shuì",
+    "path": 12
+  },
+  "稚": {
+    "pinyin": "zhì",
+    "path": 13
+  },
+  "稠": {
+    "pinyin": "chóu",
+    "path": 13
+  },
+  "稳": {
+    "pinyin": "wěn",
+    "path": 14
+  },
+  "稻": {
+    "pinyin": "dào",
+    "path": 15
+  },
+  "稼": {
+    "pinyin": "jià",
+    "path": 15
+  },
+  "稽": {
+    "pinyin": "jī qǐ",
+    "path": 15
+  },
+  "稿": {
+    "pinyin": "gǎo",
+    "path": 15
+  },
+  "穆": {
+    "pinyin": "mù",
+    "path": 16
+  },
+  "穗": {
+    "pinyin": "suì",
+    "path": 17
+  },
+  "穴": {
+    "pinyin": "xué",
+    "path": 5
+  },
+  "究": {
+    "pinyin": "jiū",
+    "path": 7
+  },
+  "穷": {
+    "pinyin": "qióng",
+    "path": 7
+  },
+  "空": {
+    "pinyin": "kōng kòng kǒng",
+    "path": 8
+  },
+  "穿": {
+    "pinyin": "chuān",
+    "path": 9
+  },
+  "突": {
+    "pinyin": "tū",
+    "path": 9
+  },
+  "窃": {
+    "pinyin": "qiè",
+    "path": 9
+  },
+  "窄": {
+    "pinyin": "zhǎi",
+    "path": 10
+  },
+  "窍": {
+    "pinyin": "qiào",
+    "path": 10
+  },
+  "窑": {
+    "pinyin": "yáo",
+    "path": 11
+  },
+  "窒": {
+    "pinyin": "zhì",
+    "path": 11
+  },
+  "窖": {
+    "pinyin": "jiào",
+    "path": 12
+  },
+  "窗": {
+    "pinyin": "chuāng",
+    "path": 12
+  },
+  "窘": {
+    "pinyin": "jiǒng",
+    "path": 12
+  },
+  "窜": {
+    "pinyin": "cuàn",
+    "path": 12
+  },
+  "窝": {
+    "pinyin": "wō",
+    "path": 12
+  },
+  "窟": {
+    "pinyin": "kū",
+    "path": 13
+  },
+  "窥": {
+    "pinyin": "kuī",
+    "path": 13
+  },
+  "窿": {
+    "pinyin": "lóng",
+    "path": 16
+  },
+  "立": {
+    "pinyin": "lì",
+    "path": 5
+  },
+  "竖": {
+    "pinyin": "shù",
+    "path": 9
+  },
+  "站": {
+    "pinyin": "zhàn",
+    "path": 10
+  },
+  "竞": {
+    "pinyin": "jìng",
+    "path": 10
+  },
+  "竟": {
+    "pinyin": "jìng",
+    "path": 11
+  },
+  "章": {
+    "pinyin": "zhāng",
+    "path": 11
+  },
+  "竣": {
+    "pinyin": "jùn",
+    "path": 12
+  },
+  "童": {
+    "pinyin": "tóng",
+    "path": 12
+  },
+  "竭": {
+    "pinyin": "jié",
+    "path": 14
+  },
+  "端": {
+    "pinyin": "duān",
+    "path": 14
+  },
+  "竹": {
+    "pinyin": "zhú",
+    "path": 6
+  },
+  "竿": {
+    "pinyin": "gān",
+    "path": 9
+  },
+  "笆": {
+    "pinyin": "bā",
+    "path": 10
+  },
+  "笋": {
+    "pinyin": "sǔn",
+    "path": 10
+  },
+  "笑": {
+    "pinyin": "xiào",
+    "path": 10
+  },
+  "笔": {
+    "pinyin": "bǐ",
+    "path": 10
+  },
+  "笙": {
+    "pinyin": "shēng",
+    "path": 11
+  },
+  "笛": {
+    "pinyin": "dí",
+    "path": 11
+  },
+  "笤": {
+    "pinyin": "tiáo",
+    "path": 11
+  },
+  "符": {
+    "pinyin": "fú",
+    "path": 11
+  },
+  "笨": {
+    "pinyin": "bèn",
+    "path": 11
+  },
+  "第": {
+    "pinyin": "dì",
+    "path": 11
+  },
+  "笼": {
+    "pinyin": "lóng lǒng",
+    "path": 11
+  },
+  "等": {
+    "pinyin": "děng",
+    "path": 12
+  },
+  "筋": {
+    "pinyin": "jīn",
+    "path": 12
+  },
+  "筏": {
+    "pinyin": "fá",
+    "path": 12
+  },
+  "筐": {
+    "pinyin": "kuāng",
+    "path": 12
+  },
+  "筑": {
+    "pinyin": "zhù zhú",
+    "path": 12
+  },
+  "筒": {
+    "pinyin": "tǒng",
+    "path": 12
+  },
+  "答": {
+    "pinyin": "dá dā",
+    "path": 12
+  },
+  "策": {
+    "pinyin": "cè",
+    "path": 12
+  },
+  "筛": {
+    "pinyin": "shāi",
+    "path": 12
+  },
+  "筝": {
+    "pinyin": "zhēng",
+    "path": 12
+  },
+  "筷": {
+    "pinyin": "kuài",
+    "path": 13
+  },
+  "筹": {
+    "pinyin": "chóu",
+    "path": 0
+  },
+  "签": {
+    "pinyin": "qiān",
+    "path": 13
+  },
+  "简": {
+    "pinyin": "jiǎn",
+    "path": 13
+  },
+  "箍": {
+    "pinyin": "gū",
+    "path": 14
+  },
+  "箕": {
+    "pinyin": "jī",
+    "path": 14
+  },
+  "算": {
+    "pinyin": "suàn",
+    "path": 14
+  },
+  "管": {
+    "pinyin": "guǎn",
+    "path": 14
+  },
+  "箩": {
+    "pinyin": "luó",
+    "path": 14
+  },
+  "箫": {
+    "pinyin": "xiāo",
+    "path": 14
+  },
+  "箭": {
+    "pinyin": "jiàn",
+    "path": 15
+  },
+  "箱": {
+    "pinyin": "xiāng",
+    "path": 15
+  },
+  "篇": {
+    "pinyin": "piān",
+    "path": 15
+  },
+  "篓": {
+    "pinyin": "lǒu",
+    "path": 15
+  },
+  "篙": {
+    "pinyin": "gāo",
+    "path": 16
+  },
+  "篡": {
+    "pinyin": "cuàn",
+    "path": 16
+  },
+  "篮": {
+    "pinyin": "lán",
+    "path": 16
+  },
+  "篱": {
+    "pinyin": "lí",
+    "path": 16
+  },
+  "篷": {
+    "pinyin": "péng",
+    "path": 16
+  },
+  "簇": {
+    "pinyin": "cù",
+    "path": 17
+  },
+  "簸": {
+    "pinyin": "bò bǒ",
+    "path": 19
+  },
+  "簿": {
+    "pinyin": "bù bó",
+    "path": 19
+  },
+  "籍": {
+    "pinyin": "jí",
+    "path": 20
+  },
+  "米": {
+    "pinyin": "mǐ",
+    "path": 6
+  },
+  "类": {
+    "pinyin": "lèi",
+    "path": 9
+  },
+  "籽": {
+    "pinyin": "zǐ",
+    "path": 9
+  },
+  "粉": {
+    "pinyin": "fěn",
+    "path": 10
+  },
+  "粒": {
+    "pinyin": "lì",
+    "path": 11
+  },
+  "粗": {
+    "pinyin": "cū",
+    "path": 11
+  },
+  "粘": {
+    "pinyin": "nián zhān",
+    "path": 11
+  },
+  "粟": {
+    "pinyin": "sù",
+    "path": 12
+  },
+  "粤": {
+    "pinyin": "yuè",
+    "path": 12
+  },
+  "粥": {
+    "pinyin": "zhōu yù",
+    "path": 12
+  },
+  "粪": {
+    "pinyin": "fèn",
+    "path": 12
+  },
+  "粮": {
+    "pinyin": "liáng",
+    "path": 13
+  },
+  "粱": {
+    "pinyin": "liáng",
+    "path": 13
+  },
+  "粹": {
+    "pinyin": "cuì",
+    "path": 14
+  },
+  "精": {
+    "pinyin": "jīng",
+    "path": 14
+  },
+  "糊": {
+    "pinyin": "hú hū hù",
+    "path": 15
+  },
+  "糕": {
+    "pinyin": "gāo",
+    "path": 16
+  },
+  "糖": {
+    "pinyin": "táng",
+    "path": 16
+  },
+  "糙": {
+    "pinyin": "cāo",
+    "path": 16
+  },
+  "糜": {
+    "pinyin": "mí méi",
+    "path": 17
+  },
+  "糟": {
+    "pinyin": "zāo",
+    "path": 17
+  },
+  "糠": {
+    "pinyin": "kāng",
+    "path": 17
+  },
+  "糯": {
+    "pinyin": "nuò",
+    "path": 20
+  },
+  "系": {
+    "pinyin": "xì jì",
+    "path": 7
+  },
+  "紊": {
+    "pinyin": "wěn",
+    "path": 10
+  },
+  "素": {
+    "pinyin": "sù",
+    "path": 10
+  },
+  "索": {
+    "pinyin": "suǒ",
+    "path": 10
+  },
+  "紧": {
+    "pinyin": "jǐn",
+    "path": 10
+  },
+  "紫": {
+    "pinyin": "zǐ",
+    "path": 12
+  },
+  "累": {
+    "pinyin": "lèi lěi léi",
+    "path": 11
+  },
+  "絮": {
+    "pinyin": "xù",
+    "path": 12
+  },
+  "繁": {
+    "pinyin": "fán pó",
+    "path": 17
+  },
+  "纠": {
+    "pinyin": "jiū",
+    "path": 5
+  },
+  "红": {
+    "pinyin": "hóng gōng",
+    "path": 6
+  },
+  "纤": {
+    "pinyin": "xiān qiàn",
+    "path": 6
+  },
+  "约": {
+    "pinyin": "yuē yāo",
+    "path": 6
+  },
+  "级": {
+    "pinyin": "jí",
+    "path": 6
+  },
+  "纪": {
+    "pinyin": "jì jǐ",
+    "path": 6
+  },
+  "纫": {
+    "pinyin": "rèn",
+    "path": 6
+  },
+  "纬": {
+    "pinyin": "wěi",
+    "path": 7
+  },
+  "纯": {
+    "pinyin": "chún",
+    "path": 7
+  },
+  "纱": {
+    "pinyin": "shā",
+    "path": 7
+  },
+  "纲": {
+    "pinyin": "gāng",
+    "path": 7
+  },
+  "纳": {
+    "pinyin": "nà",
+    "path": 7
+  },
+  "纵": {
+    "pinyin": "zòng zǒng",
+    "path": 7
+  },
+  "纷": {
+    "pinyin": "fēn",
+    "path": 7
+  },
+  "纸": {
+    "pinyin": "zhǐ",
+    "path": 7
+  },
+  "纹": {
+    "pinyin": "wén wèn",
+    "path": 7
+  },
+  "纺": {
+    "pinyin": "fǎng",
+    "path": 7
+  },
+  "纽": {
+    "pinyin": "niǔ",
+    "path": 7
+  },
+  "线": {
+    "pinyin": "xiàn",
+    "path": 8
+  },
+  "练": {
+    "pinyin": "liàn",
+    "path": 8
+  },
+  "组": {
+    "pinyin": "zǔ",
+    "path": 8
+  },
+  "绅": {
+    "pinyin": "shēn",
+    "path": 8
+  },
+  "细": {
+    "pinyin": "xì",
+    "path": 8
+  },
+  "织": {
+    "pinyin": "zhī zhì",
+    "path": 8
+  },
+  "终": {
+    "pinyin": "zhōng",
+    "path": 8
+  },
+  "绊": {
+    "pinyin": "bàn",
+    "path": 8
+  },
+  "绍": {
+    "pinyin": "shào",
+    "path": 8
+  },
+  "绎": {
+    "pinyin": "yì",
+    "path": 8
+  },
+  "经": {
+    "pinyin": "jīng jìng",
+    "path": 8
+  },
+  "绑": {
+    "pinyin": "bǎng",
+    "path": 9
+  },
+  "绒": {
+    "pinyin": "róng",
+    "path": 9
+  },
+  "结": {
+    "pinyin": "jié jiē",
+    "path": 9
+  },
+  "绕": {
+    "pinyin": "rào",
+    "path": 9
+  },
+  "绘": {
+    "pinyin": "huì",
+    "path": 9
+  },
+  "给": {
+    "pinyin": "gěi jǐ",
+    "path": 9
+  },
+  "络": {
+    "pinyin": "luò lào",
+    "path": 9
+  },
+  "绝": {
+    "pinyin": "jué",
+    "path": 9
+  },
+  "绞": {
+    "pinyin": "jiǎo",
+    "path": 9
+  },
+  "统": {
+    "pinyin": "tǒng",
+    "path": 9
+  },
+  "绢": {
+    "pinyin": "juàn",
+    "path": 10
+  },
+  "绣": {
+    "pinyin": "xiù",
+    "path": 10
+  },
+  "继": {
+    "pinyin": "jì",
+    "path": 10
+  },
+  "绩": {
+    "pinyin": "jì",
+    "path": 11
+  },
+  "绪": {
+    "pinyin": "xù",
+    "path": 11
+  },
+  "续": {
+    "pinyin": "xù",
+    "path": 11
+  },
+  "绮": {
+    "pinyin": "qǐ",
+    "path": 11
+  },
+  "绰": {
+    "pinyin": "chuò chāo",
+    "path": 11
+  },
+  "绳": {
+    "pinyin": "shéng",
+    "path": 11
+  },
+  "维": {
+    "pinyin": "wéi",
+    "path": 11
+  },
+  "绵": {
+    "pinyin": "mián",
+    "path": 11
+  },
+  "绷": {
+    "pinyin": "bēng běng bèng",
+    "path": 11
+  },
+  "绸": {
+    "pinyin": "chóu",
+    "path": 11
+  },
+  "综": {
+    "pinyin": "zōng zèng",
+    "path": 11
+  },
+  "绽": {
+    "pinyin": "zhàn",
+    "path": 11
+  },
+  "绿": {
+    "pinyin": "lǜ lù",
+    "path": 11
+  },
+  "缀": {
+    "pinyin": "zhuì",
+    "path": 11
+  },
+  "缅": {
+    "pinyin": "miǎn",
+    "path": 12
+  },
+  "缆": {
+    "pinyin": "lǎn",
+    "path": 12
+  },
+  "缎": {
+    "pinyin": "duàn",
+    "path": 12
+  },
+  "缓": {
+    "pinyin": "huǎn",
+    "path": 12
+  },
+  "缔": {
+    "pinyin": "dì",
+    "path": 12
+  },
+  "缕": {
+    "pinyin": "lǚ",
+    "path": 12
+  },
+  "编": {
+    "pinyin": "biān",
+    "path": 12
+  },
+  "缘": {
+    "pinyin": "yuán",
+    "path": 12
+  },
+  "缚": {
+    "pinyin": "fù",
+    "path": 13
+  },
+  "缝": {
+    "pinyin": "fèng féng",
+    "path": 13
+  },
+  "缠": {
+    "pinyin": "chán",
+    "path": 13
+  },
+  "缤": {
+    "pinyin": "bīn",
+    "path": 13
+  },
+  "缨": {
+    "pinyin": "yīng",
+    "path": 14
+  },
+  "缩": {
+    "pinyin": "suō sù",
+    "path": 14
+  },
+  "缭": {
+    "pinyin": "liáo",
+    "path": 15
+  },
+  "缰": {
+    "pinyin": "jiāng",
+    "path": 16
+  },
+  "缴": {
+    "pinyin": "jiǎo zhuó",
+    "path": 16
+  },
+  "缸": {
+    "pinyin": "gāng",
+    "path": 9
+  },
+  "缺": {
+    "pinyin": "quē",
+    "path": 10
+  },
+  "罐": {
+    "pinyin": "guàn",
+    "path": 23
+  },
+  "网": {
+    "pinyin": "wǎng",
+    "path": 6
+  },
+  "罕": {
+    "pinyin": "hǎn",
+    "path": 7
+  },
+  "罗": {
+    "pinyin": "luó",
+    "path": 8
+  },
+  "罚": {
+    "pinyin": "fá",
+    "path": 9
+  },
+  "罢": {
+    "pinyin": "bà pí ba",
+    "path": 10
+  },
+  "罩": {
+    "pinyin": "zhào",
+    "path": 13
+  },
+  "罪": {
+    "pinyin": "zuì",
+    "path": 13
+  },
+  "置": {
+    "pinyin": "zhì",
+    "path": 13
+  },
+  "署": {
+    "pinyin": "shǔ",
+    "path": 13
+  },
+  "羊": {
+    "pinyin": "yáng xiáng",
+    "path": 6
+  },
+  "美": {
+    "pinyin": "měi",
+    "path": 9
+  },
+  "羔": {
+    "pinyin": "gāo",
+    "path": 10
+  },
+  "羞": {
+    "pinyin": "xiū",
+    "path": 10
+  },
+  "羡": {
+    "pinyin": "xiàn",
+    "path": 12
+  },
+  "群": {
+    "pinyin": "qún",
+    "path": 13
+  },
+  "羹": {
+    "pinyin": "gēng",
+    "path": 19
+  },
+  "羽": {
+    "pinyin": "yǔ",
+    "path": 6
+  },
+  "翁": {
+    "pinyin": "wēng",
+    "path": 10
+  },
+  "翅": {
+    "pinyin": "chì",
+    "path": 10
+  },
+  "翎": {
+    "pinyin": "líng",
+    "path": 11
+  },
+  "翔": {
+    "pinyin": "xiáng",
+    "path": 12
+  },
+  "翘": {
+    "pinyin": "qiào qiáo",
+    "path": 12
+  },
+  "翠": {
+    "pinyin": "cuì",
+    "path": 14
+  },
+  "翩": {
+    "pinyin": "piān",
+    "path": 15
+  },
+  "翰": {
+    "pinyin": "hàn",
+    "path": 16
+  },
+  "翻": {
+    "pinyin": "fān",
+    "path": 18
+  },
+  "翼": {
+    "pinyin": "yì",
+    "path": 17
+  },
+  "耀": {
+    "pinyin": "yào",
+    "path": 20
+  },
+  "老": {
+    "pinyin": "lǎo",
+    "path": 6
+  },
+  "考": {
+    "pinyin": "kǎo",
+    "path": 6
+  },
+  "者": {
+    "pinyin": "zhě",
+    "path": 8
+  },
+  "而": {
+    "pinyin": "ér",
+    "path": 6
+  },
+  "耍": {
+    "pinyin": "shuǎ",
+    "path": 9
+  },
+  "耐": {
+    "pinyin": "nài",
+    "path": 9
+  },
+  "耕": {
+    "pinyin": "gēng",
+    "path": 10
+  },
+  "耗": {
+    "pinyin": "hào",
+    "path": 10
+  },
+  "耙": {
+    "pinyin": "pá bà",
+    "path": 10
+  },
+  "耳": {
+    "pinyin": "ěr",
+    "path": 6
+  },
+  "耸": {
+    "pinyin": "sǒng",
+    "path": 10
+  },
+  "耻": {
+    "pinyin": "chǐ",
+    "path": 10
+  },
+  "耽": {
+    "pinyin": "dān",
+    "path": 10
+  },
+  "耿": {
+    "pinyin": "gěng",
+    "path": 10
+  },
+  "聂": {
+    "pinyin": "niè",
+    "path": 10
+  },
+  "聊": {
+    "pinyin": "liáo",
+    "path": 11
+  },
+  "聋": {
+    "pinyin": "lóng",
+    "path": 11
+  },
+  "职": {
+    "pinyin": "zhí",
+    "path": 11
+  },
+  "联": {
+    "pinyin": "lián",
+    "path": 12
+  },
+  "聘": {
+    "pinyin": "pìn",
+    "path": 13
+  },
+  "聚": {
+    "pinyin": "jù",
+    "path": 14
+  },
+  "聪": {
+    "pinyin": "cōng",
+    "path": 15
+  },
+  "肃": {
+    "pinyin": "sù",
+    "path": 8
+  },
+  "肄": {
+    "pinyin": "yì",
+    "path": 13
+  },
+  "肆": {
+    "pinyin": "sì",
+    "path": 13
+  },
+  "肉": {
+    "pinyin": "ròu",
+    "path": 6
+  },
+  "肋": {
+    "pinyin": "lèi lē",
+    "path": 6
+  },
+  "肌": {
+    "pinyin": "jī",
+    "path": 6
+  },
+  "肖": {
+    "pinyin": "xiào xiāo",
+    "path": 7
+  },
+  "肘": {
+    "pinyin": "zhǒu",
+    "path": 7
+  },
+  "肚": {
+    "pinyin": "dù dǔ",
+    "path": 7
+  },
+  "肛": {
+    "pinyin": "gāng",
+    "path": 7
+  },
+  "肝": {
+    "pinyin": "gān",
+    "path": 7
+  },
+  "肠": {
+    "pinyin": "cháng",
+    "path": 7
+  },
+  "股": {
+    "pinyin": "gǔ",
+    "path": 8
+  },
+  "肢": {
+    "pinyin": "zhī",
+    "path": 8
+  },
+  "肤": {
+    "pinyin": "fū",
+    "path": 8
+  },
+  "肥": {
+    "pinyin": "féi",
+    "path": 8
+  },
+  "肩": {
+    "pinyin": "jiān",
+    "path": 8
+  },
+  "肪": {
+    "pinyin": "fáng",
+    "path": 8
+  },
+  "肮": {
+    "pinyin": "āng",
+    "path": 8
+  },
+  "肯": {
+    "pinyin": "kěn",
+    "path": 8
+  },
+  "育": {
+    "pinyin": "yù yō",
+    "path": 8
+  },
+  "肴": {
+    "pinyin": "yáo",
+    "path": 8
+  },
+  "肺": {
+    "pinyin": "fèi",
+    "path": 8
+  },
+  "肾": {
+    "pinyin": "shèn",
+    "path": 8
+  },
+  "肿": {
+    "pinyin": "zhǒng",
+    "path": 8
+  },
+  "胀": {
+    "pinyin": "zhàng",
+    "path": 8
+  },
+  "胁": {
+    "pinyin": "xié",
+    "path": 8
+  },
+  "胃": {
+    "pinyin": "wèi",
+    "path": 9
+  },
+  "胆": {
+    "pinyin": "dǎn",
+    "path": 9
+  },
+  "背": {
+    "pinyin": "bèi bēi",
+    "path": 9
+  },
+  "胎": {
+    "pinyin": "tāi",
+    "path": 9
+  },
+  "胖": {
+    "pinyin": "pàng pán pàn",
+    "path": 9
+  },
+  "胚": {
+    "pinyin": "pēi",
+    "path": 9
+  },
+  "胜": {
+    "pinyin": "shèng shēng",
+    "path": 9
+  },
+  "胞": {
+    "pinyin": "bāo",
+    "path": 9
+  },
+  "胡": {
+    "pinyin": "hú",
+    "path": 9
+  },
+  "胧": {
+    "pinyin": "lóng",
+    "path": 9
+  },
+  "胯": {
+    "pinyin": "kuà",
+    "path": 10
+  },
+  "胰": {
+    "pinyin": "yí",
+    "path": 10
+  },
+  "胳": {
+    "pinyin": "gē gé gā",
+    "path": 10
+  },
+  "胶": {
+    "pinyin": "jiāo",
+    "path": 10
+  },
+  "胸": {
+    "pinyin": "xiōng",
+    "path": 10
+  },
+  "能": {
+    "pinyin": "néng nài",
+    "path": 10
+  },
+  "脂": {
+    "pinyin": "zhī",
+    "path": 10
+  },
+  "脆": {
+    "pinyin": "cuì",
+    "path": 10
+  },
+  "脉": {
+    "pinyin": "mài mò",
+    "path": 9
+  },
+  "脊": {
+    "pinyin": "jǐ",
+    "path": 10
+  },
+  "脏": {
+    "pinyin": "zāng zàng",
+    "path": 10
+  },
+  "脐": {
+    "pinyin": "qí",
+    "path": 10
+  },
+  "脑": {
+    "pinyin": "nǎo",
+    "path": 10
+  },
+  "脓": {
+    "pinyin": "nóng",
+    "path": 10
+  },
+  "脖": {
+    "pinyin": "bó",
+    "path": 11
+  },
+  "脚": {
+    "pinyin": "jiǎo jué",
+    "path": 11
+  },
+  "脯": {
+    "pinyin": "pú fǔ",
+    "path": 11
+  },
+  "脱": {
+    "pinyin": "tuō",
+    "path": 11
+  },
+  "脸": {
+    "pinyin": "liǎn",
+    "path": 11
+  },
+  "脾": {
+    "pinyin": "pí",
+    "path": 12
+  },
+  "腊": {
+    "pinyin": "là xī",
+    "path": 12
+  },
+  "腋": {
+    "pinyin": "yè",
+    "path": 12
+  },
+  "腌": {
+    "pinyin": "yān ā",
+    "path": 12
+  },
+  "腐": {
+    "pinyin": "fǔ",
+    "path": 14
+  },
+  "腔": {
+    "pinyin": "qiāng",
+    "path": 12
+  },
+  "腕": {
+    "pinyin": "wàn",
+    "path": 12
+  },
+  "腥": {
+    "pinyin": "xīng",
+    "path": 13
+  },
+  "腮": {
+    "pinyin": "sāi",
+    "path": 13
+  },
+  "腰": {
+    "pinyin": "yāo",
+    "path": 13
+  },
+  "腹": {
+    "pinyin": "fù",
+    "path": 13
+  },
+  "腺": {
+    "pinyin": "xiàn",
+    "path": 13
+  },
+  "腻": {
+    "pinyin": "nì",
+    "path": 13
+  },
+  "腾": {
+    "pinyin": "téng",
+    "path": 13
+  },
+  "腿": {
+    "pinyin": "tuǐ",
+    "path": 13
+  },
+  "膀": {
+    "pinyin": "bǎng páng pāng",
+    "path": 14
+  },
+  "膊": {
+    "pinyin": "bó",
+    "path": 14
+  },
+  "膏": {
+    "pinyin": "gāo gào",
+    "path": 14
+  },
+  "膘": {
+    "pinyin": "biāo",
+    "path": 15
+  },
+  "膛": {
+    "pinyin": "táng",
+    "path": 15
+  },
+  "膜": {
+    "pinyin": "mó",
+    "path": 14
+  },
+  "膝": {
+    "pinyin": "xī",
+    "path": 15
+  },
+  "膨": {
+    "pinyin": "péng",
+    "path": 16
+  },
+  "膳": {
+    "pinyin": "shàn",
+    "path": 16
+  },
+  "臀": {
+    "pinyin": "tún",
+    "path": 17
+  },
+  "臂": {
+    "pinyin": "bì bei",
+    "path": 17
+  },
+  "臊": {
+    "pinyin": "sào sāo",
+    "path": 17
+  },
+  "臣": {
+    "pinyin": "chén",
+    "path": 6
+  },
+  "自": {
+    "pinyin": "zì",
+    "path": 6
+  },
+  "臭": {
+    "pinyin": "chòu xiù",
+    "path": 10
+  },
+  "至": {
+    "pinyin": "zhì",
+    "path": 6
+  },
+  "致": {
+    "pinyin": "zhì",
+    "path": 10
+  },
+  "臼": {
+    "pinyin": "jiù",
+    "path": 6
+  },
+  "舀": {
+    "pinyin": "yǎo",
+    "path": 10
+  },
+  "舅": {
+    "pinyin": "jiù",
+    "path": 13
+  },
+  "舆": {
+    "pinyin": "yú",
+    "path": 14
+  },
+  "舌": {
+    "pinyin": "shé",
+    "path": 6
+  },
+  "舍": {
+    "pinyin": "shè shě",
+    "path": 8
+  },
+  "舒": {
+    "pinyin": "shū",
+    "path": 12
+  },
+  "舔": {
+    "pinyin": "tiǎn",
+    "path": 14
+  },
+  "舞": {
+    "pinyin": "wǔ",
+    "path": 14
+  },
+  "舟": {
+    "pinyin": "zhōu",
+    "path": 6
+  },
+  "航": {
+    "pinyin": "háng",
+    "path": 10
+  },
+  "般": {
+    "pinyin": "bān bō pán",
+    "path": 10
+  },
+  "舰": {
+    "pinyin": "jiàn",
+    "path": 10
+  },
+  "舱": {
+    "pinyin": "cāng",
+    "path": 10
+  },
+  "舵": {
+    "pinyin": "duò",
+    "path": 11
+  },
+  "舶": {
+    "pinyin": "bó",
+    "path": 11
+  },
+  "舷": {
+    "pinyin": "xián",
+    "path": 11
+  },
+  "船": {
+    "pinyin": "chuán",
+    "path": 11
+  },
+  "艇": {
+    "pinyin": "tǐng",
+    "path": 12
+  },
+  "艘": {
+    "pinyin": "sōu",
+    "path": 15
+  },
+  "良": {
+    "pinyin": "liáng",
+    "path": 7
+  },
+  "艰": {
+    "pinyin": "jiān",
+    "path": 8
+  },
+  "色": {
+    "pinyin": "sè shǎi",
+    "path": 6
+  },
+  "艳": {
+    "pinyin": "yàn",
+    "path": 10
+  },
+  "艺": {
+    "pinyin": "yì",
+    "path": 4
+  },
+  "艾": {
+    "pinyin": "ài yì",
+    "path": 5
+  },
+  "节": {
+    "pinyin": "jié jiē",
+    "path": 5
+  },
+  "芋": {
+    "pinyin": "yù",
+    "path": 6
+  },
+  "芍": {
+    "pinyin": "sháo què",
+    "path": 6
+  },
+  "芒": {
+    "pinyin": "máng",
+    "path": 6
+  },
+  "芙": {
+    "pinyin": "fú",
+    "path": 7
+  },
+  "芜": {
+    "pinyin": "wú",
+    "path": 7
+  },
+  "芝": {
+    "pinyin": "zhī",
+    "path": 6
+  },
+  "芥": {
+    "pinyin": "jiè gài",
+    "path": 7
+  },
+  "芦": {
+    "pinyin": "lú",
+    "path": 7
+  },
+  "芬": {
+    "pinyin": "fēn",
+    "path": 7
+  },
+  "芭": {
+    "pinyin": "bā",
+    "path": 7
+  },
+  "芯": {
+    "pinyin": "xīn xìn",
+    "path": 7
+  },
+  "花": {
+    "pinyin": "huā",
+    "path": 7
+  },
+  "芳": {
+    "pinyin": "fāng",
+    "path": 7
+  },
+  "芹": {
+    "pinyin": "qín",
+    "path": 7
+  },
+  "芽": {
+    "pinyin": "yá",
+    "path": 7
+  },
+  "苇": {
+    "pinyin": "wěi",
+    "path": 7
+  },
+  "苍": {
+    "pinyin": "cāng",
+    "path": 7
+  },
+  "苏": {
+    "pinyin": "sū sù",
+    "path": 7
+  },
+  "苔": {
+    "pinyin": "tái tāi",
+    "path": 8
+  },
+  "苗": {
+    "pinyin": "miáo",
+    "path": 8
+  },
+  "苛": {
+    "pinyin": "kē hē",
+    "path": 8
+  },
+  "苞": {
+    "pinyin": "bāo",
+    "path": 8
+  },
+  "苟": {
+    "pinyin": "gǒu",
+    "path": 8
+  },
+  "若": {
+    "pinyin": "ruò rě",
+    "path": 8
+  },
+  "苦": {
+    "pinyin": "kǔ",
+    "path": 8
+  },
+  "苫": {
+    "pinyin": "shān shàn",
+    "path": 8
+  },
+  "英": {
+    "pinyin": "yīng",
+    "path": 8
+  },
+  "苹": {
+    "pinyin": "píng pēng",
+    "path": 8
+  },
+  "茁": {
+    "pinyin": "zhuó",
+    "path": 8
+  },
+  "茂": {
+    "pinyin": "mào",
+    "path": 8
+  },
+  "范": {
+    "pinyin": "fàn",
+    "path": 8
+  },
+  "茄": {
+    "pinyin": "qié jiā",
+    "path": 8
+  },
+  "茅": {
+    "pinyin": "máo",
+    "path": 8
+  },
+  "茉": {
+    "pinyin": "mò",
+    "path": 8
+  },
+  "茎": {
+    "pinyin": "jīng",
+    "path": 8
+  },
+  "茧": {
+    "pinyin": "jiǎn",
+    "path": 9
+  },
+  "茫": {
+    "pinyin": "máng",
+    "path": 9
+  },
+  "茬": {
+    "pinyin": "chá",
+    "path": 9
+  },
+  "茴": {
+    "pinyin": "huí",
+    "path": 9
+  },
+  "茵": {
+    "pinyin": "yīn",
+    "path": 9
+  },
+  "茶": {
+    "pinyin": "chá",
+    "path": 9
+  },
+  "茸": {
+    "pinyin": "róng",
+    "path": 9
+  },
+  "荆": {
+    "pinyin": "jīng",
+    "path": 9
+  },
+  "草": {
+    "pinyin": "cǎo",
+    "path": 9
+  },
+  "荐": {
+    "pinyin": "jiàn",
+    "path": 9
+  },
+  "荒": {
+    "pinyin": "huāng",
+    "path": 9
+  },
+  "荔": {
+    "pinyin": "lì",
+    "path": 9
+  },
+  "荚": {
+    "pinyin": "jiá",
+    "path": 9
+  },
+  "荞": {
+    "pinyin": "qiáo",
+    "path": 9
+  },
+  "荠": {
+    "pinyin": "qí jì",
+    "path": 9
+  },
+  "荡": {
+    "pinyin": "dàng",
+    "path": 9
+  },
+  "荣": {
+    "pinyin": "róng",
+    "path": 9
+  },
+  "荤": {
+    "pinyin": "hūn",
+    "path": 9
+  },
+  "荧": {
+    "pinyin": "yíng",
+    "path": 9
+  },
+  "药": {
+    "pinyin": "yào",
+    "path": 9
+  },
+  "荷": {
+    "pinyin": "hé hè",
+    "path": 10
+  },
+  "荸": {
+    "pinyin": "bí",
+    "path": 10
+  },
+  "莉": {
+    "pinyin": "lì",
+    "path": 10
+  },
+  "莫": {
+    "pinyin": "mò mù",
+    "path": 10
+  },
+  "莱": {
+    "pinyin": "lái",
+    "path": 10
+  },
+  "莲": {
+    "pinyin": "lián",
+    "path": 10
+  },
+  "获": {
+    "pinyin": "huò",
+    "path": 10
+  },
+  "莹": {
+    "pinyin": "yíng",
+    "path": 10
+  },
+  "莺": {
+    "pinyin": "yīng",
+    "path": 10
+  },
+  "莽": {
+    "pinyin": "mǎng",
+    "path": 10
+  },
+  "菇": {
+    "pinyin": "gū",
+    "path": 11
+  },
+  "菊": {
+    "pinyin": "jú",
+    "path": 11
+  },
+  "菌": {
+    "pinyin": "jūn jùn",
+    "path": 11
+  },
+  "菜": {
+    "pinyin": "cài",
+    "path": 11
+  },
+  "菠": {
+    "pinyin": "bō",
+    "path": 11
+  },
+  "菩": {
+    "pinyin": "pú",
+    "path": 11
+  },
+  "菱": {
+    "pinyin": "líng",
+    "path": 11
+  },
+  "菲": {
+    "pinyin": "fēi fěi",
+    "path": 11
+  },
+  "萄": {
+    "pinyin": "táo",
+    "path": 11
+  },
+  "萌": {
+    "pinyin": "méng",
+    "path": 11
+  },
+  "萍": {
+    "pinyin": "píng",
+    "path": 11
+  },
+  "萎": {
+    "pinyin": "wěi",
+    "path": 11
+  },
+  "萝": {
+    "pinyin": "luó",
+    "path": 11
+  },
+  "萤": {
+    "pinyin": "yíng",
+    "path": 11
+  },
+  "营": {
+    "pinyin": "yíng",
+    "path": 11
+  },
+  "萧": {
+    "pinyin": "xiāo",
+    "path": 11
+  },
+  "萨": {
+    "pinyin": "sà",
+    "path": 11
+  },
+  "落": {
+    "pinyin": "là lào luō luò",
+    "path": 12
+  },
+  "著": {
+    "pinyin": "zhù zhuó ·zhe",
+    "path": 11
+  },
+  "葛": {
+    "pinyin": "gě gé",
+    "path": 12
+  },
+  "葡": {
+    "pinyin": "pú",
+    "path": 12
+  },
+  "董": {
+    "pinyin": "dǒng",
+    "path": 12
+  },
+  "葫": {
+    "pinyin": "hú",
+    "path": 12
+  },
+  "葬": {
+    "pinyin": "zàng",
+    "path": 12
+  },
+  "葱": {
+    "pinyin": "cōng",
+    "path": 12
+  },
+  "葵": {
+    "pinyin": "kuí",
+    "path": 12
+  },
+  "蒂": {
+    "pinyin": "dì",
+    "path": 12
+  },
+  "蒋": {
+    "pinyin": "jiǎng",
+    "path": 12
+  },
+  "蒙": {
+    "pinyin": "méng mēng měng",
+    "path": 13
+  },
+  "蒜": {
+    "pinyin": "suàn",
+    "path": 13
+  },
+  "蒲": {
+    "pinyin": "pú",
+    "path": 13
+  },
+  "蒸": {
+    "pinyin": "zhēng",
+    "path": 13
+  },
+  "蒿": {
+    "pinyin": "hāo",
+    "path": 13
+  },
+  "蓄": {
+    "pinyin": "xù",
+    "path": 13
+  },
+  "蓉": {
+    "pinyin": "róng",
+    "path": 13
+  },
+  "蓖": {
+    "pinyin": "bì",
+    "path": 13
+  },
+  "蓝": {
+    "pinyin": "lán",
+    "path": 13
+  },
+  "蓬": {
+    "pinyin": "péng",
+    "path": 13
+  },
+  "蔑": {
+    "pinyin": "miè",
+    "path": 14
+  },
+  "蔓": {
+    "pinyin": "màn wàn mán",
+    "path": 14
+  },
+  "蔗": {
+    "pinyin": "zhè",
+    "path": 14
+  },
+  "蔚": {
+    "pinyin": "wèi yù",
+    "path": 14
+  },
+  "蔫": {
+    "pinyin": "niān",
+    "path": 14
+  },
+  "蔬": {
+    "pinyin": "shū",
+    "path": 15
+  },
+  "蔼": {
+    "pinyin": "ǎi",
+    "path": 14
+  },
+  "蔽": {
+    "pinyin": "bì",
+    "path": 14
+  },
+  "蕉": {
+    "pinyin": "jiāo",
+    "path": 15
+  },
+  "蕊": {
+    "pinyin": "ruǐ",
+    "path": 15
+  },
+  "蕴": {
+    "pinyin": "yùn",
+    "path": 15
+  },
+  "蕾": {
+    "pinyin": "lěi",
+    "path": 16
+  },
+  "薄": {
+    "pinyin": "báo bó bò",
+    "path": 16
+  },
+  "薇": {
+    "pinyin": "wēi",
+    "path": 16
+  },
+  "薛": {
+    "pinyin": "xuē",
+    "path": 16
+  },
+  "薪": {
+    "pinyin": "xīn",
+    "path": 16
+  },
+  "薯": {
+    "pinyin": "shǔ",
+    "path": 16
+  },
+  "藏": {
+    "pinyin": "cáng zàng",
+    "path": 17
+  },
+  "藐": {
+    "pinyin": "miǎo",
+    "path": 17
+  },
+  "藕": {
+    "pinyin": "ǒu",
+    "path": 18
+  },
+  "藤": {
+    "pinyin": "téng",
+    "path": 18
+  },
+  "藻": {
+    "pinyin": "zǎo",
+    "path": 19
+  },
+  "蘑": {
+    "pinyin": "mó",
+    "path": 19
+  },
+  "蘸": {
+    "pinyin": "zhàn",
+    "path": 22
+  },
+  "虎": {
+    "pinyin": "hǔ",
+    "path": 8
+  },
+  "虏": {
+    "pinyin": "lǔ",
+    "path": 8
+  },
+  "虐": {
+    "pinyin": "nüè",
+    "path": 9
+  },
+  "虑": {
+    "pinyin": "lǜ",
+    "path": 10
+  },
+  "虚": {
+    "pinyin": "xū",
+    "path": 11
+  },
+  "虫": {
+    "pinyin": "chóng",
+    "path": 6
+  },
+  "虱": {
+    "pinyin": "shī",
+    "path": 8
+  },
+  "虹": {
+    "pinyin": "hóng jiàng",
+    "path": 9
+  },
+  "虽": {
+    "pinyin": "suī",
+    "path": 9
+  },
+  "虾": {
+    "pinyin": "xiā há",
+    "path": 9
+  },
+  "蚀": {
+    "pinyin": "shí",
+    "path": 9
+  },
+  "蚁": {
+    "pinyin": "yǐ",
+    "path": 9
+  },
+  "蚂": {
+    "pinyin": "mǎ mà mā",
+    "path": 9
+  },
+  "蚊": {
+    "pinyin": "wén",
+    "path": 10
+  },
+  "蚌": {
+    "pinyin": "bàng bèng",
+    "path": 10
+  },
+  "蚓": {
+    "pinyin": "yǐn",
+    "path": 10
+  },
+  "蚕": {
+    "pinyin": "cán",
+    "path": 10
+  },
+  "蚜": {
+    "pinyin": "yá",
+    "path": 10
+  },
+  "蚣": {
+    "pinyin": "gōng zhōng",
+    "path": 10
+  },
+  "蚤": {
+    "pinyin": "zǎo",
+    "path": 9
+  },
+  "蚪": {
+    "pinyin": "dǒu",
+    "path": 10
+  },
+  "蚯": {
+    "pinyin": "qiū",
+    "path": 11
+  },
+  "蛀": {
+    "pinyin": "zhù",
+    "path": 11
+  },
+  "蛆": {
+    "pinyin": "qū",
+    "path": 11
+  },
+  "蛇": {
+    "pinyin": "shé yí",
+    "path": 11
+  },
+  "蛉": {
+    "pinyin": "líng",
+    "path": 11
+  },
+  "蛋": {
+    "pinyin": "dàn",
+    "path": 11
+  },
+  "蛔": {
+    "pinyin": "huí",
+    "path": 12
+  },
+  "蛙": {
+    "pinyin": "wā",
+    "path": 12
+  },
+  "蛛": {
+    "pinyin": "zhū",
+    "path": 12
+  },
+  "蛤": {
+    "pinyin": "gé há",
+    "path": 12
+  },
+  "蛮": {
+    "pinyin": "mán",
+    "path": 12
+  },
+  "蛹": {
+    "pinyin": "yǒng",
+    "path": 13
+  },
+  "蛾": {
+    "pinyin": "é yǐ",
+    "path": 13
+  },
+  "蜀": {
+    "pinyin": "shǔ",
+    "path": 13
+  },
+  "蜂": {
+    "pinyin": "fēng",
+    "path": 13
+  },
+  "蜈": {
+    "pinyin": "wú",
+    "path": 13
+  },
+  "蜒": {
+    "pinyin": "yán",
+    "path": 12
+  },
+  "蜓": {
+    "pinyin": "tíng",
+    "path": 12
+  },
+  "蜕": {
+    "pinyin": "tuì",
+    "path": 13
+  },
+  "蜗": {
+    "pinyin": "wō",
+    "path": 13
+  },
+  "蜘": {
+    "pinyin": "zhī",
+    "path": 14
+  },
+  "蜜": {
+    "pinyin": "mì",
+    "path": 14
+  },
+  "蜡": {
+    "pinyin": "là zhà",
+    "path": 14
+  },
+  "蜻": {
+    "pinyin": "qīng",
+    "path": 14
+  },
+  "蝇": {
+    "pinyin": "yíng",
+    "path": 14
+  },
+  "蝉": {
+    "pinyin": "chán",
+    "path": 14
+  },
+  "蝌": {
+    "pinyin": "kē",
+    "path": 15
+  },
+  "蝎": {
+    "pinyin": "xiē",
+    "path": 15
+  },
+  "蝗": {
+    "pinyin": "huáng",
+    "path": 15
+  },
+  "蝙": {
+    "pinyin": "biān",
+    "path": 15
+  },
+  "蝠": {
+    "pinyin": "fú",
+    "path": 15
+  },
+  "蝴": {
+    "pinyin": "hú",
+    "path": 15
+  },
+  "蝶": {
+    "pinyin": "dié",
+    "path": 15
+  },
+  "螃": {
+    "pinyin": "páng",
+    "path": 16
+  },
+  "融": {
+    "pinyin": "róng",
+    "path": 16
+  },
+  "螟": {
+    "pinyin": "míng",
+    "path": 16
+  },
+  "螺": {
+    "pinyin": "luó",
+    "path": 17
+  },
+  "蟀": {
+    "pinyin": "shuài",
+    "path": 17
+  },
+  "蟆": {
+    "pinyin": "má mò",
+    "path": 16
+  },
+  "蟋": {
+    "pinyin": "xī",
+    "path": 17
+  },
+  "蟹": {
+    "pinyin": "xiè",
+    "path": 19
+  },
+  "蠕": {
+    "pinyin": "rú",
+    "path": 20
+  },
+  "蠢": {
+    "pinyin": "chǔn",
+    "path": 21
+  },
+  "血": {
+    "pinyin": "xuè xiě",
+    "path": 6
+  },
+  "衅": {
+    "pinyin": "xìn",
+    "path": 11
+  },
+  "行": {
+    "pinyin": "háng hàng héng xíng",
+    "path": 6
+  },
+  "衍": {
+    "pinyin": "yǎn",
+    "path": 9
+  },
+  "衔": {
+    "pinyin": "xián",
+    "path": 11
+  },
+  "街": {
+    "pinyin": "jiē",
+    "path": 12
+  },
+  "衙": {
+    "pinyin": "yá",
+    "path": 13
+  },
+  "衡": {
+    "pinyin": "héng",
+    "path": 16
+  },
+  "衣": {
+    "pinyin": "yī yì",
+    "path": 6
+  },
+  "补": {
+    "pinyin": "bǔ",
+    "path": 7
+  },
+  "表": {
+    "pinyin": "biǎo",
+    "path": 8
+  },
+  "衩": {
+    "pinyin": "chà chǎ",
+    "path": 8
+  },
+  "衫": {
+    "pinyin": "shān",
+    "path": 8
+  },
+  "衬": {
+    "pinyin": "chèn",
+    "path": 8
+  },
+  "衰": {
+    "pinyin": "shuāi cuī",
+    "path": 10
+  },
+  "衷": {
+    "pinyin": "zhōng",
+    "path": 10
+  },
+  "袁": {
+    "pinyin": "yuán",
+    "path": 10
+  },
+  "袄": {
+    "pinyin": "ǎo",
+    "path": 9
+  },
+  "袋": {
+    "pinyin": "dài",
+    "path": 11
+  },
+  "袍": {
+    "pinyin": "páo",
+    "path": 10
+  },
+  "袒": {
+    "pinyin": "tǎn",
+    "path": 10
+  },
+  "袖": {
+    "pinyin": "xiù",
+    "path": 10
+  },
+  "袜": {
+    "pinyin": "wà",
+    "path": 10
+  },
+  "被": {
+    "pinyin": "bèi pī",
+    "path": 10
+  },
+  "袭": {
+    "pinyin": "xí",
+    "path": 11
+  },
+  "袱": {
+    "pinyin": "fú",
+    "path": 11
+  },
+  "裁": {
+    "pinyin": "cái",
+    "path": 12
+  },
+  "裂": {
+    "pinyin": "liè liě",
+    "path": 12
+  },
+  "装": {
+    "pinyin": "zhuāng",
+    "path": 12
+  },
+  "裆": {
+    "pinyin": "dāng",
+    "path": 11
+  },
+  "裉": {
+    "pinyin": "kèn",
+    "path": 11
+  },
+  "裕": {
+    "pinyin": "yù",
+    "path": 12
+  },
+  "裙": {
+    "pinyin": "qún",
+    "path": 12
+  },
+  "裤": {
+    "pinyin": "kù",
+    "path": 12
+  },
+  "裳": {
+    "pinyin": "cháng shang",
+    "path": 14
+  },
+  "裸": {
+    "pinyin": "luǒ",
+    "path": 13
+  },
+  "裹": {
+    "pinyin": "guǒ",
+    "path": 14
+  },
+  "褂": {
+    "pinyin": "guà",
+    "path": 13
+  },
+  "褐": {
+    "pinyin": "hè",
+    "path": 14
+  },
+  "褒": {
+    "pinyin": "bāo",
+    "path": 15
+  },
+  "褥": {
+    "pinyin": "rù",
+    "path": 15
+  },
+  "襟": {
+    "pinyin": "jīn",
+    "path": 18
+  },
+  "西": {
+    "pinyin": "xī",
+    "path": 6
+  },
+  "要": {
+    "pinyin": "yào yāo",
+    "path": 9
+  },
+  "覆": {
+    "pinyin": "fù",
+    "path": 18
+  },
+  "见": {
+    "pinyin": "jiàn xiàn",
+    "path": 4
+  },
+  "观": {
+    "pinyin": "guān guàn",
+    "path": 6
+  },
+  "规": {
+    "pinyin": "guī",
+    "path": 8
+  },
+  "觅": {
+    "pinyin": "mì",
+    "path": 8
+  },
+  "视": {
+    "pinyin": "shì",
+    "path": 8
+  },
+  "览": {
+    "pinyin": "lǎn",
+    "path": 9
+  },
+  "觉": {
+    "pinyin": "jué jiào",
+    "path": 9
+  },
+  "角": {
+    "pinyin": "jiǎo jué",
+    "path": 7
+  },
+  "解": {
+    "pinyin": "jiě jiè xiè",
+    "path": 13
+  },
+  "触": {
+    "pinyin": "chù",
+    "path": 13
+  },
+  "言": {
+    "pinyin": "yán",
+    "path": 7
+  },
+  "誉": {
+    "pinyin": "yù",
+    "path": 13
+  },
+  "誊": {
+    "pinyin": "téng",
+    "path": 13
+  },
+  "誓": {
+    "pinyin": "shì",
+    "path": 14
+  },
+  "警": {
+    "pinyin": "jǐng",
+    "path": 19
+  },
+  "譬": {
+    "pinyin": "pì",
+    "path": 20
+  },
+  "计": {
+    "pinyin": "jì",
+    "path": 4
+  },
+  "订": {
+    "pinyin": "dìng",
+    "path": 4
+  },
+  "认": {
+    "pinyin": "rèn",
+    "path": 4
+  },
+  "讥": {
+    "pinyin": "jī",
+    "path": 4
+  },
+  "讨": {
+    "pinyin": "tǎo",
+    "path": 5
+  },
+  "让": {
+    "pinyin": "ràng",
+    "path": 5
+  },
+  "训": {
+    "pinyin": "xùn",
+    "path": 5
+  },
+  "议": {
+    "pinyin": "yì",
+    "path": 5
+  },
+  "讯": {
+    "pinyin": "xùn",
+    "path": 5
+  },
+  "记": {
+    "pinyin": "jì",
+    "path": 5
+  },
+  "讲": {
+    "pinyin": "jiǎng",
+    "path": 6
+  },
+  "讳": {
+    "pinyin": "huì",
+    "path": 6
+  },
+  "讶": {
+    "pinyin": "yà",
+    "path": 6
+  },
+  "许": {
+    "pinyin": "xǔ hǔ",
+    "path": 6
+  },
+  "讹": {
+    "pinyin": "é",
+    "path": 6
+  },
+  "论": {
+    "pinyin": "lùn lún",
+    "path": 6
+  },
+  "讼": {
+    "pinyin": "sòng",
+    "path": 6
+  },
+  "讽": {
+    "pinyin": "fěng",
+    "path": 6
+  },
+  "设": {
+    "pinyin": "shè",
+    "path": 6
+  },
+  "访": {
+    "pinyin": "fǎng",
+    "path": 6
+  },
+  "诀": {
+    "pinyin": "jué",
+    "path": 6
+  },
+  "证": {
+    "pinyin": "zhèng",
+    "path": 7
+  },
+  "评": {
+    "pinyin": "píng",
+    "path": 7
+  },
+  "诅": {
+    "pinyin": "zǔ",
+    "path": 7
+  },
+  "识": {
+    "pinyin": "shí zhì",
+    "path": 7
+  },
+  "诈": {
+    "pinyin": "zhà",
+    "path": 7
+  },
+  "诉": {
+    "pinyin": "sù",
+    "path": 7
+  },
+  "诊": {
+    "pinyin": "zhěn",
+    "path": 7
+  },
+  "词": {
+    "pinyin": "cí",
+    "path": 7
+  },
+  "译": {
+    "pinyin": "yì",
+    "path": 7
+  },
+  "试": {
+    "pinyin": "shì",
+    "path": 8
+  },
+  "诗": {
+    "pinyin": "shī",
+    "path": 8
+  },
+  "诚": {
+    "pinyin": "chéng",
+    "path": 8
+  },
+  "话": {
+    "pinyin": "huà",
+    "path": 8
+  },
+  "诞": {
+    "pinyin": "dàn",
+    "path": 8
+  },
+  "诡": {
+    "pinyin": "guǐ",
+    "path": 8
+  },
+  "询": {
+    "pinyin": "xún",
+    "path": 8
+  },
+  "该": {
+    "pinyin": "gāi",
+    "path": 8
+  },
+  "详": {
+    "pinyin": "xiáng yáng",
+    "path": 8
+  },
+  "诫": {
+    "pinyin": "jiè",
+    "path": 9
+  },
+  "诬": {
+    "pinyin": "wū",
+    "path": 9
+  },
+  "语": {
+    "pinyin": "yǔ yù",
+    "path": 9
+  },
+  "误": {
+    "pinyin": "wù",
+    "path": 9
+  },
+  "诱": {
+    "pinyin": "yòu",
+    "path": 9
+  },
+  "诲": {
+    "pinyin": "huì",
+    "path": 9
+  },
+  "说": {
+    "pinyin": "shuō yuè shuì",
+    "path": 9
+  },
+  "诵": {
+    "pinyin": "sòng",
+    "path": 9
+  },
+  "请": {
+    "pinyin": "qǐng",
+    "path": 10
+  },
+  "诸": {
+    "pinyin": "zhū",
+    "path": 10
+  },
+  "诺": {
+    "pinyin": "nuò",
+    "path": 10
+  },
+  "读": {
+    "pinyin": "dú dòu",
+    "path": 10
+  },
+  "诽": {
+    "pinyin": "fěi",
+    "path": 10
+  },
+  "课": {
+    "pinyin": "kè",
+    "path": 10
+  },
+  "谁": {
+    "pinyin": "shuí shéi",
+    "path": 10
+  },
+  "调": {
+    "pinyin": "diào tiáo zhōu",
+    "path": 10
+  },
+  "谅": {
+    "pinyin": "liàng",
+    "path": 10
+  },
+  "谆": {
+    "pinyin": "zhūn",
+    "path": 10
+  },
+  "谈": {
+    "pinyin": "tán",
+    "path": 10
+  },
+  "谊": {
+    "pinyin": "yì",
+    "path": 10
+  },
+  "谋": {
+    "pinyin": "móu",
+    "path": 11
+  },
+  "谍": {
+    "pinyin": "dié",
+    "path": 11
+  },
+  "谎": {
+    "pinyin": "huǎng",
+    "path": 11
+  },
+  "谐": {
+    "pinyin": "xié",
+    "path": 11
+  },
+  "谒": {
+    "pinyin": "yè",
+    "path": 11
+  },
+  "谓": {
+    "pinyin": "wèi",
+    "path": 11
+  },
+  "谚": {
+    "pinyin": "yàn",
+    "path": 11
+  },
+  "谜": {
+    "pinyin": "mí mèi",
+    "path": 11
+  },
+  "谢": {
+    "pinyin": "xiè",
+    "path": 12
+  },
+  "谣": {
+    "pinyin": "yáo",
+    "path": 12
+  },
+  "谤": {
+    "pinyin": "bàng",
+    "path": 12
+  },
+  "谦": {
+    "pinyin": "qiān",
+    "path": 12
+  },
+  "谨": {
+    "pinyin": "jǐn",
+    "path": 13
+  },
+  "谬": {
+    "pinyin": "miù",
+    "path": 13
+  },
+  "谭": {
+    "pinyin": "tán",
+    "path": 14
+  },
+  "谱": {
+    "pinyin": "pǔ",
+    "path": 14
+  },
+  "谴": {
+    "pinyin": "qiǎn",
+    "path": 15
+  },
+  "谷": {
+    "pinyin": "gǔ yù",
+    "path": 7
+  },
+  "豁": {
+    "pinyin": "huō huò huá",
+    "path": 17
+  },
+  "豆": {
+    "pinyin": "dòu",
+    "path": 7
+  },
+  "豌": {
+    "pinyin": "wān",
+    "path": 15
+  },
+  "象": {
+    "pinyin": "xiàng",
+    "path": 11
+  },
+  "豪": {
+    "pinyin": "háo",
+    "path": 14
+  },
+  "豫": {
+    "pinyin": "yù",
+    "path": 15
+  },
+  "豹": {
+    "pinyin": "bào",
+    "path": 10
+  },
+  "豺": {
+    "pinyin": "chái",
+    "path": 10
+  },
+  "貌": {
+    "pinyin": "mào",
+    "path": 14
+  },
+  "贝": {
+    "pinyin": "bèi",
+    "path": 4
+  },
+  "贞": {
+    "pinyin": "zhēn",
+    "path": 6
+  },
+  "负": {
+    "pinyin": "fù",
+    "path": 6
+  },
+  "贡": {
+    "pinyin": "gòng",
+    "path": 7
+  },
+  "财": {
+    "pinyin": "cái",
+    "path": 7
+  },
+  "责": {
+    "pinyin": "zé zhài",
+    "path": 8
+  },
+  "贤": {
+    "pinyin": "xián",
+    "path": 8
+  },
+  "败": {
+    "pinyin": "bài",
+    "path": 8
+  },
+  "账": {
+    "pinyin": "zhàng",
+    "path": 8
+  },
+  "货": {
+    "pinyin": "huò",
+    "path": 8
+  },
+  "质": {
+    "pinyin": "zhì",
+    "path": 8
+  },
+  "贩": {
+    "pinyin": "fàn",
+    "path": 8
+  },
+  "贪": {
+    "pinyin": "tān",
+    "path": 8
+  },
+  "贫": {
+    "pinyin": "pín",
+    "path": 8
+  },
+  "贬": {
+    "pinyin": "biǎn",
+    "path": 8
+  },
+  "购": {
+    "pinyin": "gòu",
+    "path": 8
+  },
+  "贮": {
+    "pinyin": "zhù",
+    "path": 8
+  },
+  "贯": {
+    "pinyin": "guàn",
+    "path": 8
+  },
+  "贰": {
+    "pinyin": "èr",
+    "path": 9
+  },
+  "贱": {
+    "pinyin": "jiàn",
+    "path": 9
+  },
+  "贴": {
+    "pinyin": "tiē",
+    "path": 9
+  },
+  "贵": {
+    "pinyin": "guì",
+    "path": 9
+  },
+  "贸": {
+    "pinyin": "mào",
+    "path": 9
+  },
+  "费": {
+    "pinyin": "fèi",
+    "path": 9
+  },
+  "贺": {
+    "pinyin": "hè",
+    "path": 9
+  },
+  "贼": {
+    "pinyin": "zéi",
+    "path": 10
+  },
+  "贾": {
+    "pinyin": "jiǎ gǔ",
+    "path": 10
+  },
+  "贿": {
+    "pinyin": "huì",
+    "path": 10
+  },
+  "赁": {
+    "pinyin": "lìn",
+    "path": 10
+  },
+  "赂": {
+    "pinyin": "lù",
+    "path": 10
+  },
+  "赃": {
+    "pinyin": "zāng",
+    "path": 10
+  },
+  "资": {
+    "pinyin": "zī",
+    "path": 10
+  },
+  "赊": {
+    "pinyin": "shē",
+    "path": 11
+  },
+  "赋": {
+    "pinyin": "fù",
+    "path": 12
+  },
+  "赌": {
+    "pinyin": "dǔ",
+    "path": 12
+  },
+  "赎": {
+    "pinyin": "shú",
+    "path": 12
+  },
+  "赏": {
+    "pinyin": "shǎng",
+    "path": 12
+  },
+  "赐": {
+    "pinyin": "cì",
+    "path": 12
+  },
+  "赔": {
+    "pinyin": "péi",
+    "path": 12
+  },
+  "赖": {
+    "pinyin": "lài",
+    "path": 13
+  },
+  "赘": {
+    "pinyin": "zhuì",
+    "path": 14
+  },
+  "赚": {
+    "pinyin": "zhuàn zuàn",
+    "path": 14
+  },
+  "赛": {
+    "pinyin": "sài",
+    "path": 14
+  },
+  "赞": {
+    "pinyin": "zàn",
+    "path": 16
+  },
+  "赠": {
+    "pinyin": "zèng",
+    "path": 16
+  },
+  "赡": {
+    "pinyin": "shàn",
+    "path": 17
+  },
+  "赢": {
+    "pinyin": "yíng",
+    "path": 17
+  },
+  "赤": {
+    "pinyin": "chì",
+    "path": 7
+  },
+  "赦": {
+    "pinyin": "shè",
+    "path": 11
+  },
+  "赫": {
+    "pinyin": "hè",
+    "path": 14
+  },
+  "走": {
+    "pinyin": "zǒu",
+    "path": 7
+  },
+  "赴": {
+    "pinyin": "fù",
+    "path": 9
+  },
+  "赵": {
+    "pinyin": "zhào",
+    "path": 9
+  },
+  "赶": {
+    "pinyin": "gǎn",
+    "path": 10
+  },
+  "起": {
+    "pinyin": "qǐ",
+    "path": 10
+  },
+  "趁": {
+    "pinyin": "chèn",
+    "path": 12
+  },
+  "超": {
+    "pinyin": "chāo",
+    "path": 12
+  },
+  "越": {
+    "pinyin": "yuè",
+    "path": 12
+  },
+  "趋": {
+    "pinyin": "qū cù",
+    "path": 12
+  },
+  "趟": {
+    "pinyin": "tàng tāng",
+    "path": 15
+  },
+  "趣": {
+    "pinyin": "qù cù",
+    "path": 15
+  },
+  "足": {
+    "pinyin": "zú",
+    "path": 7
+  },
+  "趴": {
+    "pinyin": "pā",
+    "path": 9
+  },
+  "趾": {
+    "pinyin": "zhǐ",
+    "path": 11
+  },
+  "跃": {
+    "pinyin": "yuè",
+    "path": 11
+  },
+  "跋": {
+    "pinyin": "bá",
+    "path": 12
+  },
+  "跌": {
+    "pinyin": "diē",
+    "path": 12
+  },
+  "跑": {
+    "pinyin": "pǎo páo",
+    "path": 12
+  },
+  "跛": {
+    "pinyin": "bǒ",
+    "path": 12
+  },
+  "距": {
+    "pinyin": "jù",
+    "path": 11
+  },
+  "跟": {
+    "pinyin": "gēn",
+    "path": 13
+  },
+  "跨": {
+    "pinyin": "kuà",
+    "path": 13
+  },
+  "跪": {
+    "pinyin": "guì",
+    "path": 13
+  },
+  "路": {
+    "pinyin": "lù",
+    "path": 13
+  },
+  "跳": {
+    "pinyin": "tiào táo",
+    "path": 13
+  },
+  "践": {
+    "pinyin": "jiàn",
+    "path": 12
+  },
+  "跷": {
+    "pinyin": "qiāo",
+    "path": 13
+  },
+  "跺": {
+    "pinyin": "duò",
+    "path": 13
+  },
+  "踊": {
+    "pinyin": "yǒng",
+    "path": 14
+  },
+  "踏": {
+    "pinyin": "tà tā",
+    "path": 15
+  },
+  "踢": {
+    "pinyin": "tī",
+    "path": 15
+  },
+  "踩": {
+    "pinyin": "cǎi",
+    "path": 15
+  },
+  "踪": {
+    "pinyin": "zōng",
+    "path": 15
+  },
+  "踱": {
+    "pinyin": "duó",
+    "path": 16
+  },
+  "蹂": {
+    "pinyin": "róu",
+    "path": 16
+  },
+  "蹄": {
+    "pinyin": "tí",
+    "path": 16
+  },
+  "蹈": {
+    "pinyin": "dǎo",
+    "path": 17
+  },
+  "蹋": {
+    "pinyin": "tà",
+    "path": 17
+  },
+  "蹦": {
+    "pinyin": "bèng",
+    "path": 18
+  },
+  "蹬": {
+    "pinyin": "dēng dèng",
+    "path": 19
+  },
+  "蹭": {
+    "pinyin": "cèng",
+    "path": 19
+  },
+  "蹲": {
+    "pinyin": "dūn cún",
+    "path": 19
+  },
+  "躁": {
+    "pinyin": "zào",
+    "path": 20
+  },
+  "躏": {
+    "pinyin": "lìn",
+    "path": 21
+  },
+  "身": {
+    "pinyin": "shēn",
+    "path": 7
+  },
+  "躬": {
+    "pinyin": "gōng",
+    "path": 10
+  },
+  "躯": {
+    "pinyin": "qū",
+    "path": 11
+  },
+  "躲": {
+    "pinyin": "duǒ",
+    "path": 13
+  },
+  "躺": {
+    "pinyin": "tǎng",
+    "path": 15
+  },
+  "车": {
+    "pinyin": "chē jū",
+    "path": 4
+  },
+  "轧": {
+    "pinyin": "zhá yà gá",
+    "path": 5
+  },
+  "轨": {
+    "pinyin": "guǐ",
+    "path": 6
+  },
+  "轩": {
+    "pinyin": "xuān",
+    "path": 7
+  },
+  "转": {
+    "pinyin": "zhuǎn zhuàn zhuǎi",
+    "path": 8
+  },
+  "轮": {
+    "pinyin": "lún",
+    "path": 8
+  },
+  "软": {
+    "pinyin": "ruǎn",
+    "path": 8
+  },
+  "轰": {
+    "pinyin": "hōng",
+    "path": 8
+  },
+  "轴": {
+    "pinyin": "zhóu zhòu",
+    "path": 9
+  },
+  "轻": {
+    "pinyin": "qīng",
+    "path": 9
+  },
+  "载": {
+    "pinyin": "zǎi zài",
+    "path": 10
+  },
+  "轿": {
+    "pinyin": "jiào",
+    "path": 10
+  },
+  "较": {
+    "pinyin": "jiào",
+    "path": 10
+  },
+  "辅": {
+    "pinyin": "fǔ",
+    "path": 11
+  },
+  "辆": {
+    "pinyin": "liàng",
+    "path": 11
+  },
+  "辈": {
+    "pinyin": "bèi",
+    "path": 12
+  },
+  "辉": {
+    "pinyin": "huī",
+    "path": 12
+  },
+  "辐": {
+    "pinyin": "fú",
+    "path": 13
+  },
+  "辑": {
+    "pinyin": "jí",
+    "path": 13
+  },
+  "输": {
+    "pinyin": "shū",
+    "path": 13
+  },
+  "辕": {
+    "pinyin": "yuán",
+    "path": 14
+  },
+  "辖": {
+    "pinyin": "xiá",
+    "path": 14
+  },
+  "辙": {
+    "pinyin": "zhé",
+    "path": 16
+  },
+  "辛": {
+    "pinyin": "xīn",
+    "path": 7
+  },
+  "辜": {
+    "pinyin": "gū",
+    "path": 12
+  },
+  "辞": {
+    "pinyin": "cí",
+    "path": 13
+  },
+  "辟": {
+    "pinyin": "bì pī pì",
+    "path": 13
+  },
+  "辣": {
+    "pinyin": "là",
+    "path": 14
+  },
+  "辨": {
+    "pinyin": "biàn",
+    "path": 16
+  },
+  "辩": {
+    "pinyin": "biàn",
+    "path": 16
+  },
+  "辫": {
+    "pinyin": "biàn",
+    "path": 17
+  },
+  "辰": {
+    "pinyin": "chén",
+    "path": 7
+  },
+  "辱": {
+    "pinyin": "rǔ",
+    "path": 10
+  },
+  "边": {
+    "pinyin": "biān bian",
+    "path": 5
+  },
+  "辽": {
+    "pinyin": "liáo",
+    "path": 5
+  },
+  "达": {
+    "pinyin": "dá",
+    "path": 6
+  },
+  "迁": {
+    "pinyin": "qiān",
+    "path": 6
+  },
+  "迂": {
+    "pinyin": "yū",
+    "path": 6
+  },
+  "迄": {
+    "pinyin": "qì",
+    "path": 6
+  },
+  "迅": {
+    "pinyin": "xùn",
+    "path": 6
+  },
+  "过": {
+    "pinyin": "guò guo guō",
+    "path": 6
+  },
+  "迈": {
+    "pinyin": "mài",
+    "path": 6
+  },
+  "迎": {
+    "pinyin": "yíng",
+    "path": 7
+  },
+  "运": {
+    "pinyin": "yùn",
+    "path": 7
+  },
+  "近": {
+    "pinyin": "jìn",
+    "path": 7
+  },
+  "返": {
+    "pinyin": "fǎn",
+    "path": 7
+  },
+  "还": {
+    "pinyin": "hái huán",
+    "path": 7
+  },
+  "这": {
+    "pinyin": "zhè zhèi",
+    "path": 7
+  },
+  "进": {
+    "pinyin": "jìn",
+    "path": 7
+  },
+  "远": {
+    "pinyin": "yuǎn yuàn",
+    "path": 7
+  },
+  "违": {
+    "pinyin": "wéi",
+    "path": 7
+  },
+  "连": {
+    "pinyin": "lián",
+    "path": 7
+  },
+  "迟": {
+    "pinyin": "chí",
+    "path": 7
+  },
+  "迫": {
+    "pinyin": "pò pǎi",
+    "path": 8
+  },
+  "述": {
+    "pinyin": "shù",
+    "path": 8
+  },
+  "迷": {
+    "pinyin": "mí",
+    "path": 9
+  },
+  "迹": {
+    "pinyin": "jì",
+    "path": 9
+  },
+  "追": {
+    "pinyin": "zhuī duī",
+    "path": 9
+  },
+  "退": {
+    "pinyin": "tuì",
+    "path": 9
+  },
+  "送": {
+    "pinyin": "sòng",
+    "path": 9
+  },
+  "适": {
+    "pinyin": "shì kuò",
+    "path": 9
+  },
+  "逃": {
+    "pinyin": "táo",
+    "path": 9
+  },
+  "逆": {
+    "pinyin": "nì",
+    "path": 9
+  },
+  "选": {
+    "pinyin": "xuǎn",
+    "path": 9
+  },
+  "逊": {
+    "pinyin": "xùn",
+    "path": 9
+  },
+  "透": {
+    "pinyin": "tòu",
+    "path": 10
+  },
+  "逐": {
+    "pinyin": "zhú",
+    "path": 10
+  },
+  "递": {
+    "pinyin": "dì",
+    "path": 10
+  },
+  "途": {
+    "pinyin": "tú",
+    "path": 10
+  },
+  "逗": {
+    "pinyin": "dòu",
+    "path": 10
+  },
+  "通": {
+    "pinyin": "tōng tòng",
+    "path": 10
+  },
+  "逛": {
+    "pinyin": "guàng",
+    "path": 10
+  },
+  "逝": {
+    "pinyin": "shì",
+    "path": 10
+  },
+  "逞": {
+    "pinyin": "chěng",
+    "path": 10
+  },
+  "速": {
+    "pinyin": "sù",
+    "path": 10
+  },
+  "造": {
+    "pinyin": "zào",
+    "path": 10
+  },
+  "逢": {
+    "pinyin": "féng",
+    "path": 10
+  },
+  "逮": {
+    "pinyin": "dǎi dài",
+    "path": 11
+  },
+  "逸": {
+    "pinyin": "yì",
+    "path": 11
+  },
+  "逻": {
+    "pinyin": "luó",
+    "path": 11
+  },
+  "逼": {
+    "pinyin": "bī",
+    "path": 12
+  },
+  "逾": {
+    "pinyin": "yú",
+    "path": 12
+  },
+  "遂": {
+    "pinyin": "suì suí",
+    "path": 12
+  },
+  "遇": {
+    "pinyin": "yù",
+    "path": 12
+  },
+  "遍": {
+    "pinyin": "biàn",
+    "path": 12
+  },
+  "遏": {
+    "pinyin": "è",
+    "path": 12
+  },
+  "道": {
+    "pinyin": "dào",
+    "path": 12
+  },
+  "遗": {
+    "pinyin": "yí wèi",
+    "path": 12
+  },
+  "遣": {
+    "pinyin": "qiǎn",
+    "path": 13
+  },
+  "遥": {
+    "pinyin": "yáo",
+    "path": 13
+  },
+  "遭": {
+    "pinyin": "zāo",
+    "path": 14
+  },
+  "遮": {
+    "pinyin": "zhē",
+    "path": 14
+  },
+  "遵": {
+    "pinyin": "zūn",
+    "path": 15
+  },
+  "避": {
+    "pinyin": "bì",
+    "path": 16
+  },
+  "邀": {
+    "pinyin": "yāo",
+    "path": 16
+  },
+  "邑": {
+    "pinyin": "yì",
+    "path": 7
+  },
+  "邓": {
+    "pinyin": "dèng",
+    "path": 4
+  },
+  "邢": {
+    "pinyin": "xíng",
+    "path": 6
+  },
+  "那": {
+    "pinyin": "nà nèi nā",
+    "path": 6
+  },
+  "邦": {
+    "pinyin": "bāng",
+    "path": 6
+  },
+  "邪": {
+    "pinyin": "xié yé yá yú xú",
+    "path": 6
+  },
+  "邮": {
+    "pinyin": "yóu",
+    "path": 7
+  },
+  "邻": {
+    "pinyin": "lín",
+    "path": 7
+  },
+  "郁": {
+    "pinyin": "yù",
+    "path": 8
+  },
+  "郊": {
+    "pinyin": "jiāo",
+    "path": 8
+  },
+  "郎": {
+    "pinyin": "láng làng",
+    "path": 8
+  },
+  "郑": {
+    "pinyin": "zhèng",
+    "path": 8
+  },
+  "部": {
+    "pinyin": "bù",
+    "path": 10
+  },
+  "郭": {
+    "pinyin": "guō",
+    "path": 10
+  },
+  "都": {
+    "pinyin": "dōu dū",
+    "path": 10
+  },
+  "鄙": {
+    "pinyin": "bǐ",
+    "path": 13
+  },
+  "酌": {
+    "pinyin": "zhuó",
+    "path": 10
+  },
+  "配": {
+    "pinyin": "pèi",
+    "path": 10
+  },
+  "酒": {
+    "pinyin": "jiǔ",
+    "path": 10
+  },
+  "酗": {
+    "pinyin": "xù",
+    "path": 11
+  },
+  "酝": {
+    "pinyin": "yùn",
+    "path": 11
+  },
+  "酣": {
+    "pinyin": "hān",
+    "path": 12
+  },
+  "酥": {
+    "pinyin": "sū",
+    "path": 12
+  },
+  "酪": {
+    "pinyin": "lào",
+    "path": 13
+  },
+  "酬": {
+    "pinyin": "chóu",
+    "path": 13
+  },
+  "酱": {
+    "pinyin": "jiàng",
+    "path": 13
+  },
+  "酵": {
+    "pinyin": "jiào",
+    "path": 14
+  },
+  "酷": {
+    "pinyin": "kù",
+    "path": 14
+  },
+  "酸": {
+    "pinyin": "suān",
+    "path": 14
+  },
+  "酿": {
+    "pinyin": "niàng",
+    "path": 14
+  },
+  "醇": {
+    "pinyin": "chún",
+    "path": 15
+  },
+  "醉": {
+    "pinyin": "zuì",
+    "path": 15
+  },
+  "醋": {
+    "pinyin": "cù",
+    "path": 15
+  },
+  "醒": {
+    "pinyin": "xǐng",
+    "path": 16
+  },
+  "采": {
+    "pinyin": "cǎi cài",
+    "path": 8
+  },
+  "释": {
+    "pinyin": "shì",
+    "path": 12
+  },
+  "里": {
+    "pinyin": "lǐ li",
+    "path": 7
+  },
+  "重": {
+    "pinyin": "zhòng chóng",
+    "path": 9
+  },
+  "野": {
+    "pinyin": "yě",
+    "path": 11
+  },
+  "量": {
+    "pinyin": "liàng liáng",
+    "path": 12
+  },
+  "金": {
+    "pinyin": "jīn",
+    "path": 8
+  },
+  "鉴": {
+    "pinyin": "jiàn",
+    "path": 13
+  },
+  "针": {
+    "pinyin": "zhēn",
+    "path": 7
+  },
+  "钉": {
+    "pinyin": "dīng dìng",
+    "path": 7
+  },
+  "钓": {
+    "pinyin": "diào",
+    "path": 8
+  },
+  "钙": {
+    "pinyin": "gài",
+    "path": 9
+  },
+  "钝": {
+    "pinyin": "dùn",
+    "path": 9
+  },
+  "钞": {
+    "pinyin": "chāo",
+    "path": 9
+  },
+  "钟": {
+    "pinyin": "zhōng",
+    "path": 9
+  },
+  "钠": {
+    "pinyin": "nà",
+    "path": 9
+  },
+  "钢": {
+    "pinyin": "gāng gàng",
+    "path": 9
+  },
+  "钥": {
+    "pinyin": "yuè yào",
+    "path": 9
+  },
+  "钦": {
+    "pinyin": "qīn",
+    "path": 9
+  },
+  "钧": {
+    "pinyin": "jūn",
+    "path": 9
+  },
+  "钩": {
+    "pinyin": "gōu",
+    "path": 9
+  },
+  "钮": {
+    "pinyin": "niǔ",
+    "path": 9
+  },
+  "钱": {
+    "pinyin": "qián",
+    "path": 10
+  },
+  "钳": {
+    "pinyin": "qián",
+    "path": 10
+  },
+  "钻": {
+    "pinyin": "zuàn zuān",
+    "path": 10
+  },
+  "钾": {
+    "pinyin": "jiǎ",
+    "path": 10
+  },
+  "铁": {
+    "pinyin": "tiě",
+    "path": 10
+  },
+  "铃": {
+    "pinyin": "líng",
+    "path": 10
+  },
+  "铅": {
+    "pinyin": "qiān yán",
+    "path": 10
+  },
+  "铆": {
+    "pinyin": "mǎo",
+    "path": 10
+  },
+  "铐": {
+    "pinyin": "kào",
+    "path": 11
+  },
+  "铛": {
+    "pinyin": "chēng dāng",
+    "path": 11
+  },
+  "铜": {
+    "pinyin": "tóng",
+    "path": 11
+  },
+  "铝": {
+    "pinyin": "lǚ",
+    "path": 11
+  },
+  "铡": {
+    "pinyin": "zhá",
+    "path": 11
+  },
+  "铣": {
+    "pinyin": "xǐ xiǎn",
+    "path": 11
+  },
+  "铭": {
+    "pinyin": "míng",
+    "path": 11
+  },
+  "铲": {
+    "pinyin": "chǎn",
+    "path": 11
+  },
+  "银": {
+    "pinyin": "yín",
+    "path": 11
+  },
+  "铸": {
+    "pinyin": "zhù",
+    "path": 12
+  },
+  "铺": {
+    "pinyin": "pù pū",
+    "path": 12
+  },
+  "链": {
+    "pinyin": "liàn",
+    "path": 12
+  },
+  "销": {
+    "pinyin": "xiāo",
+    "path": 12
+  },
+  "锁": {
+    "pinyin": "suǒ",
+    "path": 12
+  },
+  "锄": {
+    "pinyin": "chú",
+    "path": 12
+  },
+  "锅": {
+    "pinyin": "guō",
+    "path": 12
+  },
+  "锈": {
+    "pinyin": "xiù",
+    "path": 12
+  },
+  "锉": {
+    "pinyin": "cuò",
+    "path": 12
+  },
+  "锋": {
+    "pinyin": "fēng",
+    "path": 12
+  },
+  "锌": {
+    "pinyin": "xīn",
+    "path": 12
+  },
+  "锐": {
+    "pinyin": "ruì",
+    "path": 12
+  },
+  "错": {
+    "pinyin": "cuò",
+    "path": 13
+  },
+  "锚": {
+    "pinyin": "máo",
+    "path": 13
+  },
+  "锡": {
+    "pinyin": "xī",
+    "path": 13
+  },
+  "锣": {
+    "pinyin": "luó",
+    "path": 13
+  },
+  "锤": {
+    "pinyin": "chuí",
+    "path": 13
+  },
+  "锥": {
+    "pinyin": "zhuī",
+    "path": 13
+  },
+  "锦": {
+    "pinyin": "jǐn",
+    "path": 13
+  },
+  "锨": {
+    "pinyin": "xiān",
+    "path": 13
+  },
+  "锭": {
+    "pinyin": "dìng",
+    "path": 13
+  },
+  "键": {
+    "pinyin": "jiàn",
+    "path": 13
+  },
+  "锯": {
+    "pinyin": "jù jū",
+    "path": 13
+  },
+  "锰": {
+    "pinyin": "měng",
+    "path": 13
+  },
+  "锹": {
+    "pinyin": "qiāo",
+    "path": 14
+  },
+  "锻": {
+    "pinyin": "duàn",
+    "path": 14
+  },
+  "镀": {
+    "pinyin": "dù",
+    "path": 14
+  },
+  "镇": {
+    "pinyin": "zhèn",
+    "path": 15
+  },
+  "镊": {
+    "pinyin": "niè",
+    "path": 15
+  },
+  "镐": {
+    "pinyin": "hào gǎo",
+    "path": 15
+  },
+  "镜": {
+    "pinyin": "jìng",
+    "path": 16
+  },
+  "镣": {
+    "pinyin": "liào",
+    "path": 17
+  },
+  "镰": {
+    "pinyin": "lián",
+    "path": 18
+  },
+  "镶": {
+    "pinyin": "xiāng",
+    "path": 22
+  },
+  "长": {
+    "pinyin": "cháng zhǎng",
+    "path": 4
+  },
+  "门": {
+    "pinyin": "mén",
+    "path": 3
+  },
+  "闪": {
+    "pinyin": "shǎn",
+    "path": 5
+  },
+  "闭": {
+    "pinyin": "bì",
+    "path": 6
+  },
+  "问": {
+    "pinyin": "wèn",
+    "path": 6
+  },
+  "闯": {
+    "pinyin": "chuǎng",
+    "path": 6
+  },
+  "闰": {
+    "pinyin": "rùn",
+    "path": 7
+  },
+  "闲": {
+    "pinyin": "xián",
+    "path": 7
+  },
+  "间": {
+    "pinyin": "jiān jiàn",
+    "path": 7
+  },
+  "闷": {
+    "pinyin": "mèn mēn",
+    "path": 7
+  },
+  "闸": {
+    "pinyin": "zhá",
+    "path": 8
+  },
+  "闹": {
+    "pinyin": "nào",
+    "path": 8
+  },
+  "闺": {
+    "pinyin": "guī",
+    "path": 9
+  },
+  "闻": {
+    "pinyin": "wén",
+    "path": 9
+  },
+  "闽": {
+    "pinyin": "mǐn",
+    "path": 9
+  },
+  "阀": {
+    "pinyin": "fá",
+    "path": 9
+  },
+  "阁": {
+    "pinyin": "gé",
+    "path": 9
+  },
+  "阅": {
+    "pinyin": "yuè",
+    "path": 10
+  },
+  "阎": {
+    "pinyin": "yán",
+    "path": 11
+  },
+  "阐": {
+    "pinyin": "chǎn",
+    "path": 11
+  },
+  "阔": {
+    "pinyin": "kuò",
+    "path": 12
+  },
+  "阙": {
+    "pinyin": "quē què",
+    "path": 13
+  },
+  "队": {
+    "pinyin": "duì",
+    "path": 4
+  },
+  "阱": {
+    "pinyin": "jǐng",
+    "path": 6
+  },
+  "防": {
+    "pinyin": "fáng",
+    "path": 6
+  },
+  "阳": {
+    "pinyin": "yáng",
+    "path": 6
+  },
+  "阴": {
+    "pinyin": "yīn",
+    "path": 6
+  },
+  "阵": {
+    "pinyin": "zhèn",
+    "path": 6
+  },
+  "阶": {
+    "pinyin": "jiē",
+    "path": 6
+  },
+  "阻": {
+    "pinyin": "zǔ",
+    "path": 7
+  },
+  "阿": {
+    "pinyin": "ā ē a",
+    "path": 7
+  },
+  "附": {
+    "pinyin": "fù",
+    "path": 7
+  },
+  "际": {
+    "pinyin": "jì",
+    "path": 7
+  },
+  "陆": {
+    "pinyin": "lù liù",
+    "path": 7
+  },
+  "陈": {
+    "pinyin": "chén",
+    "path": 7
+  },
+  "陋": {
+    "pinyin": "lòu",
+    "path": 8
+  },
+  "陌": {
+    "pinyin": "mò",
+    "path": 8
+  },
+  "降": {
+    "pinyin": "jiàng xiáng",
+    "path": 8
+  },
+  "限": {
+    "pinyin": "xiàn",
+    "path": 8
+  },
+  "陕": {
+    "pinyin": "shǎn",
+    "path": 8
+  },
+  "陡": {
+    "pinyin": "dǒu",
+    "path": 9
+  },
+  "院": {
+    "pinyin": "yuàn",
+    "path": 9
+  },
+  "除": {
+    "pinyin": "chú",
+    "path": 9
+  },
+  "陨": {
+    "pinyin": "yǔn",
+    "path": 9
+  },
+  "险": {
+    "pinyin": "xiǎn",
+    "path": 9
+  },
+  "陪": {
+    "pinyin": "péi",
+    "path": 10
+  },
+  "陵": {
+    "pinyin": "líng",
+    "path": 10
+  },
+  "陶": {
+    "pinyin": "táo yáo",
+    "path": 10
+  },
+  "陷": {
+    "pinyin": "xiàn",
+    "path": 10
+  },
+  "隅": {
+    "pinyin": "yú",
+    "path": 11
+  },
+  "隆": {
+    "pinyin": "lóng lōng",
+    "path": 11
+  },
+  "随": {
+    "pinyin": "suí",
+    "path": 11
+  },
+  "隐": {
+    "pinyin": "yǐn yìn",
+    "path": 11
+  },
+  "隔": {
+    "pinyin": "gé",
+    "path": 12
+  },
+  "隘": {
+    "pinyin": "ài",
+    "path": 12
+  },
+  "隙": {
+    "pinyin": "xì",
+    "path": 12
+  },
+  "障": {
+    "pinyin": "zhàng",
+    "path": 13
+  },
+  "隧": {
+    "pinyin": "suì",
+    "path": 14
+  },
+  "隶": {
+    "pinyin": "lì",
+    "path": 8
+  },
+  "难": {
+    "pinyin": "nán nàn nuó",
+    "path": 10
+  },
+  "雀": {
+    "pinyin": "què qiǎo qiāo",
+    "path": 11
+  },
+  "雁": {
+    "pinyin": "yàn",
+    "path": 12
+  },
+  "雄": {
+    "pinyin": "xióng",
+    "path": 12
+  },
+  "雅": {
+    "pinyin": "yǎ yā",
+    "path": 12
+  },
+  "集": {
+    "pinyin": "jí",
+    "path": 12
+  },
+  "雇": {
+    "pinyin": "gù",
+    "path": 12
+  },
+  "雌": {
+    "pinyin": "cí",
+    "path": 14
+  },
+  "雏": {
+    "pinyin": "chú",
+    "path": 13
+  },
+  "雕": {
+    "pinyin": "diāo",
+    "path": 16
+  },
+  "雨": {
+    "pinyin": "yǔ yù",
+    "path": 8
+  },
+  "雪": {
+    "pinyin": "xuě",
+    "path": 11
+  },
+  "雳": {
+    "pinyin": "lì",
+    "path": 12
+  },
+  "零": {
+    "pinyin": "líng",
+    "path": 13
+  },
+  "雷": {
+    "pinyin": "léi",
+    "path": 13
+  },
+  "雹": {
+    "pinyin": "báo",
+    "path": 13
+  },
+  "雾": {
+    "pinyin": "wù",
+    "path": 13
+  },
+  "需": {
+    "pinyin": "xū",
+    "path": 14
+  },
+  "震": {
+    "pinyin": "zhèn",
+    "path": 15
+  },
+  "霉": {
+    "pinyin": "méi",
+    "path": 15
+  },
+  "霍": {
+    "pinyin": "huò",
+    "path": 16
+  },
+  "霎": {
+    "pinyin": "shà",
+    "path": 16
+  },
+  "霜": {
+    "pinyin": "shuāng",
+    "path": 17
+  },
+  "霞": {
+    "pinyin": "xiá",
+    "path": 17
+  },
+  "露": {
+    "pinyin": "lù lòu",
+    "path": 21
+  },
+  "霸": {
+    "pinyin": "bà",
+    "path": 21
+  },
+  "霹": {
+    "pinyin": "pī",
+    "path": 21
+  },
+  "青": {
+    "pinyin": "qīng",
+    "path": 8
+  },
+  "靖": {
+    "pinyin": "jìng",
+    "path": 13
+  },
+  "静": {
+    "pinyin": "jìng",
+    "path": 14
+  },
+  "非": {
+    "pinyin": "fēi",
+    "path": 8
+  },
+  "靠": {
+    "pinyin": "kào",
+    "path": 15
+  },
+  "靡": {
+    "pinyin": "mí mǐ",
+    "path": 19
+  },
+  "面": {
+    "pinyin": "miàn",
+    "path": 9
+  },
+  "革": {
+    "pinyin": "gé jí",
+    "path": 9
+  },
+  "靴": {
+    "pinyin": "xuē",
+    "path": 13
+  },
+  "靶": {
+    "pinyin": "bǎ",
+    "path": 13
+  },
+  "鞋": {
+    "pinyin": "xié",
+    "path": 15
+  },
+  "鞍": {
+    "pinyin": "ān",
+    "path": 15
+  },
+  "鞠": {
+    "pinyin": "jū",
+    "path": 17
+  },
+  "鞭": {
+    "pinyin": "biān",
+    "path": 18
+  },
+  "韧": {
+    "pinyin": "rèn",
+    "path": 7
+  },
+  "韩": {
+    "pinyin": "hán",
+    "path": 12
+  },
+  "韭": {
+    "pinyin": "jiǔ",
+    "path": 9
+  },
+  "音": {
+    "pinyin": "yīn",
+    "path": 9
+  },
+  "韵": {
+    "pinyin": "yùn",
+    "path": 13
+  },
+  "页": {
+    "pinyin": "yè",
+    "path": 6
+  },
+  "顶": {
+    "pinyin": "dǐng",
+    "path": 8
+  },
+  "顷": {
+    "pinyin": "qǐng",
+    "path": 8
+  },
+  "项": {
+    "pinyin": "xiàng",
+    "path": 9
+  },
+  "顺": {
+    "pinyin": "shùn",
+    "path": 9
+  },
+  "须": {
+    "pinyin": "xū",
+    "path": 9
+  },
+  "顽": {
+    "pinyin": "wán",
+    "path": 10
+  },
+  "顾": {
+    "pinyin": "gù",
+    "path": 10
+  },
+  "顿": {
+    "pinyin": "dùn dú",
+    "path": 10
+  },
+  "颁": {
+    "pinyin": "bān",
+    "path": 10
+  },
+  "颂": {
+    "pinyin": "sòng",
+    "path": 10
+  },
+  "预": {
+    "pinyin": "yù",
+    "path": 10
+  },
+  "颅": {
+    "pinyin": "lú",
+    "path": 11
+  },
+  "领": {
+    "pinyin": "lǐng",
+    "path": 11
+  },
+  "颇": {
+    "pinyin": "pō",
+    "path": 11
+  },
+  "颈": {
+    "pinyin": "jǐng gěng",
+    "path": 11
+  },
+  "颊": {
+    "pinyin": "jiá",
+    "path": 12
+  },
+  "频": {
+    "pinyin": "pín bīn",
+    "path": 13
+  },
+  "颓": {
+    "pinyin": "tuí",
+    "path": 13
+  },
+  "颖": {
+    "pinyin": "yǐng",
+    "path": 13
+  },
+  "颗": {
+    "pinyin": "kē",
+    "path": 14
+  },
+  "题": {
+    "pinyin": "tí",
+    "path": 15
+  },
+  "颜": {
+    "pinyin": "yán",
+    "path": 15
+  },
+  "额": {
+    "pinyin": "é",
+    "path": 15
+  },
+  "颠": {
+    "pinyin": "diān",
+    "path": 16
+  },
+  "颤": {
+    "pinyin": "chàn zhàn",
+    "path": 19
+  },
+  "风": {
+    "pinyin": "fēng fěng",
+    "path": 4
+  },
+  "飒": {
+    "pinyin": "sà",
+    "path": 9
+  },
+  "飘": {
+    "pinyin": "piāo",
+    "path": 15
+  },
+  "飞": {
+    "pinyin": "fēi",
+    "path": 3
+  },
+  "食": {
+    "pinyin": "shí sì yì",
+    "path": 9
+  },
+  "餐": {
+    "pinyin": "cān",
+    "path": 16
+  },
+  "饥": {
+    "pinyin": "jī",
+    "path": 5
+  },
+  "饭": {
+    "pinyin": "fàn",
+    "path": 7
+  },
+  "饮": {
+    "pinyin": "yǐn yìn",
+    "path": 7
+  },
+  "饰": {
+    "pinyin": "shì",
+    "path": 8
+  },
+  "饱": {
+    "pinyin": "bǎo",
+    "path": 8
+  },
+  "饲": {
+    "pinyin": "sì",
+    "path": 8
+  },
+  "饵": {
+    "pinyin": "ěr",
+    "path": 9
+  },
+  "饶": {
+    "pinyin": "ráo",
+    "path": 9
+  },
+  "饺": {
+    "pinyin": "jiǎo",
+    "path": 9
+  },
+  "饼": {
+    "pinyin": "bǐng",
+    "path": 9
+  },
+  "饿": {
+    "pinyin": "è",
+    "path": 10
+  },
+  "馁": {
+    "pinyin": "něi",
+    "path": 10
+  },
+  "馅": {
+    "pinyin": "xiàn",
+    "path": 11
+  },
+  "馆": {
+    "pinyin": "guǎn",
+    "path": 11
+  },
+  "馋": {
+    "pinyin": "chán",
+    "path": 12
+  },
+  "馍": {
+    "pinyin": "mó",
+    "path": 13
+  },
+  "馏": {
+    "pinyin": "liú liù",
+    "path": 13
+  },
+  "馒": {
+    "pinyin": "mán",
+    "path": 14
+  },
+  "首": {
+    "pinyin": "shǒu",
+    "path": 9
+  },
+  "香": {
+    "pinyin": "xiāng",
+    "path": 9
+  },
+  "马": {
+    "pinyin": "mǎ",
+    "path": 3
+  },
+  "驮": {
+    "pinyin": "tuó duò",
+    "path": 6
+  },
+  "驯": {
+    "pinyin": "xùn",
+    "path": 6
+  },
+  "驰": {
+    "pinyin": "chí",
+    "path": 6
+  },
+  "驱": {
+    "pinyin": "qū",
+    "path": 7
+  },
+  "驳": {
+    "pinyin": "bó",
+    "path": 7
+  },
+  "驴": {
+    "pinyin": "lǘ",
+    "path": 7
+  },
+  "驶": {
+    "pinyin": "shǐ",
+    "path": 8
+  },
+  "驹": {
+    "pinyin": "jū",
+    "path": 8
+  },
+  "驻": {
+    "pinyin": "zhù",
+    "path": 8
+  },
+  "驼": {
+    "pinyin": "tuó",
+    "path": 8
+  },
+  "驾": {
+    "pinyin": "jià",
+    "path": 8
+  },
+  "骂": {
+    "pinyin": "mà",
+    "path": 9
+  },
+  "骄": {
+    "pinyin": "jiāo",
+    "path": 9
+  },
+  "骆": {
+    "pinyin": "luò",
+    "path": 9
+  },
+  "骇": {
+    "pinyin": "hài",
+    "path": 9
+  },
+  "验": {
+    "pinyin": "yàn",
+    "path": 10
+  },
+  "骏": {
+    "pinyin": "jùn",
+    "path": 10
+  },
+  "骑": {
+    "pinyin": "qí",
+    "path": 11
+  },
+  "骗": {
+    "pinyin": "piàn",
+    "path": 12
+  },
+  "骚": {
+    "pinyin": "sāo sǎo",
+    "path": 12
+  },
+  "骡": {
+    "pinyin": "luó",
+    "path": 14
+  },
+  "骤": {
+    "pinyin": "zhòu",
+    "path": 17
+  },
+  "骨": {
+    "pinyin": "gǔ gū",
+    "path": 9
+  },
+  "髓": {
+    "pinyin": "suǐ",
+    "path": 21
+  },
+  "高": {
+    "pinyin": "gāo",
+    "path": 10
+  },
+  "鬓": {
+    "pinyin": "bìn",
+    "path": 20
+  },
+  "鬼": {
+    "pinyin": "guǐ",
+    "path": 9
+  },
+  "魁": {
+    "pinyin": "kuí",
+    "path": 13
+  },
+  "魂": {
+    "pinyin": "hún",
+    "path": 13
+  },
+  "魄": {
+    "pinyin": "pò",
+    "path": 14
+  },
+  "魏": {
+    "pinyin": "wèi",
+    "path": 17
+  },
+  "魔": {
+    "pinyin": "mó",
+    "path": 20
+  },
+  "鱼": {
+    "pinyin": "yú",
+    "path": 8
+  },
+  "鲁": {
+    "pinyin": "lǔ",
+    "path": 12
+  },
+  "鲜": {
+    "pinyin": "xiān xiǎn",
+    "path": 14
+  },
+  "鲤": {
+    "pinyin": "lǐ",
+    "path": 15
+  },
+  "鲫": {
+    "pinyin": "jì",
+    "path": 15
+  },
+  "鲸": {
+    "pinyin": "jīng",
+    "path": 16
+  },
+  "鳄": {
+    "pinyin": "è",
+    "path": 17
+  },
+  "鳍": {
+    "pinyin": "qí",
+    "path": 18
+  },
+  "鳖": {
+    "pinyin": "biē",
+    "path": 19
+  },
+  "鳞": {
+    "pinyin": "lín",
+    "path": 20
+  },
+  "鸟": {
+    "pinyin": "niǎo",
+    "path": 5
+  },
+  "鸠": {
+    "pinyin": "jiū",
+    "path": 7
+  },
+  "鸡": {
+    "pinyin": "jī",
+    "path": 7
+  },
+  "鸣": {
+    "pinyin": "míng",
+    "path": 8
+  },
+  "鸥": {
+    "pinyin": "ōu",
+    "path": 9
+  },
+  "鸦": {
+    "pinyin": "yā",
+    "path": 9
+  },
+  "鸭": {
+    "pinyin": "yā",
+    "path": 10
+  },
+  "鸯": {
+    "pinyin": "yāng",
+    "path": 10
+  },
+  "鸳": {
+    "pinyin": "yuān",
+    "path": 10
+  },
+  "鸵": {
+    "pinyin": "tuó",
+    "path": 10
+  },
+  "鸽": {
+    "pinyin": "gē",
+    "path": 11
+  },
+  "鸿": {
+    "pinyin": "hóng",
+    "path": 11
+  },
+  "鹃": {
+    "pinyin": "juān",
+    "path": 12
+  },
+  "鹅": {
+    "pinyin": "é",
+    "path": 12
+  },
+  "鹉": {
+    "pinyin": "wǔ",
+    "path": 13
+  },
+  "鹊": {
+    "pinyin": "què",
+    "path": 13
+  },
+  "鹏": {
+    "pinyin": "péng",
+    "path": 13
+  },
+  "鹤": {
+    "pinyin": "hè",
+    "path": 15
+  },
+  "鹦": {
+    "pinyin": "yīng",
+    "path": 16
+  },
+  "鹰": {
+    "pinyin": "yīng",
+    "path": 18
+  },
+  "鹿": {
+    "pinyin": "lù",
+    "path": 11
+  },
+  "麦": {
+    "pinyin": "mài",
+    "path": 7
+  },
+  "麸": {
+    "pinyin": "fū",
+    "path": 11
+  },
+  "麻": {
+    "pinyin": "má",
+    "path": 11
+  },
+  "黄": {
+    "pinyin": "huáng",
+    "path": 11
+  },
+  "黍": {
+    "pinyin": "shǔ",
+    "path": 12
+  },
+  "黎": {
+    "pinyin": "lí",
+    "path": 15
+  },
+  "黑": {
+    "pinyin": "hēi",
+    "path": 12
+  },
+  "黔": {
+    "pinyin": "qián",
+    "path": 16
+  },
+  "默": {
+    "pinyin": "mò",
+    "path": 16
+  },
+  "鼎": {
+    "pinyin": "dǐng",
+    "path": 12
+  },
+  "鼓": {
+    "pinyin": "gǔ",
+    "path": 13
+  },
+  "鼠": {
+    "pinyin": "shǔ",
+    "path": 13
+  },
+  "鼻": {
+    "pinyin": "bí",
+    "path": 14
+  },
+  "齐": {
+    "pinyin": "qí jì zī zhāi",
+    "path": 6
+  },
+  "齿": {
+    "pinyin": "chǐ",
+    "path": 8
+  },
+  "龄": {
+    "pinyin": "líng",
+    "path": 13
+  },
+  "龙": {
+    "pinyin": "lóng",
+    "path": 5
+  },
+  "龟": {
+    "pinyin": "guī jūn qiū",
+    "path": 7
+  }
+}

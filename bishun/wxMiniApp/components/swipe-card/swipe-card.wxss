@@ -1,0 +1,21 @@
+/* components/swipe-card/swipe-card.wxss */
+.word-box {
+  width: 100%;
+  height: 75vh;
+  overflow: auto;
+}
+.word-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.word-img {
+  width: 100px;
+  height: 100px;
+  display: block;
+}
+.word-path{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
